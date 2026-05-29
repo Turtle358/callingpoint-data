@@ -33,5 +33,6 @@
   {"code": "IL", "name": "Island Line - SWR", "colour": "#243D8F", "manager": "national"},
   {"code": "WM", "name": "West Midlands Railway", "colour": "#FF8200", "manager": "national"},
   {"code": "ZZ", "name": "LNR & WMR", "colour": "#FF8200", "manager": "national"},
-  {"code": "ES", "name": "Eurostar", "colour": "#002055", "manager": "eurostar"}
+  {"code": "ES", "name": "Eurostar", "colour": "#002055", "manager": "eurostar"},
+  {"code": "ZS", "name": "Test toc", "colour": "#FFFFFF", "manager": "gbr"}
 ]
