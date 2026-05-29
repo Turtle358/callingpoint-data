@@ -34,4 +34,5 @@
   {"code": "WM", "name": "West Midlands Railway", "colour": "#FF8200", "manager": "national"},
   {"code": "ZZ", "name": "LNR & WMR", "colour": "#FF8200", "manager": "national"},
   {"code": "ES", "name": "Eurostar", "colour": "#002055", "manager": "eurostar"}
+  {"code": "NN", "name": "Test", "colour": "#000000", "manager": "gbr"}
 ]
