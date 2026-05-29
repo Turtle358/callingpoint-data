@@ -1,6 +1,6 @@
 [
   {"code": "TL", "name": "Thameslink", "colour": "#FF5AA5", "manager": "national"},
-  {"code": "SN", "name": "Southern", "colour": "#8CC63F", "manager": "gbr"},
+  {"code": "SN", "name": "Southern", "colour": "#8CC63F", "manager": "national"},
   {"code": "GN", "name": "Great Northern", "colour": "#0099FF", "manager": "national"},
   {"code": "GX", "name": "Gatwick Express", "colour": "#EB1C24", "manager": "national"},
   {"code": "SW", "name": "South Western Railway", "colour": "#243D8F", "manager": "national"},
