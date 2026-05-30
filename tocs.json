@@ -3,7 +3,7 @@
   {"code": "SN", "name": "Southern", "colour": "#8CC63F", "manager": "gbr"},
   {"code": "GN", "name": "Great Northern", "colour": "#0099FF", "manager": "gbr"},
   {"code": "GX", "name": "Gatwick Express", "colour": "#EB1C24", "manager": "gbr"},
-  {"code": "SW", "name": "South Western Railway", "colour": "#243D8F", "manager": "national"},
+  {"code": "SW", "name": "South Western Railway", "colour": "#243D8F", "manager": "gbr"},
   {"code": "SE", "name": "Southeastern", "colour": "#00AFEF", "manager": "gbr"},
   {"code": "GW", "name": "Great Western Railway", "colour": "#0A493E", "manager": "national"},
   {"code": "VT", "name": "Avanti West Coast", "colour": "#004354", "manager": "national"},
