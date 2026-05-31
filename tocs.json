@@ -26,6 +26,7 @@
   {"code": "GC", "name": "Grand Central", "colour": "#000000", "manager": "open-access"},
   {"code": "LF", "name": "Grand Central - North West", "colour": "#000000", "manager": "open-access"},
   {"code": "LD", "name": "Lumo", "colour": "#00B2E2", "manager": "open-access"},
+  {"code": "ZX", "name": "Lumo Stirling", "colour": "#00B2E2", "manager": "open-access"},
   {"code": "SX", "name": "Stansted Express", "colour": "#E4002B", "manager": "national"},
   {"code": "ZN", "name": "London Underground", "colour": "#0019A8", "manager": "tfl"},
   {"code": "HT", "name": "Hull Trains", "colour": "#DE005C", "manager": "open-access"},
