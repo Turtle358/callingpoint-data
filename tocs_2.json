@@ -33,6 +33,6 @@
   {"code": "LN", "name": "London Northwestern Railway", "colour": "#00A91C", "manager": "gbr", "shown":  1},
   {"code": "IL", "name": "Island Line - SWR", "colour": "#243D8F", "manager": "gbr", "shown":  1},
   {"code": "WM", "name": "West Midlands Railway", "colour": "#FF8200", "manager": "gbr", "shown":  1},
-  {"code": "ZZ", "name": "LNR & WMR", "colour": "#FF8200", "manager": "gbr", "shown":  1},
+  {"code": "ZZ", "name": "LNR & WMR", "colour": "#FF8200", "manager": "gbr", "shown":  0},
   {"code": "ES", "name": "Eurostar", "colour": "#002055", "manager": "eurostar", "shown":  1}
 ]
