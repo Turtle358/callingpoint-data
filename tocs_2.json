@@ -7,7 +7,7 @@
   {"code": "SE", "name": "Southeastern", "colour": "#00AFEF", "manager": "gbr", "shown":  1},
   {"code": "GW", "name": "Great Western Railway", "colour": "#0A493E", "manager": "national", "shown":  1},
   {"code": "VT", "name": "Avanti West Coast", "colour": "#004354", "manager": "national", "shown":  1},
-  {"code": "GR", "name": "LNER", "colour": "#CE0F20", "manager": "gbr", "shown":  1},
+  {"code": "GR", "name": "London North Eastern Railway", "colour": "#CE0F20", "manager": "gbr", "shown":  1},
   {"code": "ZZ", "name": "London North Eastern Railway", "colour": "#CE0F20", "manager": "gbr", "shown":  0},
   {"code": "XC", "name": "CrossCountry", "colour": "#660F21", "manager": "national", "shown":  1},
   {"code": "EM", "name": "East Midlands Railway", "colour": "#4C2F48", "manager": "national", "shown":  1},
