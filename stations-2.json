@@ -1,6 +1,6 @@
 {
-  "Abbey Wood": { "crs": "ABW", "type": "national" },
-  "Aber": { "crs": "ABE", "type": "national" },
+  "Abbey Wood": { "crs": "ABW", "type": "tfl" },
+  "Aber": { "crs": "ABE", "type": "other" },
   "Abercynon": { "crs": "ACY", "type": "national" },
   "Aberdare": { "crs": "ABA", "type": "national" },
   "Aberdeen": { "crs": "ABD", "type": "national" },
