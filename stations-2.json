@@ -1,11 +1,11 @@
 {
-  "Abbey Wood 2": {
+  "Abbey Wood": {
     "crs": "ABW",
-    "type": "tfl"
+    "type": "national"
   },
   "Aber": {
     "crs": "ABE",
-    "type": "other"
+    "type": "national"
   },
   "Abercynon": {
     "crs": "ACY",
