@@ -1743,6 +1743,10 @@
     "crs": "CMB",
     "type": "national"
   },
+  "Cambridge South": {
+    "crs":"CMS",
+    "type": "national"
+  },
   "Cambuslang": {
     "crs": "CBL",
     "type": "national"
