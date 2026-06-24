@@ -5877,7 +5877,7 @@
   },
   "London Liverpool Street": {
     "crs": "LST",
-    "type": "tfl"
+    "type": "national"
   },
   "London Marylebone": {
     "crs": "MYB",
@@ -5885,7 +5885,7 @@
   },
   "London Paddington": {
     "crs": "PAD",
-    "type": "tfl"
+    "type": "national"
   },
   "London Road (Brighton)": {
     "crs": "LRB",
