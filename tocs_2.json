@@ -56,18 +56,18 @@
     "shown": 1
   },
   {
-    "code": "GR",
+    "code": "ZZ",
     "name": "LNER",
     "colour": "#CE0F20",
     "manager": "gbr",
-    "shown": 1
+    "shown": 0
   },
   {
-    "code": "ZZ",
+    "code": "GR",
     "name": "London North Eastern Railway",
-    "colour": "#006a60",
+    "colour": "#CE0F20",
     "manager": "gbr",
-    "shown": 0
+    "shown": 1
   },
   {
     "code": "XC",
@@ -219,7 +219,7 @@
   {
     "code": "LN",
     "name": "London Northwestern Railway",
-    "colour": "#00A91C",
+    "colour": "#006a60",
     "manager": "gbr",
     "shown": 1
   },
