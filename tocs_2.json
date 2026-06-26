@@ -44,7 +44,7 @@
   {
     "code": "GW",
     "name": "Great Western Railway",
-    "colour": "#0A493E",
+    "colour": "#0c251f",
     "manager": "national",
     "shown": 1
   },
@@ -65,7 +65,7 @@
   {
     "code": "ZZ",
     "name": "London North Eastern Railway",
-    "colour": "#CE0F20",
+    "colour": "#006a60",
     "manager": "gbr",
     "shown": 0
   },
@@ -149,7 +149,7 @@
   {
     "code": "XR",
     "name": "Elizabeth line",
-    "colour": "#6950A1",
+    "colour": "#7c40c0",
     "manager": "tfl",
     "shown": 1
   },
@@ -233,7 +233,7 @@
   {
     "code": "WM",
     "name": "West Midlands Railway",
-    "colour": "#FF8200",
+    "colour": "#420b56",
     "manager": "gbr",
     "shown": 1
   },
