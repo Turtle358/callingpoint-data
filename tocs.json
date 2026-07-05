@@ -49,7 +49,7 @@
   },
   {
     "code": "GW",
-    "acronym": "GWRR",
+    "acronym": "GWR",
     "name": "Great Western Railway",
     "colour": "#0A493E",
     "manager": "national",
@@ -241,7 +241,7 @@
   },
   {
     "code": "LN",
-    "acronym": "LNRR",
+    "acronym": "LNR",
     "name": "London Northwestern Railway",
     "colour": "#006a60",
     "manager": "gbr",
