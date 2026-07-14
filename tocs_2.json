@@ -1,254 +1,317 @@
 [
   {
     "code": "TL",
+    "acronym": "TLK",
     "name": "Thameslink",
     "colour": "#FF5AA5",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.thameslinkrailway.com/"
   },
   {
     "code": "SN",
+    "acronym": "SN",
     "name": "Southern",
     "colour": "#00402d",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southernrailway.com/"
   },
   {
     "code": "GN",
+    "acronym": "GN",
     "name": "Great Northern",
     "colour": "#0099FF",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.greatnorthernrail.com/"
   },
   {
     "code": "GX",
+    "acronym": "GX",
     "name": "Gatwick Express",
     "colour": "#EB1C24",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.gatwickexpress.com/"
   },
   {
     "code": "SW",
+    "acronym": "SWR",
     "name": "South Western Railway",
     "colour": "#243D8F",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southwesternrailway.com/"
   },
   {
     "code": "SE",
+    "acronym": "SE",
     "name": "Southeastern",
     "colour": "#00AFEF",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southeasternrailway.co.uk/"
   },
   {
     "code": "GW",
+    "acronym": "GWR",
     "name": "Great Western Railway",
     "colour": "#0A493E",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.gwr.com"
   },
   {
     "code": "VT",
+    "acronym": "AWC",
     "name": "Avanti West Coast",
     "colour": "#004354",
     "manager": "national",
-    "shown": 1
-  },
-  {
-    "code": "ZZ",
-    "name": "LNER",
-    "colour": "#CE0F20",
-    "manager": "gbr",
-    "shown": 0
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.avantiwestcoast.co.uk"
   },
   {
     "code": "GR",
+    "acronym": "LNER",
     "name": "London North Eastern Railway",
     "colour": "#CE0F20",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.lner.co.uk/delayrepayV2/"
   },
   {
     "code": "XC",
+    "acronym": "XC",
     "name": "CrossCountry",
     "colour": "#660F21",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.crosscountrytrains.co.uk/"
   },
   {
     "code": "EM",
+    "acronym": "EMR",
     "name": "East Midlands Railway",
     "colour": "#4C2F48",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.eastmidlandsrailway.co.uk/"
   },
   {
     "code": "CH",
+    "acronym": "CR",
     "name": "Chiltern Railways",
     "colour": "#00A8E0",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://chilternrailways.delayrepaycompensation.com/"
   },
   {
     "code": "LE",
+    "acronym": "GA",
     "name": "Greater Anglia",
     "colour": "#D70428",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/"
   },
   {
     "code": "NT",
+    "acronym": "NT",
     "name": "Northern",
     "colour": "#0F0A5C",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.northernrailway.co.uk/help-support/delay-repay"
   },
   {
     "code": "TP",
+    "acronym": "TPE",
     "name": "TransPennine Express",
     "colour": "#05B2ED",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.tpexpress.co.uk/"
   },
   {
     "code": "SR",
+    "acronym": "SR",
     "name": "ScotRail",
     "colour": "#002664",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.scotrail.co.uk/about-scotrail/our-delay-repay-guarantee"
   },
   {
     "code": "AW",
+    "acronym": "TfW",
     "name": "Transport for Wales",
     "colour": "#FF0000",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfw.wales/help-and-contact/rail/delay-repay"
   },
   {
     "code": "ME",
+    "acronym": "MR",
     "name": "Merseyrail",
     "colour": "#FFF200",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.scotrail.co.uk/srt_dr"
   },
   {
     "code": "CC",
+    "acronym": "c2c",
     "name": "c2c",
     "colour": "#B21082",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://c2c.delayrepaycompensation.com/"
   },
   {
     "code": "LO",
+    "acronym": "LO",
     "name": "London Overground",
     "colour": "#E86A10",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund"
   },
   {
     "code": "XR",
+    "acronym": "EL",
     "name": "Elizabeth line",
     "colour": "#7c40c0",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund"
   },
   {
     "code": "HX",
+    "acronym": "HEX",
     "name": "Heathrow Express",
     "colour": "#532E63",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.heathrowexpress.com/help-centre/ticket-changes-and-refunds"
   },
   {
     "code": "CS",
+    "acronym": "CS",
     "name": "Caledonian Sleeper",
     "colour": "#1A2F33",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.sleeper.scot/help-support/contact-us/"
   },
   {
     "code": "GC",
+    "acronym": "GC",
     "name": "Grand Central",
     "colour": "#000000",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add"
   },
   {
     "code": "LF",
-    "name": "Grand Central - North West",
+    "acronym": "GC",
+    "name": "Grand Central",
     "colour": "#000000",
     "manager": "open-access",
-    "shown": 1
+    "shown": 0,
+    "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add"
   },
   {
     "code": "LD",
+    "acronym": "LU",
     "name": "Lumo",
     "colour": "#00B2E2",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.lumo.co.uk/"
   },
   {
     "code": "ZX",
+    "acronym": "LU",
     "name": "Lumo Stirling",
     "colour": "#00B2E2",
     "manager": "open-access",
-    "shown": 0
+    "shown": 0,
+    "delayRepayUrl": "https://delayrepay.lumo.co.uk/"
   },
   {
     "code": "SX",
+    "acronym": "STX",
     "name": "Stansted Express",
     "colour": "#E4002B",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/"
   },
   {
     "code": "ZN",
+    "acronym": "LU",
     "name": "London Underground",
     "colour": "#0019A8",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund"
   },
   {
     "code": "HT",
+    "acronym": "HT",
     "name": "Hull Trains",
     "colour": "#DE005C",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.hulltrains.co.uk"
   },
   {
     "code": "LN",
+    "acronym": "LNR",
     "name": "London Northwestern Railway",
     "colour": "#006a60",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://londonnorthwesternrailway.delayrepaycompensation.com/index.cfm?fuseaction=Public.addclaim"
   },
   {
     "code": "IL",
+    "acronym": "IL",
     "name": "Island Line - SWR",
     "colour": "#243D8F",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southwesternrailway.com"
   },
   {
     "code": "WM",
+    "acronym": "WMR",
     "name": "West Midlands Railway",
     "colour": "#420b56",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/"
   },
   {
     "code": "ZZ",
+    "acronym": "LNW",
     "name": "LNR & WMR",
     "colour": "#FF8200",
     "manager": "gbr",
-    "shown": 0
+    "shown": 0,
+    "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/"
   },
   {
     "code": "ES",
+    "acronym": "ES",
     "name": "Eurostar",
     "colour": "#002055",
     "manager": "eurostar",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.eurostar.com/uk-en/travel-info/service-information/claiming-compensation#Train-delayed"
   }
 ]
