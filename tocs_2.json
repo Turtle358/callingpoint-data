@@ -305,7 +305,7 @@
     "shown": 1,
     "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "Delay-repay for this operator is handled by Greater Anglia."
   },
   {
     "code": "ZN",
