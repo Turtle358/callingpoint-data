@@ -10438,5 +10438,29 @@
   "Ystrad Rhondda": {
     "crs": "YSR",
     "type": "national"
-  }
+  },
+  "White Rose": {
+    "crs": "WRO",
+    "type": "national"
+  },
+  "Edginswell": {
+    "crs": "EDS",
+    "type": "national"
+  },
+  "Elland": {
+    "crs": "ELN",
+    "type": "national"
+  },
+  "Wixams": {
+    "crs": "WIX",
+    "type": "national"
+  },
+  "Pill": {
+    "crs": "PIA",
+    "type": "national"
+  },
+  "Portishead": {
+    "crs": "POH",
+    "type": "national"
+  },
 }
