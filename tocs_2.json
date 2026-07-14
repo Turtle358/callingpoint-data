@@ -191,7 +191,7 @@
     "acronym": "MR",
     "name": "Merseyrail",
     "colour": "#FFF200",
-    "manager": "national",
+    "manager": "merseytravel",
     "shown": 1,
     "delayRepayUrl": "https://www.merseyrail.org/help-support/refunds-and-compensation/",
     "delayRepayMinTime": 30,
