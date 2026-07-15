@@ -5,15 +5,15 @@
   },
   "Aber": {
     "crs": "ABE",
-    "type": "national"
+    "type": "wales"
   },
   "Abercynon": {
     "crs": "ACY",
-    "type": "national"
+    "type": "wales"
   },
   "Aberdare": {
     "crs": "ABA",
-    "type": "national"
+    "type": "wales"
   },
   "Aberdeen": {
     "crs": "ABD",
@@ -21,27 +21,27 @@
   },
   "Aberdour": {
     "crs": "AUR",
-    "type": "national"
+    "type": "scot"
   },
   "Aberdovey": {
     "crs": "AVY",
-    "type": "national"
+    "type": "wales"
   },
   "Abererch": {
     "crs": "ABH",
-    "type": "national"
+    "type": "wales"
   },
   "Abergavenny": {
     "crs": "AGV",
-    "type": "national"
+    "type": "wales"
   },
   "Abergele & Pensarn": {
     "crs": "AGL",
-    "type": "national"
+    "type": "wales"
   },
   "Aberystwyth": {
     "crs": "AYW",
-    "type": "national"
+    "type": "wales"
   },
   "Accrington": {
     "crs": "ACR",
@@ -49,15 +49,15 @@
   },
   "Achanalt": {
     "crs": "AAT",
-    "type": "national"
+    "type": "scot"
   },
   "Achnasheen": {
     "crs": "ACN",
-    "type": "national"
+    "type": "scot"
   },
   "Achnashellach": {
     "crs": "ACH",
-    "type": "national"
+    "type": "scot"
   },
   "Acklington": {
     "crs": "ACK",
@@ -89,7 +89,7 @@
   },
   "Addiewell": {
     "crs": "ADW",
-    "type": "national"
+    "type": "scot"
   },
   "Addlestone": {
     "crs": "ASN",
@@ -113,23 +113,23 @@
   },
   "Aigburth": {
     "crs": "AIG",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Ainsdale": {
     "crs": "ANS",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Aintree": {
     "crs": "AIN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Airbles": {
     "crs": "AIR",
-    "type": "national"
+    "type": "scot"
   },
   "Airdrie": {
     "crs": "ADR",
-    "type": "national"
+    "type": "scot"
   },
   "Albany Park": {
     "crs": "AYP",
@@ -165,7 +165,7 @@
   },
   "Alexandria": {
     "crs": "ALX",
-    "type": "national"
+    "type": "scot"
   },
   "Alfreton": {
     "crs": "ALF",
@@ -177,11 +177,11 @@
   },
   "Alloa": {
     "crs": "ALO",
-    "type": "national"
+    "type": "scot"
   },
   "Alness": {
     "crs": "ASS",
-    "type": "national"
+    "type": "scot"
   },
   "Alnmouth": {
     "crs": "ALM",
@@ -205,7 +205,7 @@
   },
   "Altnabreac": {
     "crs": "ABC",
-    "type": "national"
+    "type": "scot"
   },
   "Alton": {
     "crs": "AON",
@@ -233,7 +233,7 @@
   },
   "Ammanford": {
     "crs": "AMF",
-    "type": "national"
+    "type": "wales"
   },
   "Amsterdam CS": {
     "crs": "AMS",
@@ -245,7 +245,7 @@
   },
   "Anderston": {
     "crs": "AND",
-    "type": "national"
+    "type": "scot"
   },
   "Andover": {
     "crs": "ADV",
@@ -261,11 +261,11 @@
   },
   "Annan": {
     "crs": "ANN",
-    "type": "national"
+    "type": "scot"
   },
   "Anniesland": {
     "crs": "ANL",
-    "type": "national"
+    "type": "scot"
   },
   "Ansdell & Fairhaven": {
     "crs": "AFV",
@@ -297,27 +297,27 @@
   },
   "Arbroath": {
     "crs": "ARB",
-    "type": "national"
+    "type": "scot"
   },
   "Ardgay": {
     "crs": "ARD",
-    "type": "national"
+    "type": "scot"
   },
   "Ardlui": {
     "crs": "AUI",
-    "type": "national"
+    "type": "scot"
   },
   "Ardrossan Harbour": {
     "crs": "ADS",
-    "type": "national"
+    "type": "scot"
   },
   "Ardrossan South Beach": {
     "crs": "ASB",
-    "type": "national"
+    "type": "scot"
   },
   "Ardrossan Town": {
     "crs": "ADN",
-    "type": "national"
+    "type": "scot"
   },
   "Ardwick": {
     "crs": "ADK",
@@ -325,11 +325,11 @@
   },
   "Argyle Street": {
     "crs": "AGS",
-    "type": "national"
+    "type": "scot"
   },
   "Arisaig": {
     "crs": "ARG",
-    "type": "national"
+    "type": "scot"
   },
   "Arlesey": {
     "crs": "ARL",
@@ -337,7 +337,7 @@
   },
   "Armadale": {
     "crs": "ARM",
-    "type": "national"
+    "type": "scot"
   },
   "Armathwaite": {
     "crs": "AWT",
@@ -353,7 +353,7 @@
   },
   "Arrochar & Tarbet": {
     "crs": "ART",
-    "type": "national"
+    "type": "scot"
   },
   "Arundel": {
     "crs": "ARU",
@@ -457,7 +457,7 @@
   },
   "Attadale": {
     "crs": "ATT",
-    "type": "national"
+    "type": "scot"
   },
   "Attenborough": {
     "crs": "ATB",
@@ -469,7 +469,7 @@
   },
   "Auchinleck": {
     "crs": "AUK",
-    "type": "national"
+    "type": "scot"
   },
   "Audley End": {
     "crs": "AUD",
@@ -477,11 +477,11 @@
   },
   "Aughton Park": {
     "crs": "AUG",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Aviemore": {
     "crs": "AVM",
-    "type": "national"
+    "type": "scot"
   },
   "Avoncliff": {
     "crs": "AVF",
@@ -513,15 +513,15 @@
   },
   "Ayr": {
     "crs": "AYR",
-    "type": "national"
+    "type": "scot"
   },
   "Bache": {
     "crs": "BAC",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Baglan": {
     "crs": "BAJ",
-    "type": "national"
+    "type": "wales"
   },
   "Bagshot": {
     "crs": "BAG",
@@ -533,7 +533,7 @@
   },
   "Baillieston": {
     "crs": "BIO",
-    "type": "national"
+    "type": "scot"
   },
   "Balcombe": {
     "crs": "BAB",
@@ -549,11 +549,11 @@
   },
   "Balloch Central": {
     "crs": "BHC",
-    "type": "national"
+    "type": "scot"
   },
   "Balmossie": {
     "crs": "BSI",
-    "type": "national"
+    "type": "scot"
   },
   "Bamber Bridge": {
     "crs": "BMB",
@@ -565,7 +565,7 @@
   },
   "Banavie": {
     "crs": "BNV",
-    "type": "national"
+    "type": "scot"
   },
   "Banbury": {
     "crs": "BAN",
@@ -573,11 +573,11 @@
   },
   "Bangor (Gwynedd)": {
     "crs": "BNG",
-    "type": "national"
+    "type": "wales"
   },
   "Bank Hall": {
     "crs": "BAH",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Banstead": {
     "crs": "BAD",
@@ -597,7 +597,7 @@
   },
   "Bargeddie": {
     "crs": "BGI",
-    "type": "national"
+    "type": "scot"
   },
   "Bargoed": {
     "crs": "BGD",
@@ -621,7 +621,7 @@
   },
   "Barmouth": {
     "crs": "BRM",
-    "type": "national"
+    "type": "wales"
   },
   "Barnehurst": {
     "crs": "BNH",
@@ -661,11 +661,11 @@
   },
   "Barrhead": {
     "crs": "BRR",
-    "type": "national"
+    "type": "scot"
   },
   "Barrhill": {
     "crs": "BRL",
-    "type": "national"
+    "type": "scot"
   },
   "Barrow Haven": {
     "crs": "BAV",
@@ -681,15 +681,15 @@
   },
   "Barry": {
     "crs": "BRY",
-    "type": "national"
+    "type": "wales"
   },
   "Barry Docks": {
     "crs": "BYD",
-    "type": "national"
+    "type": "wales"
   },
   "Barry Island": {
     "crs": "BYI",
-    "type": "national"
+    "type": "wales"
   },
   "Barry Links": {
     "crs": "BYL",
@@ -717,7 +717,7 @@
   },
   "Bathgate": {
     "crs": "BHG",
-    "type": "national"
+    "type": "scot"
   },
   "Batley": {
     "crs": "BTL",
@@ -753,7 +753,7 @@
   },
   "Bearsden": {
     "crs": "BRN",
-    "type": "national"
+    "type": "scot"
   },
   "Bearsted": {
     "crs": "BSD",
@@ -761,7 +761,7 @@
   },
   "Beasdale": {
     "crs": "BSL",
-    "type": "national"
+    "type": "scot"
   },
   "Beaulieu Park": {
     "crs": "BPA",
@@ -773,11 +773,11 @@
   },
   "Beauly": {
     "crs": "BEL",
-    "type": "national"
+    "type": "scot"
   },
   "Bebington": {
     "crs": "BEB",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Beccles": {
     "crs": "BCC",
@@ -833,7 +833,7 @@
   },
   "Bellgrove": {
     "crs": "BLG",
-    "type": "national"
+    "type": "scot"
   },
   "Bellingham": {
     "crs": "BGM",
@@ -841,7 +841,7 @@
   },
   "Bellshill": {
     "crs": "BLH",
-    "type": "national"
+    "type": "scot"
   },
   "Belmont": {
     "crs": "BLM",
@@ -941,7 +941,7 @@
   },
   "Betws-Y-Coed": {
     "crs": "BYC",
-    "type": "national"
+    "type": "wales"
   },
   "Beverley": {
     "crs": "BEV",
@@ -973,7 +973,7 @@
   },
   "Bidston": {
     "crs": "BID",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Biggleswade": {
     "crs": "BIW",
@@ -1021,23 +1021,23 @@
   },
   "Birkdale": {
     "crs": "BDL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Birkenhead Central": {
     "crs": "BKC",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Birkenhead Hamilton Square": {
     "crs": "BKQ",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Birkenhead North": {
     "crs": "BKN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Birkenhead Park": {
     "crs": "BKP",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Birmingham International": {
     "crs": "BHI",
@@ -1061,7 +1061,7 @@
   },
   "Bishopbriggs": {
     "crs": "BBG",
-    "type": "national"
+    "type": "scot"
   },
   "Bishops Stortford": {
     "crs": "BIS",
@@ -1073,7 +1073,7 @@
   },
   "Bishopton": {
     "crs": "BPT",
-    "type": "national"
+    "type": "scot"
   },
   "Bitterne": {
     "crs": "BTE",
@@ -1117,15 +1117,15 @@
   },
   "Blaenau Ffestiniog": {
     "crs": "BFF",
-    "type": "national"
+    "type": "wales"
   },
   "Blair Atholl": {
     "crs": "BLA",
-    "type": "national"
+    "type": "scot"
   },
   "Blairhill": {
     "crs": "BAI",
-    "type": "national"
+    "type": "scot"
   },
   "Blake Street": {
     "crs": "BKT",
@@ -1137,7 +1137,7 @@
   },
   "Blantyre": {
     "crs": "BLT",
-    "type": "national"
+    "type": "scot"
   },
   "Blaydon": {
     "crs": "BLO",
@@ -1161,7 +1161,7 @@
   },
   "Blundellsands & Crosby": {
     "crs": "BLN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Blythe Bridge": {
     "crs": "BYB",
@@ -1173,7 +1173,7 @@
   },
   "Bodorgan": {
     "crs": "BOR",
-    "type": "national"
+    "type": "wales"
   },
   "Bognor Regis": {
     "crs": "BOG",
@@ -1181,7 +1181,7 @@
   },
   "Bogston": {
     "crs": "BGS",
-    "type": "national"
+    "type": "scot"
   },
   "Bolton": {
     "crs": "BON",
@@ -1205,11 +1205,11 @@
   },
   "Bootle New Strand": {
     "crs": "BNW",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Bootle Oriel Road": {
     "crs": "BOT",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Bordesley": {
     "crs": "BBS",
@@ -1221,7 +1221,7 @@
   },
   "Borth": {
     "crs": "BRH",
-    "type": "national"
+    "type": "wales"
   },
   "Bosham": {
     "crs": "BOH",
@@ -1265,7 +1265,7 @@
   },
   "Bowling": {
     "crs": "BWG",
-    "type": "national"
+    "type": "scot"
   },
   "Box Hill & Westhumble": {
     "crs": "BXW",
@@ -1321,7 +1321,7 @@
   },
   "Branchton": {
     "crs": "BCN",
-    "type": "national"
+    "type": "scot"
   },
   "Brandon": {
     "crs": "BND",
@@ -1341,7 +1341,7 @@
   },
   "Breich": {
     "crs": "BRC",
-    "type": "national"
+    "type": "scot"
   },
   "Brent Cross West": {
     "crs": "BCZ",
@@ -1361,19 +1361,19 @@
   },
   "Bridge of Allan": {
     "crs": "BEA",
-    "type": "national"
+    "type": "scot"
   },
   "Bridge of Orchy": {
     "crs": "BRO",
-    "type": "national"
+    "type": "scot"
   },
   "Bridgend": {
     "crs": "BGN",
-    "type": "national"
+    "type": "wales"
   },
   "Bridgeton": {
     "crs": "BDG",
-    "type": "national"
+    "type": "scot"
   },
   "Bridgwater": {
     "crs": "BWT",
@@ -1417,11 +1417,11 @@
   },
   "Brithdir": {
     "crs": "BHD",
-    "type": "national"
+    "type": "wales"
   },
   "Briton Ferry": {
     "crs": "BNF",
-    "type": "national"
+    "type": "wales"
   },
   "Brixton": {
     "crs": "BRX",
@@ -1457,11 +1457,11 @@
   },
   "Bromborough": {
     "crs": "BOM",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Bromborough Rake": {
     "crs": "BMR",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Bromley Cross": {
     "crs": "BMC",
@@ -1505,7 +1505,7 @@
   },
   "Brora": {
     "crs": "BRA",
-    "type": "national"
+    "type": "scot"
   },
   "Brough": {
     "crs": "BUH",
@@ -1513,7 +1513,7 @@
   },
   "Broughty Ferry": {
     "crs": "BYF",
-    "type": "national"
+    "type": "scot"
   },
   "Broxbourne": {
     "crs": "BXB",
@@ -1537,11 +1537,11 @@
   },
   "Brunstane": {
     "crs": "BSU",
-    "type": "national"
+    "type": "scot"
   },
   "Brunswick": {
     "crs": "BRW",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Bruton": {
     "crs": "BRU",
@@ -1557,7 +1557,7 @@
   },
   "Buckley": {
     "crs": "BCK",
-    "type": "national"
+    "type": "wales"
   },
   "Bucknell": {
     "crs": "BUK",
@@ -1573,7 +1573,7 @@
   },
   "Builth Road": {
     "crs": "BHR",
-    "type": "national"
+    "type": "wales"
   },
   "Bulwell": {
     "crs": "BLW",
@@ -1625,11 +1625,11 @@
   },
   "Burnside": {
     "crs": "BUI",
-    "type": "national"
+    "type": "scot"
   },
   "Burntisland": {
     "crs": "BTS",
-    "type": "national"
+    "type": "scot"
   },
   "Burscough Bridge": {
     "crs": "BCB",
@@ -1657,7 +1657,7 @@
   },
   "Busby": {
     "crs": "BUS",
-    "type": "national"
+    "type": "scot"
   },
   "Bush Hill Park": {
     "crs": "BHK",
@@ -1685,31 +1685,31 @@
   },
   "Bynea": {
     "crs": "BYE",
-    "type": "national"
+    "type": "wales"
   },
   "Cadoxton": {
     "crs": "CAD",
-    "type": "national"
+    "type": "wales"
   },
   "Caergwrle": {
     "crs": "CGW",
-    "type": "national"
+    "type": "wales"
   },
   "Caerphilly": {
     "crs": "CPH",
-    "type": "national"
+    "type": "wales"
   },
   "Caersws": {
     "crs": "CWS",
-    "type": "national"
+    "type": "wales"
   },
   "Caldercruix": {
     "crs": "CAC",
-    "type": "national"
+    "type": "scot"
   },
   "Caldicot": {
     "crs": "CDT",
-    "type": "national"
+    "type": "wales"
   },
   "Caledonian Road & Barnsbury": {
     "crs": "CIR",
@@ -1749,7 +1749,7 @@
   },
   "Cambuslang": {
     "crs": "CBL",
-    "type": "national"
+    "type": "scot"
   },
   "Camden Road": {
     "crs": "CMD",
@@ -1757,11 +1757,11 @@
   },
   "Camelon": {
     "crs": "CMO",
-    "type": "national"
+    "type": "scot"
   },
   "Cameron Bridge": {
     "crs": "CBX",
-    "type": "national"
+    "type": "scot"
   },
   "Canada Water": {
     "crs": "ZCW",
@@ -1797,7 +1797,7 @@
   },
   "Capenhurst": {
     "crs": "CPU",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Carbis Bay": {
     "crs": "CBB",
@@ -1805,31 +1805,31 @@
   },
   "Cardenden": {
     "crs": "CDD",
-    "type": "national"
+    "type": "scot"
   },
   "Cardiff Bay": {
     "crs": "CDB",
-    "type": "national"
+    "type": "wales"
   },
   "Cardiff Central": {
     "crs": "CDF",
-    "type": "national"
+    "type": "wales"
   },
   "Cardiff Queen Street": {
     "crs": "CDQ",
-    "type": "national"
+    "type": "wales"
   },
   "Cardonald": {
     "crs": "CDO",
-    "type": "national"
+    "type": "scot"
   },
   "Cardross": {
     "crs": "CDR",
-    "type": "national"
+    "type": "scot"
   },
   "Carfin": {
     "crs": "CRF",
-    "type": "national"
+    "type": "scot"
   },
   "Cark": {
     "crs": "CAK",
@@ -1845,15 +1845,15 @@
   },
   "Carluke": {
     "crs": "CLU",
-    "type": "national"
+    "type": "scot"
   },
   "Carmarthen": {
     "crs": "CMN",
-    "type": "national"
+    "type": "wales"
   },
   "Carmyle": {
     "crs": "CML",
-    "type": "national"
+    "type": "scot"
   },
   "Carnforth": {
     "crs": "CNF",
@@ -1861,11 +1861,11 @@
   },
   "Carnoustie": {
     "crs": "CAN",
-    "type": "national"
+    "type": "scot"
   },
   "Carntyne": {
     "crs": "CAY",
-    "type": "national"
+    "type": "scot"
   },
   "Carpenders Park": {
     "crs": "CPK",
@@ -1873,7 +1873,7 @@
   },
   "Carrbridge": {
     "crs": "CAG",
-    "type": "national"
+    "type": "scot"
   },
   "Carshalton": {
     "crs": "CSH",
@@ -1885,11 +1885,11 @@
   },
   "Carstairs": {
     "crs": "CRS",
-    "type": "national"
+    "type": "scot"
   },
   "Cartsdyke": {
     "crs": "CDY",
-    "type": "national"
+    "type": "scot"
   },
   "Castle Bar Park": {
     "crs": "CBP",
@@ -1925,11 +1925,11 @@
   },
   "Cathays": {
     "crs": "CYS",
-    "type": "national"
+    "type": "wales"
   },
   "Cathcart": {
     "crs": "CCT",
-    "type": "national"
+    "type": "scot"
   },
   "Cattal": {
     "crs": "CTL",
@@ -1941,7 +1941,7 @@
   },
   "Cefn-Y-Bedd": {
     "crs": "CYB",
-    "type": "national"
+    "type": "wales"
   },
   "Chadwell Heath": {
     "crs": "CTH",
@@ -1985,7 +1985,7 @@
   },
   "Charing Cross (Glasgow)": {
     "crs": "CHC",
-    "type": "national"
+    "type": "scot"
   },
   "Charlbury": {
     "crs": "CBY",
@@ -2005,7 +2005,7 @@
   },
   "Chatelherault": {
     "crs": "CTE",
-    "type": "national"
+    "type": "scot"
   },
   "Chatham": {
     "crs": "CTM",
@@ -2045,7 +2045,7 @@
   },
   "Chepstow": {
     "crs": "CPW",
-    "type": "national"
+    "type": "wales"
   },
   "Cherry Tree": {
     "crs": "CYT",
@@ -2069,7 +2069,7 @@
   },
   "Chester": {
     "crs": "CTR",
-    "type": "national"
+    "type": "wales"
   },
   "Chester Road": {
     "crs": "CRD",
@@ -2121,7 +2121,7 @@
   },
   "Chirk": {
     "crs": "CRK",
-    "type": "national"
+    "type": "wales"
   },
   "Chislehurst": {
     "crs": "CIT",
@@ -2161,11 +2161,11 @@
   },
   "Church Stretton": {
     "crs": "CTT",
-    "type": "national"
+    "type": "wales"
   },
   "Cilmeri": {
     "crs": "CIM",
-    "type": "national"
+    "type": "wales"
   },
   "City Thameslink": {
     "crs": "CTK",
@@ -2197,11 +2197,11 @@
   },
   "Clarbeston Road": {
     "crs": "CLR",
-    "type": "national"
+    "type": "wales"
   },
   "Clarkston": {
     "crs": "CKS",
-    "type": "national"
+    "type": "scot"
   },
   "Claverdon": {
     "crs": "CLV",
@@ -2217,7 +2217,7 @@
   },
   "Cleland": {
     "crs": "CEA",
-    "type": "national"
+    "type": "scot"
   },
   "Clifton": {
     "crs": "CLI",
@@ -2237,23 +2237,23 @@
   },
   "Clunderwen": {
     "crs": "CUW",
-    "type": "national"
+    "type": "wales"
   },
   "Clydebank": {
     "crs": "CYK",
-    "type": "national"
+    "type": "scot"
   },
   "Coatbridge Central": {
     "crs": "CBC",
-    "type": "national"
+    "type": "scot"
   },
   "Coatbridge Sunnyside": {
     "crs": "CBS",
-    "type": "national"
+    "type": "scot"
   },
   "Coatdyke": {
     "crs": "COA",
-    "type": "national"
+    "type": "scot"
   },
   "Cobham & Stoke Dabernon": {
     "crs": "CSD",
@@ -2265,7 +2265,7 @@
   },
   "Cogan": {
     "crs": "CGN",
-    "type": "national"
+    "type": "wales"
   },
   "Colchester": {
     "crs": "COL",
@@ -2297,7 +2297,7 @@
   },
   "Colwyn Bay": {
     "crs": "CWB",
-    "type": "national"
+    "type": "wales"
   },
   "Combe": {
     "crs": "CME",
@@ -2317,11 +2317,11 @@
   },
   "Connel Ferry": {
     "crs": "CON",
-    "type": "national"
+    "type": "scot"
   },
   "Conon Bridge": {
     "crs": "CBD",
-    "type": "national"
+    "type": "scot"
   },
   "Cononley": {
     "crs": "CEY",
@@ -2329,11 +2329,11 @@
   },
   "Conway Park": {
     "crs": "CNP",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Conwy": {
     "crs": "CNW",
-    "type": "national"
+    "type": "wales"
   },
   "Cooden Beach": {
     "crs": "COB",
@@ -2373,15 +2373,15 @@
   },
   "Corpach": {
     "crs": "CPA",
-    "type": "national"
+    "type": "scot"
   },
   "Corrour": {
     "crs": "CRR",
-    "type": "national"
+    "type": "scot"
   },
   "Coryton": {
     "crs": "COY",
-    "type": "national"
+    "type": "wales"
   },
   "Coseley": {
     "crs": "CSY",
@@ -2433,7 +2433,7 @@
   },
   "Craigendoran": {
     "crs": "CGD",
-    "type": "national"
+    "type": "scot"
   },
   "Cramlington": {
     "crs": "CRM",
@@ -2445,7 +2445,7 @@
   },
   "Craven Arms": {
     "crs": "CRV",
-    "type": "national"
+    "type": "wales"
   },
   "Crawley": {
     "crs": "CRW",
@@ -2465,7 +2465,7 @@
   },
   "Cressington": {
     "crs": "CSG",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Creswell": {
     "crs": "CWD",
@@ -2485,11 +2485,11 @@
   },
   "Crianlarich": {
     "crs": "CNR",
-    "type": "national"
+    "type": "scot"
   },
   "Criccieth": {
     "crs": "CCC",
-    "type": "national"
+    "type": "wales"
   },
   "Cricklewood": {
     "crs": "CRI",
@@ -2497,7 +2497,7 @@
   },
   "Croftfoot": {
     "crs": "CFF",
-    "type": "national"
+    "type": "scot"
   },
   "Crofton Park": {
     "crs": "CFT",
@@ -2513,7 +2513,7 @@
   },
   "Crookston": {
     "crs": "CKT",
-    "type": "national"
+    "type": "scot"
   },
   "Cross Gates": {
     "crs": "CRG",
@@ -2525,15 +2525,15 @@
   },
   "Crosshill": {
     "crs": "COI",
-    "type": "national"
+    "type": "scot"
   },
   "Crosskeys": {
     "crs": "CKY",
-    "type": "national"
+    "type": "wales"
   },
   "Crossmyloof": {
     "crs": "CMY",
-    "type": "national"
+    "type": "scot"
   },
   "Croston": {
     "crs": "CSO",
@@ -2561,7 +2561,7 @@
   },
   "Croy": {
     "crs": "CRO",
-    "type": "national"
+    "type": "scot"
   },
   "Crystal Palace": {
     "crs": "CYP",
@@ -2585,15 +2585,15 @@
   },
   "Cumbernauld": {
     "crs": "CUB",
-    "type": "national"
+    "type": "scot"
   },
   "Cupar": {
     "crs": "CUP",
-    "type": "national"
+    "type": "scot"
   },
   "Curriehill": {
     "crs": "CUH",
-    "type": "national"
+    "type": "scot"
   },
   "Custom House": {
     "crs": "CUS",
@@ -2605,15 +2605,15 @@
   },
   "Cwmbach": {
     "crs": "CMH",
-    "type": "national"
+    "type": "wales"
   },
   "Cwmbran": {
     "crs": "CWM",
-    "type": "national"
+    "type": "wales"
   },
   "Cynghordy": {
     "crs": "CYN",
-    "type": "national"
+    "type": "wales"
   },
   "Dagenham Dock": {
     "crs": "DDK",
@@ -2625,31 +2625,31 @@
   },
   "Dalgety Bay": {
     "crs": "DAG",
-    "type": "national"
+    "type": "scot"
   },
   "Dalmally": {
     "crs": "DAL",
-    "type": "national"
+    "type": "scot"
   },
   "Dalmarnock": {
     "crs": "DAK",
-    "type": "national"
+    "type": "scot"
   },
   "Dalmeny": {
     "crs": "DAM",
-    "type": "national"
+    "type": "scot"
   },
   "Dalmuir": {
     "crs": "DMR",
-    "type": "national"
+    "type": "scot"
   },
   "Dalreoch": {
     "crs": "DLR",
-    "type": "national"
+    "type": "scot"
   },
   "Dalry": {
     "crs": "DLY",
-    "type": "national"
+    "type": "scot"
   },
   "Dalston (Cumbria)": {
     "crs": "DLS",
@@ -2669,7 +2669,7 @@
   },
   "Dalwhinnie": {
     "crs": "DLW",
-    "type": "national"
+    "type": "scot"
   },
   "Danby": {
     "crs": "DNY",
@@ -2677,7 +2677,7 @@
   },
   "Danescourt": {
     "crs": "DCT",
-    "type": "national"
+    "type": "wales"
   },
   "Danzey": {
     "crs": "DZY",
@@ -2741,7 +2741,7 @@
   },
   "Deganwy": {
     "crs": "DGY",
-    "type": "national"
+    "type": "wales"
   },
   "Deighton": {
     "crs": "DHN",
@@ -2809,19 +2809,19 @@
   },
   "Dinas Powys": {
     "crs": "DNS",
-    "type": "national"
+    "type": "wales"
   },
   "Dinas Rhondda": {
     "crs": "DMG",
-    "type": "national"
+    "type": "wales"
   },
   "Dingle Road": {
     "crs": "DGL",
-    "type": "national"
+    "type": "wales"
   },
   "Dingwall": {
     "crs": "DIN",
-    "type": "national"
+    "type": "scot"
   },
   "Dinsdale": {
     "crs": "DND",
@@ -2849,7 +2849,7 @@
   },
   "Dolau": {
     "crs": "DOL",
-    "type": "national"
+    "type": "wales"
   },
   "Doleham": {
     "crs": "DLH",
@@ -2857,11 +2857,11 @@
   },
   "Dolgarrog": {
     "crs": "DLG",
-    "type": "national"
+    "type": "wales"
   },
   "Dolwyddelan": {
     "crs": "DWD",
-    "type": "national"
+    "type": "wales"
   },
   "Doncaster": {
     "crs": "DON",
@@ -2913,7 +2913,7 @@
   },
   "Dovey Junction": {
     "crs": "DVY",
-    "type": "national"
+    "type": "wales"
   },
   "Downham Market": {
     "crs": "DOW",
@@ -2929,7 +2929,7 @@
   },
   "Drem": {
     "crs": "DRM",
-    "type": "national"
+    "type": "scot"
   },
   "Driffield": {
     "crs": "DRF",
@@ -2949,19 +2949,19 @@
   },
   "Drumchapel": {
     "crs": "DMC",
-    "type": "national"
+    "type": "scot"
   },
   "Drumfrochar": {
     "crs": "DFR",
-    "type": "national"
+    "type": "scot"
   },
   "Drumgelloch": {
     "crs": "DRU",
-    "type": "national"
+    "type": "scot"
   },
   "Drumry": {
     "crs": "DMY",
-    "type": "national"
+    "type": "scot"
   },
   "Duddeston": {
     "crs": "DUD",
@@ -2977,11 +2977,11 @@
   },
   "Duirinish": {
     "crs": "DRN",
-    "type": "national"
+    "type": "scot"
   },
   "Duke Street": {
     "crs": "DST",
-    "type": "national"
+    "type": "scot"
   },
   "Dullingham": {
     "crs": "DUL",
@@ -2989,19 +2989,19 @@
   },
   "Dumbarton Central": {
     "crs": "DBC",
-    "type": "national"
+    "type": "scot"
   },
   "Dumbarton East": {
     "crs": "DBE",
-    "type": "national"
+    "type": "scot"
   },
   "Dumbreck": {
     "crs": "DUM",
-    "type": "national"
+    "type": "scot"
   },
   "Dumfries": {
     "crs": "DMF",
-    "type": "national"
+    "type": "scot"
   },
   "Dumpton Park": {
     "crs": "DMP",
@@ -3009,39 +3009,39 @@
   },
   "Dunbar": {
     "crs": "DUN",
-    "type": "national"
+    "type": "scot"
   },
   "Dunblane": {
     "crs": "DBL",
-    "type": "national"
+    "type": "scot"
   },
   "Duncraig": {
     "crs": "DCG",
-    "type": "national"
+    "type": "scot"
   },
   "Dundee": {
     "crs": "DEE",
-    "type": "national"
+    "type": "scot"
   },
   "Dunfermline City": {
     "crs": "DFE",
-    "type": "national"
+    "type": "scot"
   },
   "Dunfermline Queen Margaret": {
     "crs": "DFL",
-    "type": "national"
+    "type": "scot"
   },
   "Dunkeld & Birnam": {
     "crs": "DKD",
-    "type": "national"
+    "type": "scot"
   },
   "Dunlop": {
     "crs": "DNL",
-    "type": "national"
+    "type": "scot"
   },
   "Dunrobin Castle": {
     "crs": "DNO",
-    "type": "national"
+    "type": "scot"
   },
   "Dunston": {
     "crs": "DOT",
@@ -3061,11 +3061,11 @@
   },
   "Dyce": {
     "crs": "DYC",
-    "type": "national"
+    "type": "scot"
   },
   "Dyffryn Ardudwy": {
     "crs": "DYF",
-    "type": "national"
+    "type": "wales"
   },
   "Eaglescliffe": {
     "crs": "EAG",
@@ -3125,11 +3125,11 @@
   },
   "East Kilbride": {
     "crs": "EKL",
-    "type": "national"
+    "type": "scot"
   },
   "East Linton": {
     "crs": "ELT",
-    "type": "national"
+    "type": "scot"
   },
   "East Malling": {
     "crs": "EML",
@@ -3157,11 +3157,11 @@
   },
   "Easterhouse": {
     "crs": "EST",
-    "type": "national"
+    "type": "scot"
   },
   "Eastham Rake": {
     "crs": "ERA",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Eastleigh": {
     "crs": "ESL",
@@ -3217,11 +3217,11 @@
   },
   "Edinburgh Gateway": {
     "crs": "EGY",
-    "type": "national"
+    "type": "scot"
   },
   "Edinburgh Park": {
     "crs": "EDP",
-    "type": "national"
+    "type": "scot"
   },
   "Edinburgh Waverley": {
     "crs": "EDB",
@@ -3253,11 +3253,11 @@
   },
   "Elgin": {
     "crs": "ELG",
-    "type": "national"
+    "type": "scot"
   },
   "Ellesmere Port": {
     "crs": "ELP",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Elmers End": {
     "crs": "ELE",
@@ -3305,7 +3305,7 @@
   },
   "Energlyn & Churchill Park": {
     "crs": "ECP",
-    "type": "national"
+    "type": "wales"
   },
   "Enfield Chase": {
     "crs": "ENC",
@@ -3349,7 +3349,7 @@
   },
   "Eskbank": {
     "crs": "EKB",
-    "type": "national"
+    "type": "scot"
   },
   "Essex Road": {
     "crs": "EXR",
@@ -3405,7 +3405,7 @@
   },
   "Fairbourne": {
     "crs": "FRB",
-    "type": "national"
+    "type": "wales"
   },
   "Fairfield": {
     "crs": "FRF",
@@ -3413,11 +3413,11 @@
   },
   "Fairlie": {
     "crs": "FRL",
-    "type": "national"
+    "type": "scot"
   },
   "Fairwater": {
     "crs": "FRW",
-    "type": "national"
+    "type": "wales"
   },
   "Falconwood": {
     "crs": "FCN",
@@ -3425,15 +3425,15 @@
   },
   "Falkirk Grahamston": {
     "crs": "FKG",
-    "type": "national"
+    "type": "scot"
   },
   "Falkirk High": {
     "crs": "FKK",
-    "type": "national"
+    "type": "scot"
   },
   "Falls of Cruachan": {
     "crs": "FOC",
-    "type": "national"
+    "type": "scot"
   },
   "Falmer": {
     "crs": "FMR",
@@ -3481,7 +3481,7 @@
   },
   "Fauldhouse": {
     "crs": "FLD",
-    "type": "national"
+    "type": "scot"
   },
   "Faversham": {
     "crs": "FAV",
@@ -3493,11 +3493,11 @@
   },
   "Fazakerley": {
     "crs": "FAZ",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Fearn": {
     "crs": "FRN",
-    "type": "national"
+    "type": "scot"
   },
   "Featherstone": {
     "crs": "FEA",
@@ -3529,11 +3529,11 @@
   },
   "Ferryside": {
     "crs": "FYS",
-    "type": "national"
+    "type": "wales"
   },
   "Ffairfach": {
     "crs": "FFA",
-    "type": "national"
+    "type": "wales"
   },
   "Filey": {
     "crs": "FIL",
@@ -3565,11 +3565,11 @@
   },
   "Fishguard & Goodwick": {
     "crs": "FGW",
-    "type": "national"
+    "type": "wales"
   },
   "Fishguard Harbour": {
     "crs": "FGH",
-    "type": "national"
+    "type": "wales"
   },
   "Fiskerton": {
     "crs": "FSK",
@@ -3593,7 +3593,7 @@
   },
   "Flint": {
     "crs": "FLN",
-    "type": "national"
+    "type": "wales"
   },
   "Flitwick": {
     "crs": "FLT",
@@ -3629,23 +3629,23 @@
   },
   "Formby": {
     "crs": "FBY",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Forres": {
     "crs": "FOR",
-    "type": "national"
+    "type": "scot"
   },
   "Forsinard": {
     "crs": "FRS",
-    "type": "national"
+    "type": "scot"
   },
   "Fort Matilda": {
     "crs": "FTM",
-    "type": "national"
+    "type": "scot"
   },
   "Fort William": {
     "crs": "FTW",
-    "type": "national"
+    "type": "scot"
   },
   "Four Oaks": {
     "crs": "FOK",
@@ -3669,7 +3669,7 @@
   },
   "Freshfield": {
     "crs": "FRE",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Freshford": {
     "crs": "FFD",
@@ -3689,7 +3689,7 @@
   },
   "Frodsham": {
     "crs": "FRD",
-    "type": "national"
+    "type": "wales"
   },
   "Frome": {
     "crs": "FRO",
@@ -3717,11 +3717,11 @@
   },
   "Galashiels": {
     "crs": "GAL",
-    "type": "national"
+    "type": "scot"
   },
   "Garelochhead": {
     "crs": "GCH",
-    "type": "national"
+    "type": "scot"
   },
   "Garforth": {
     "crs": "GRF",
@@ -3733,11 +3733,11 @@
   },
   "Garrowhill": {
     "crs": "GAR",
-    "type": "national"
+    "type": "scot"
   },
   "Garscadden": {
     "crs": "GRS",
-    "type": "national"
+    "type": "scot"
   },
   "Garsdale": {
     "crs": "GSD",
@@ -3753,19 +3753,19 @@
   },
   "Gartcosh": {
     "crs": "GRH",
-    "type": "national"
+    "type": "scot"
   },
   "Garth (Mid Glamorgan)": {
     "crs": "GMG",
-    "type": "national"
+    "type": "wales"
   },
   "Garth (Powys)": {
     "crs": "GTH",
-    "type": "national"
+    "type": "wales"
   },
   "Garve": {
     "crs": "GVE",
-    "type": "national"
+    "type": "scot"
   },
   "Gathurst": {
     "crs": "GST",
@@ -3781,7 +3781,7 @@
   },
   "Georgemas Junction": {
     "crs": "GGJ",
-    "type": "national"
+    "type": "scot"
   },
   "Gerrards Cross": {
     "crs": "GER",
@@ -3793,7 +3793,7 @@
   },
   "Giffnock": {
     "crs": "GFN",
-    "type": "national"
+    "type": "scot"
   },
   "Giggleswick": {
     "crs": "GIG",
@@ -3805,7 +3805,7 @@
   },
   "Gilfach Fargoed": {
     "crs": "GFF",
-    "type": "national"
+    "type": "wales"
   },
   "Gillingham (Dorset)": {
     "crs": "GIL",
@@ -3817,7 +3817,7 @@
   },
   "Gilshochill": {
     "crs": "GSC",
-    "type": "national"
+    "type": "scot"
   },
   "Gipsy Hill": {
     "crs": "GIP",
@@ -3825,7 +3825,7 @@
   },
   "Girvan": {
     "crs": "GIR",
-    "type": "national"
+    "type": "scot"
   },
   "Glaisdale": {
     "crs": "GLS",
@@ -3833,7 +3833,7 @@
   },
   "Glan Conwy": {
     "crs": "GCW",
-    "type": "national"
+    "type": "wales"
   },
   "Glasgow Central": {
     "crs": "GLC",
@@ -3841,7 +3841,7 @@
   },
   "Glasgow Queen Street": {
     "crs": "GLQ",
-    "type": "national"
+    "type": "scot"
   },
   "Glasshoughton": {
     "crs": "GLH",
@@ -3853,19 +3853,19 @@
   },
   "Gleneagles": {
     "crs": "GLE",
-    "type": "national"
+    "type": "scot"
   },
   "Glenfinnan": {
     "crs": "GLF",
-    "type": "national"
+    "type": "scot"
   },
   "Glengarnock": {
     "crs": "GLG",
-    "type": "national"
+    "type": "scot"
   },
   "Glenrothes with Thornton": {
     "crs": "GLT",
-    "type": "national"
+    "type": "scot"
   },
   "Glossop": {
     "crs": "GLO",
@@ -3881,7 +3881,7 @@
   },
   "Gobowen": {
     "crs": "GOB",
-    "type": "national"
+    "type": "wales"
   },
   "Godalming": {
     "crs": "GOD",
@@ -3901,11 +3901,11 @@
   },
   "Golf Street": {
     "crs": "GOF",
-    "type": "national"
+    "type": "scot"
   },
   "Golspie": {
     "crs": "GOL",
-    "type": "national"
+    "type": "scot"
   },
   "Gomshall": {
     "crs": "GOM",
@@ -3929,7 +3929,7 @@
   },
   "Gorebridge": {
     "crs": "GBG",
-    "type": "national"
+    "type": "scot"
   },
   "Goring & Streatley": {
     "crs": "GOR",
@@ -3949,11 +3949,11 @@
   },
   "Gourock": {
     "crs": "GRK",
-    "type": "national"
+    "type": "scot"
   },
   "Gowerton": {
     "crs": "GWN",
-    "type": "national"
+    "type": "wales"
   },
   "Goxhill": {
     "crs": "GOX",
@@ -3969,7 +3969,7 @@
   },
   "Grangetown": {
     "crs": "GTN",
-    "type": "national"
+    "type": "wales"
   },
   "Grantham": {
     "crs": "GRA",
@@ -4021,7 +4021,7 @@
   },
   "Green Lane": {
     "crs": "GNL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Green Road": {
     "crs": "GNR",
@@ -4033,7 +4033,7 @@
   },
   "Greenfaulds": {
     "crs": "GRL",
-    "type": "national"
+    "type": "scot"
   },
   "Greenfield": {
     "crs": "GNF",
@@ -4049,11 +4049,11 @@
   },
   "Greenock Central": {
     "crs": "GKC",
-    "type": "national"
+    "type": "scot"
   },
   "Greenock West": {
     "crs": "GKW",
-    "type": "national"
+    "type": "scot"
   },
   "Greenwich": {
     "crs": "GNW",
@@ -4061,7 +4061,7 @@
   },
   "Gretna Green": {
     "crs": "GEA",
-    "type": "national"
+    "type": "scot"
   },
   "Grimsby Docks": {
     "crs": "GMD",
@@ -4109,7 +4109,7 @@
   },
   "Gwersyllt": {
     "crs": "GWE",
-    "type": "national"
+    "type": "wales"
   },
   "Gypsy Lane": {
     "crs": "GYP",
@@ -4165,7 +4165,7 @@
   },
   "Hairmyres": {
     "crs": "HMY",
-    "type": "national"
+    "type": "scot"
   },
   "Hale": {
     "crs": "HAL",
@@ -4189,7 +4189,7 @@
   },
   "Hall Road": {
     "crs": "HLR",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hall i' th' Wood": {
     "crs": "HID",
@@ -4213,11 +4213,11 @@
   },
   "Hamilton Central": {
     "crs": "HNC",
-    "type": "national"
+    "type": "scot"
   },
   "Hamilton West": {
     "crs": "HNW",
-    "type": "national"
+    "type": "scot"
   },
   "Hammerton": {
     "crs": "HMM",
@@ -4273,7 +4273,7 @@
   },
   "Harlech": {
     "crs": "HRL",
-    "type": "national"
+    "type": "wales"
   },
   "Harlesden": {
     "crs": "HDN",
@@ -4345,7 +4345,7 @@
   },
   "Hartwood": {
     "crs": "HTW",
-    "type": "national"
+    "type": "scot"
   },
   "Harwich International": {
     "crs": "HPQ",
@@ -4405,19 +4405,19 @@
   },
   "Haverfordwest": {
     "crs": "HVF",
-    "type": "national"
+    "type": "wales"
   },
   "Hawarden": {
     "crs": "HWD",
-    "type": "national"
+    "type": "wales"
   },
   "Hawarden Bridge": {
     "crs": "HWB",
-    "type": "national"
+    "type": "wales"
   },
   "Hawkhead": {
     "crs": "HKH",
-    "type": "national"
+    "type": "scot"
   },
   "Haydon Bridge": {
     "crs": "HDB",
@@ -4441,7 +4441,7 @@
   },
   "Haymarket": {
     "crs": "HYM",
-    "type": "national"
+    "type": "scot"
   },
   "Haywards Heath": {
     "crs": "HHE",
@@ -4453,7 +4453,7 @@
   },
   "Headbolt Lane": {
     "crs": "HBL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Headcorn": {
     "crs": "HCN",
@@ -4477,11 +4477,11 @@
   },
   "Heath High Level": {
     "crs": "HHL",
-    "type": "national"
+    "type": "wales"
   },
   "Heath Low Level": {
     "crs": "HLL",
-    "type": "national"
+    "type": "wales"
   },
   "Heathrow Terminal 4 Rail": {
     "crs": "HAF",
@@ -4521,11 +4521,11 @@
   },
   "Helensburgh Central": {
     "crs": "HLC",
-    "type": "national"
+    "type": "scot"
   },
   "Helensburgh Upper": {
     "crs": "HLU",
-    "type": "national"
+    "type": "scot"
   },
   "Hellifield": {
     "crs": "HLD",
@@ -4533,11 +4533,11 @@
   },
   "Helmsdale": {
     "crs": "HMS",
-    "type": "national"
+    "type": "scot"
   },
   "Helsby": {
     "crs": "HSB",
-    "type": "national"
+    "type": "wales"
   },
   "Hemel Hempstead": {
     "crs": "HML",
@@ -4549,7 +4549,7 @@
   },
   "Hengoed": {
     "crs": "HNG",
-    "type": "national"
+    "type": "wales"
   },
   "Henley-In-Arden": {
     "crs": "HNL",
@@ -4565,7 +4565,7 @@
   },
   "Hereford": {
     "crs": "HFD",
-    "type": "national"
+    "type": "wales"
   },
   "Herne Bay": {
     "crs": "HNB",
@@ -4621,7 +4621,7 @@
   },
   "High Street": {
     "crs": "HST",
-    "type": "national"
+    "type": "scot"
   },
   "High Wycombe": {
     "crs": "HWY",
@@ -4645,7 +4645,7 @@
   },
   "Hightown": {
     "crs": "HTO",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hildenborough": {
     "crs": "HLB",
@@ -4653,19 +4653,19 @@
   },
   "Hillfoot": {
     "crs": "HLF",
-    "type": "national"
+    "type": "scot"
   },
   "Hillington East": {
     "crs": "HLE",
-    "type": "national"
+    "type": "scot"
   },
   "Hillington West": {
     "crs": "HLW",
-    "type": "national"
+    "type": "scot"
   },
   "Hillside": {
     "crs": "HIL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hilsea": {
     "crs": "HLS",
@@ -4717,11 +4717,11 @@
   },
   "Holyhead": {
     "crs": "HHD",
-    "type": "national"
+    "type": "wales"
   },
   "Holytown": {
     "crs": "HLY",
-    "type": "national"
+    "type": "scot"
   },
   "Homerton": {
     "crs": "HMN",
@@ -4749,7 +4749,7 @@
   },
   "Hooton": {
     "crs": "HOO",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hope (Derbyshire)": {
     "crs": "HOP",
@@ -4757,11 +4757,11 @@
   },
   "Hope (Flintshire)": {
     "crs": "HPE",
-    "type": "national"
+    "type": "wales"
   },
   "Hopton Heath": {
     "crs": "HPT",
-    "type": "national"
+    "type": "wales"
   },
   "Horden": {
     "crs": "HRE",
@@ -4829,7 +4829,7 @@
   },
   "Howwood": {
     "crs": "HOZ",
-    "type": "national"
+    "type": "scot"
   },
   "Hoxton": {
     "crs": "HOX",
@@ -4837,7 +4837,7 @@
   },
   "Hoylake": {
     "crs": "HYK",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hubberts Bridge": {
     "crs": "HBB",
@@ -4877,11 +4877,11 @@
   },
   "Huntly": {
     "crs": "HNT",
-    "type": "national"
+    "type": "scot"
   },
   "Hunts Cross": {
     "crs": "HNX",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Hurst Green": {
     "crs": "HUR",
@@ -4909,7 +4909,7 @@
   },
   "Hyndland": {
     "crs": "HYN",
-    "type": "national"
+    "type": "scot"
   },
   "Hythe": {
     "crs": "HYH",
@@ -4949,39 +4949,39 @@
   },
   "Insch": {
     "crs": "INS",
-    "type": "national"
+    "type": "scot"
   },
   "Invergordon": {
     "crs": "IGD",
-    "type": "national"
+    "type": "scot"
   },
   "Invergowrie": {
     "crs": "ING",
-    "type": "national"
+    "type": "scot"
   },
   "Inverkeithing": {
     "crs": "INK",
-    "type": "national"
+    "type": "scot"
   },
   "Inverkip": {
     "crs": "INP",
-    "type": "national"
+    "type": "scot"
   },
   "Inverness": {
     "crs": "INV",
-    "type": "national"
+    "type": "scot"
   },
   "Inverness Airport": {
     "crs": "IVA",
-    "type": "national"
+    "type": "scot"
   },
   "Invershin": {
     "crs": "INH",
-    "type": "national"
+    "type": "scot"
   },
   "Inverurie": {
     "crs": "INR",
-    "type": "national"
+    "type": "scot"
   },
   "Ipswich": {
     "crs": "IPS",
@@ -4993,7 +4993,7 @@
   },
   "Irvine": {
     "crs": "IRV",
-    "type": "national"
+    "type": "scot"
   },
   "Isleworth": {
     "crs": "ISL",
@@ -5017,7 +5017,7 @@
   },
   "James Street": {
     "crs": "LVJ",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Jewellery Quarter": {
     "crs": "JEQ",
@@ -5025,15 +5025,15 @@
   },
   "Johnston": {
     "crs": "JOH",
-    "type": "national"
+    "type": "wales"
   },
   "Johnstone": {
     "crs": "JHN",
-    "type": "national"
+    "type": "scot"
   },
   "Jordanhill": {
     "crs": "JOR",
-    "type": "national"
+    "type": "scot"
   },
   "Kearsley": {
     "crs": "KSL",
@@ -5049,7 +5049,7 @@
   },
   "Keith": {
     "crs": "KEH",
-    "type": "national"
+    "type": "scot"
   },
   "Kelvedon": {
     "crs": "KEL",
@@ -5057,7 +5057,7 @@
   },
   "Kelvindale": {
     "crs": "KVD",
-    "type": "national"
+    "type": "scot"
   },
   "Kemble": {
     "crs": "KEM",
@@ -5097,7 +5097,7 @@
   },
   "Kennishead": {
     "crs": "KNS",
-    "type": "national"
+    "type": "scot"
   },
   "Kensal Green": {
     "crs": "KNL",
@@ -5165,7 +5165,7 @@
   },
   "Kidwelly": {
     "crs": "KWL",
-    "type": "national"
+    "type": "wales"
   },
   "Kilburn High Road": {
     "crs": "KBN",
@@ -5177,31 +5177,31 @@
   },
   "Kildonan": {
     "crs": "KIL",
-    "type": "national"
+    "type": "scot"
   },
   "Kilgetty": {
     "crs": "KGT",
-    "type": "national"
+    "type": "wales"
   },
   "Kilmarnock": {
     "crs": "KMK",
-    "type": "national"
+    "type": "scot"
   },
   "Kilmaurs": {
     "crs": "KLM",
-    "type": "national"
+    "type": "scot"
   },
   "Kilpatrick": {
     "crs": "KPT",
-    "type": "national"
+    "type": "scot"
   },
   "Kilwinning": {
     "crs": "KWN",
-    "type": "national"
+    "type": "scot"
   },
   "Kinbrace": {
     "crs": "KBC",
-    "type": "national"
+    "type": "scot"
   },
   "Kingham": {
     "crs": "KGM",
@@ -5209,7 +5209,7 @@
   },
   "Kinghorn": {
     "crs": "KGH",
-    "type": "national"
+    "type": "scot"
   },
   "Kings Heath": {
     "crs": "KIH",
@@ -5253,7 +5253,7 @@
   },
   "Kingussie": {
     "crs": "KIN",
-    "type": "national"
+    "type": "scot"
   },
   "Kintbury": {
     "crs": "KIT",
@@ -5261,7 +5261,7 @@
   },
   "Kintore": {
     "crs": "KTR",
-    "type": "national"
+    "type": "scot"
   },
   "Kirby Cross": {
     "crs": "KBX",
@@ -5273,7 +5273,7 @@
   },
   "Kirkby": {
     "crs": "KIR",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Kirkby Stephen": {
     "crs": "KSW",
@@ -5289,15 +5289,15 @@
   },
   "Kirkcaldy": {
     "crs": "KDY",
-    "type": "national"
+    "type": "scot"
   },
   "Kirkconnel": {
     "crs": "KRK",
-    "type": "national"
+    "type": "scot"
   },
   "Kirkdale": {
     "crs": "KKD",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Kirkham & Wesham": {
     "crs": "KKM",
@@ -5305,11 +5305,11 @@
   },
   "Kirkhill": {
     "crs": "KKH",
-    "type": "national"
+    "type": "scot"
   },
   "Kirknewton": {
     "crs": "KKN",
-    "type": "national"
+    "type": "scot"
   },
   "Kirkstall Forge": {
     "crs": "KLF",
@@ -5317,7 +5317,7 @@
   },
   "Kirkwood": {
     "crs": "KWD",
-    "type": "national"
+    "type": "scot"
   },
   "Kirton Lindsey": {
     "crs": "KTL",
@@ -5341,7 +5341,7 @@
   },
   "Knighton": {
     "crs": "KNI",
-    "type": "national"
+    "type": "wales"
   },
   "Knockholt": {
     "crs": "KCK",
@@ -5353,7 +5353,7 @@
   },
   "Knucklas": {
     "crs": "KNU",
-    "type": "national"
+    "type": "wales"
   },
   "Knutsford": {
     "crs": "KNF",
@@ -5361,11 +5361,11 @@
   },
   "Kyle of Lochalsh": {
     "crs": "KYL",
-    "type": "national"
+    "type": "scot"
   },
   "Ladybank": {
     "crs": "LDY",
-    "type": "national"
+    "type": "scot"
   },
   "Ladywell": {
     "crs": "LAD",
@@ -5377,7 +5377,7 @@
   },
   "Lairg": {
     "crs": "LRG",
-    "type": "national"
+    "type": "scot"
   },
   "Lake": {
     "crs": "LKE",
@@ -5389,11 +5389,11 @@
   },
   "Lamphey": {
     "crs": "LAM",
-    "type": "national"
+    "type": "wales"
   },
   "Lanark": {
     "crs": "LNK",
-    "type": "national"
+    "type": "scot"
   },
   "Lancaster": {
     "crs": "LAN",
@@ -5409,7 +5409,7 @@
   },
   "Langbank": {
     "crs": "LGB",
-    "type": "national"
+    "type": "scot"
   },
   "Langho": {
     "crs": "LHO",
@@ -5429,7 +5429,7 @@
   },
   "Langside": {
     "crs": "LGS",
-    "type": "national"
+    "type": "scot"
   },
   "Langwathby": {
     "crs": "LGW",
@@ -5449,19 +5449,19 @@
   },
   "Larbert": {
     "crs": "LBT",
-    "type": "national"
+    "type": "scot"
   },
   "Largs": {
     "crs": "LAR",
-    "type": "national"
+    "type": "scot"
   },
   "Larkhall": {
     "crs": "LRH",
-    "type": "national"
+    "type": "scot"
   },
   "Laurencekirk": {
     "crs": "LAU",
-    "type": "national"
+    "type": "scot"
   },
   "Lawrence Hill": {
     "crs": "LWH",
@@ -5501,7 +5501,7 @@
   },
   "Leasowe": {
     "crs": "LSW",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Leatherhead": {
     "crs": "LHD",
@@ -5549,11 +5549,11 @@
   },
   "Lenzie": {
     "crs": "LNZ",
-    "type": "national"
+    "type": "scot"
   },
   "Leominster": {
     "crs": "LEO",
-    "type": "national"
+    "type": "wales"
   },
   "Letchworth Garden City": {
     "crs": "LET",
@@ -5561,11 +5561,11 @@
   },
   "Leuchars": {
     "crs": "LEU",
-    "type": "national"
+    "type": "scot"
   },
   "Leven": {
     "crs": "LEV",
-    "type": "national"
+    "type": "scot"
   },
   "Levenshulme": {
     "crs": "LVM",
@@ -5621,7 +5621,7 @@
   },
   "Linlithgow": {
     "crs": "LIN",
-    "type": "national"
+    "type": "scot"
   },
   "Liphook": {
     "crs": "LIP",
@@ -5637,7 +5637,7 @@
   },
   "Lisvane & Thornhill": {
     "crs": "LVT",
-    "type": "national"
+    "type": "wales"
   },
   "Little Kimble": {
     "crs": "LTK",
@@ -5645,7 +5645,7 @@
   },
   "Little Sutton": {
     "crs": "LTT",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Littleborough": {
     "crs": "LTL",
@@ -5665,7 +5665,7 @@
   },
   "Liverpool Central": {
     "crs": "LVC",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Liverpool Lime Street": {
     "crs": "LIV",
@@ -5673,15 +5673,15 @@
   },
   "Liverpool South Parkway": {
     "crs": "LPY",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Livingston North": {
     "crs": "LSN",
-    "type": "national"
+    "type": "scot"
   },
   "Livingston South": {
     "crs": "LVG",
-    "type": "national"
+    "type": "scot"
   },
   "Lille Europe": {
     "crs": "LIU",
@@ -5689,79 +5689,79 @@
   },
   "Llanaber": {
     "crs": "LLA",
-    "type": "national"
+    "type": "wales"
   },
   "Llanbedr": {
     "crs": "LBR",
-    "type": "national"
+    "type": "wales"
   },
   "Llanbister Road": {
     "crs": "LLT",
-    "type": "national"
+    "type": "wales"
   },
   "Llanbradach": {
     "crs": "LNB",
-    "type": "national"
+    "type": "wales"
   },
   "Llandaf": {
     "crs": "LLN",
-    "type": "national"
+    "type": "wales"
   },
   "Llandanwg": {
     "crs": "LDN",
-    "type": "national"
+    "type": "wales"
   },
   "Llandecwyn": {
     "crs": "LLC",
-    "type": "national"
+    "type": "wales"
   },
   "Llandeilo": {
     "crs": "LLL",
-    "type": "national"
+    "type": "wales"
   },
   "Llandovery": {
     "crs": "LLV",
-    "type": "national"
+    "type": "wales"
   },
   "Llandrindod": {
     "crs": "LLO",
-    "type": "national"
+    "type": "wales"
   },
   "Llandudno": {
     "crs": "LLD",
-    "type": "national"
+    "type": "wales"
   },
   "Llandudno Junction": {
     "crs": "LLJ",
-    "type": "national"
+    "type": "wales"
   },
   "Llandybie": {
     "crs": "LLI",
-    "type": "national"
+    "type": "wales"
   },
   "Llanelli": {
     "crs": "LLE",
-    "type": "national"
+    "type": "wales"
   },
   "Llanfairfechan": {
     "crs": "LLF",
-    "type": "national"
+    "type": "wales"
   },
   "Llanfairpwll": {
     "crs": "LPG",
-    "type": "national"
+    "type": "wales"
   },
   "Llangadog": {
     "crs": "LLG",
-    "type": "national"
+    "type": "wales"
   },
   "Llangammarch": {
     "crs": "LLM",
-    "type": "national"
+    "type": "wales"
   },
   "Llangennech": {
     "crs": "LLH",
-    "type": "national"
+    "type": "wales"
   },
   "Llangynllo": {
     "crs": "LGO",
@@ -5769,19 +5769,19 @@
   },
   "Llanharan": {
     "crs": "LLR",
-    "type": "national"
+    "type": "wales"
   },
   "Llanhilleth": {
     "crs": "LTH",
-    "type": "national"
+    "type": "wales"
   },
   "Llanishen": {
     "crs": "LLS",
-    "type": "national"
+    "type": "wales"
   },
   "Llanrwst": {
     "crs": "LWR",
-    "type": "national"
+    "type": "wales"
   },
   "Llansamlet": {
     "crs": "LAS",
@@ -5789,55 +5789,55 @@
   },
   "Llantwit Major": {
     "crs": "LWM",
-    "type": "national"
+    "type": "wales"
   },
   "Llanwrda": {
     "crs": "LNR",
-    "type": "national"
+    "type": "wales"
   },
   "Llanwrtyd": {
     "crs": "LNW",
-    "type": "national"
+    "type": "wales"
   },
   "Llwyngwril": {
     "crs": "LLW",
-    "type": "national"
+    "type": "wales"
   },
   "Llwynypia": {
     "crs": "LLY",
-    "type": "national"
+    "type": "wales"
   },
   "Loch Awe": {
     "crs": "LHA",
-    "type": "national"
+    "type": "scot"
   },
   "Loch Eil Outward Bound": {
     "crs": "LHE",
-    "type": "national"
+    "type": "scot"
   },
   "Lochailort": {
     "crs": "LCL",
-    "type": "national"
+    "type": "scot"
   },
   "Locheilside": {
     "crs": "LCS",
-    "type": "national"
+    "type": "scot"
   },
   "Lochgelly": {
     "crs": "LCG",
-    "type": "national"
+    "type": "scot"
   },
   "Lochluichart": {
     "crs": "LCC",
-    "type": "national"
+    "type": "scot"
   },
   "Lochwinnoch": {
     "crs": "LHW",
-    "type": "national"
+    "type": "scot"
   },
   "Lockerbie": {
     "crs": "LOC",
-    "type": "national"
+    "type": "scot"
   },
   "Lockwood": {
     "crs": "LCK",
@@ -5997,7 +5997,7 @@
   },
   "Ludlow": {
     "crs": "LUD",
-    "type": "national"
+    "type": "wales"
   },
   "Luton": {
     "crs": "LUT",
@@ -6045,23 +6045,23 @@
   },
   "Machynlleth": {
     "crs": "MCN",
-    "type": "national"
+    "type": "wales"
   },
   "Maesteg": {
     "crs": "MST",
-    "type": "national"
+    "type": "wales"
   },
   "Maesteg (Ewenny Road)": {
     "crs": "MEW",
-    "type": "national"
+    "type": "wales"
   },
   "Maghull": {
     "crs": "MAG",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Maghull North": {
     "crs": "MNS",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Maiden Newton": {
     "crs": "MDN",
@@ -6089,7 +6089,7 @@
   },
   "Mallaig": {
     "crs": "MLG",
-    "type": "national"
+    "type": "scot"
   },
   "Malton": {
     "crs": "MLT",
@@ -6133,11 +6133,11 @@
   },
   "Manor Road": {
     "crs": "MNR",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Manorbier": {
     "crs": "MRB",
-    "type": "national"
+    "type": "wales"
   },
   "Manors": {
     "crs": "MAS",
@@ -6173,7 +6173,7 @@
   },
   "Markinch": {
     "crs": "MNC",
-    "type": "national"
+    "type": "scot"
   },
   "Marks Tey": {
     "crs": "MKT",
@@ -6217,7 +6217,7 @@
   },
   "Maryhill": {
     "crs": "MYH",
-    "type": "national"
+    "type": "scot"
   },
   "Maryland": {
     "crs": "MYL",
@@ -6241,11 +6241,11 @@
   },
   "Maxwell Park": {
     "crs": "MAX",
-    "type": "national"
+    "type": "scot"
   },
   "Maybole": {
     "crs": "MAY",
-    "type": "national"
+    "type": "scot"
   },
   "Maze Hill": {
     "crs": "MZH",
@@ -6281,7 +6281,7 @@
   },
   "Meols": {
     "crs": "MEO",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Meols Cop": {
     "crs": "MEC",
@@ -6297,7 +6297,7 @@
   },
   "Merryton": {
     "crs": "MEY",
-    "type": "national"
+    "type": "scot"
   },
   "Merstham": {
     "crs": "MHM",
@@ -6305,11 +6305,11 @@
   },
   "Merthyr Tydfil": {
     "crs": "MER",
-    "type": "national"
+    "type": "wales"
   },
   "Merthyr Vale": {
     "crs": "MEV",
-    "type": "national"
+    "type": "wales"
   },
   "Metheringham": {
     "crs": "MGM",
@@ -6349,7 +6349,7 @@
   },
   "Milford Haven": {
     "crs": "MFH",
-    "type": "national"
+    "type": "wales"
   },
   "Mill Hill (Lancs)": {
     "crs": "MLH",
@@ -6369,7 +6369,7 @@
   },
   "Milliken Park": {
     "crs": "MIN",
-    "type": "national"
+    "type": "scot"
   },
   "Millom": {
     "crs": "MLM",
@@ -6381,7 +6381,7 @@
   },
   "Milngavie": {
     "crs": "MLN",
-    "type": "national"
+    "type": "scot"
   },
   "Milton Keynes Central": {
     "crs": "MKC",
@@ -6389,7 +6389,7 @@
   },
   "Minffordd": {
     "crs": "MFF",
-    "type": "national"
+    "type": "wales"
   },
   "Minster": {
     "crs": "MSR",
@@ -6417,7 +6417,7 @@
   },
   "Monifieth": {
     "crs": "MON",
-    "type": "national"
+    "type": "scot"
   },
   "Monks Risborough": {
     "crs": "MRS",
@@ -6429,11 +6429,11 @@
   },
   "Montrose": {
     "crs": "MTS",
-    "type": "national"
+    "type": "scot"
   },
   "Moorfields": {
     "crs": "MRF",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Moorgate": {
     "crs": "MOG",
@@ -6449,7 +6449,7 @@
   },
   "Morar": {
     "crs": "MRR",
-    "type": "national"
+    "type": "scot"
   },
   "Morchard Road": {
     "crs": "MRD",
@@ -6469,7 +6469,7 @@
   },
   "Moreton (Merseyside)": {
     "crs": "MRT",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Moreton-In-Marsh": {
     "crs": "MIM",
@@ -6477,7 +6477,7 @@
   },
   "Morfa Mawddach": {
     "crs": "MFA",
-    "type": "national"
+    "type": "wales"
   },
   "Morley": {
     "crs": "MLY",
@@ -6517,7 +6517,7 @@
   },
   "Mosspark": {
     "crs": "MPK",
-    "type": "national"
+    "type": "scot"
   },
   "Moston": {
     "crs": "MSO",
@@ -6525,7 +6525,7 @@
   },
   "Motherwell": {
     "crs": "MTH",
-    "type": "national"
+    "type": "scot"
   },
   "Motspur Park": {
     "crs": "MOT",
@@ -6549,27 +6549,27 @@
   },
   "Mount Florida": {
     "crs": "MFL",
-    "type": "national"
+    "type": "scot"
   },
   "Mount Vernon": {
     "crs": "MTV",
-    "type": "national"
+    "type": "scot"
   },
   "Mountain Ash": {
     "crs": "MTA",
-    "type": "national"
+    "type": "wales"
   },
   "Muir of Ord": {
     "crs": "MOO",
-    "type": "national"
+    "type": "scot"
   },
   "Muirend": {
     "crs": "MUI",
-    "type": "national"
+    "type": "scot"
   },
   "Musselburgh": {
     "crs": "MUB",
-    "type": "national"
+    "type": "scot"
   },
   "Mytholmroyd": {
     "crs": "MYT",
@@ -6585,15 +6585,15 @@
   },
   "Nairn": {
     "crs": "NRN",
-    "type": "national"
+    "type": "scot"
   },
   "Nantwich": {
     "crs": "NAN",
-    "type": "national"
+    "type": "wales"
   },
   "Narberth": {
     "crs": "NAR",
-    "type": "national"
+    "type": "wales"
   },
   "Narborough": {
     "crs": "NBR",
@@ -6605,7 +6605,7 @@
   },
   "Neath": {
     "crs": "NTH",
-    "type": "national"
+    "type": "wales"
   },
   "Needham Market": {
     "crs": "NMT",
@@ -6613,7 +6613,7 @@
   },
   "Neilston": {
     "crs": "NEI",
-    "type": "national"
+    "type": "scot"
   },
   "Nelson": {
     "crs": "NEL",
@@ -6621,7 +6621,7 @@
   },
   "Neston": {
     "crs": "NES",
-    "type": "national"
+    "type": "wales"
   },
   "Netherfield": {
     "crs": "NET",
@@ -6645,7 +6645,7 @@
   },
   "New Brighton": {
     "crs": "NBN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "New Clee": {
     "crs": "NCE",
@@ -6661,7 +6661,7 @@
   },
   "New Cumnock": {
     "crs": "NCK",
-    "type": "national"
+    "type": "scot"
   },
   "New Eltham": {
     "crs": "NEH",
@@ -6713,7 +6713,7 @@
   },
   "Newbridge": {
     "crs": "NBE",
-    "type": "national"
+    "type": "wales"
   },
   "Newbury": {
     "crs": "NBY",
@@ -6733,7 +6733,7 @@
   },
   "Newcraighall": {
     "crs": "NEW",
-    "type": "national"
+    "type": "scot"
   },
   "Newhaven Harbour": {
     "crs": "NVH",
@@ -6757,7 +6757,7 @@
   },
   "Newport (South Wales)": {
     "crs": "NWP",
-    "type": "national"
+    "type": "wales"
   },
   "Newquay": {
     "crs": "NQY",
@@ -6797,27 +6797,27 @@
   },
   "Newton-On-Ayr": {
     "crs": "NOA",
-    "type": "national"
+    "type": "scot"
   },
   "Newtongrange": {
     "crs": "NEG",
-    "type": "national"
+    "type": "scot"
   },
   "Newtonmore": {
     "crs": "NWR",
-    "type": "national"
+    "type": "scot"
   },
   "Newtown (Powys)": {
     "crs": "NWT",
-    "type": "national"
+    "type": "wales"
   },
   "Ninian Park": {
     "crs": "NNP",
-    "type": "national"
+    "type": "wales"
   },
   "Nitshill": {
     "crs": "NIT",
-    "type": "national"
+    "type": "scot"
   },
   "Norbiton": {
     "crs": "NBT",
@@ -6837,7 +6837,7 @@
   },
   "North Berwick": {
     "crs": "NBW",
-    "type": "national"
+    "type": "scot"
   },
   "North Camp": {
     "crs": "NCM",
@@ -6853,11 +6853,11 @@
   },
   "North Llanrwst": {
     "crs": "NLR",
-    "type": "national"
+    "type": "wales"
   },
   "North Queensferry": {
     "crs": "NQU",
-    "type": "national"
+    "type": "scot"
   },
   "North Road": {
     "crs": "NRD",
@@ -6953,7 +6953,7 @@
   },
   "Oban": {
     "crs": "OBN",
-    "type": "national"
+    "type": "scot"
   },
   "Ockendon": {
     "crs": "OCK",
@@ -6973,7 +6973,7 @@
   },
   "Old Roan": {
     "crs": "ORN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Old Street": {
     "crs": "OLD",
@@ -6993,7 +6993,7 @@
   },
   "Ormskirk": {
     "crs": "OMS",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Orpington": {
     "crs": "ORP",
@@ -7005,7 +7005,7 @@
   },
   "Orrell Park": {
     "crs": "OPK",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Otford": {
     "crs": "OTF",
@@ -7025,7 +7025,7 @@
   },
   "Overpool": {
     "crs": "OVE",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Overton": {
     "crs": "OVR",
@@ -7065,15 +7065,15 @@
   },
   "Paisley Canal": {
     "crs": "PCN",
-    "type": "national"
+    "type": "scot"
   },
   "Paisley Gilmour Street": {
     "crs": "PYG",
-    "type": "national"
+    "type": "scot"
   },
   "Paisley St James": {
     "crs": "PYJ",
-    "type": "national"
+    "type": "scot"
   },
   "Palmers Green": {
     "crs": "PAL",
@@ -7089,7 +7089,7 @@
   },
   "Pantyffynnon": {
     "crs": "PTF",
-    "type": "national"
+    "type": "wales"
   },
   "Par": {
     "crs": "PAR",
@@ -7117,7 +7117,7 @@
   },
   "Partick": {
     "crs": "PTK",
-    "type": "national"
+    "type": "scot"
   },
   "Parton": {
     "crs": "PRN",
@@ -7133,7 +7133,7 @@
   },
   "Patterton": {
     "crs": "PTT",
-    "type": "national"
+    "type": "scot"
   },
   "Peartree": {
     "crs": "PEA",
@@ -7153,35 +7153,35 @@
   },
   "Pembrey & Burry Port": {
     "crs": "PBY",
-    "type": "national"
+    "type": "wales"
   },
   "Pembroke": {
     "crs": "PMB",
-    "type": "national"
+    "type": "wales"
   },
   "Pembroke Dock": {
     "crs": "PMD",
-    "type": "national"
+    "type": "wales"
   },
   "Pen-Y-Bont": {
     "crs": "PNY",
-    "type": "national"
+    "type": "wales"
   },
   "Penally": {
     "crs": "PNA",
-    "type": "national"
+    "type": "wales"
   },
   "Penarth": {
     "crs": "PEN",
-    "type": "national"
+    "type": "wales"
   },
   "Pencoed": {
     "crs": "PCD",
-    "type": "national"
+    "type": "wales"
   },
   "Pengam": {
     "crs": "PGM",
-    "type": "national"
+    "type": "wales"
   },
   "Penge East": {
     "crs": "PNE",
@@ -7193,7 +7193,7 @@
   },
   "Penhelig": {
     "crs": "PHG",
-    "type": "national"
+    "type": "wales"
   },
   "Penistone": {
     "crs": "PNS",
@@ -7205,7 +7205,7 @@
   },
   "Penmaenmawr": {
     "crs": "PMW",
-    "type": "national"
+    "type": "wales"
   },
   "Penmere": {
     "crs": "PNM",
@@ -7213,11 +7213,11 @@
   },
   "Penrhiwceiber": {
     "crs": "PER",
-    "type": "national"
+    "type": "wales"
   },
   "Penrhyndeudraeth": {
     "crs": "PRH",
-    "type": "national"
+    "type": "wales"
   },
   "Penrith": {
     "crs": "PNR",
@@ -7229,7 +7229,7 @@
   },
   "Pensarn": {
     "crs": "PES",
-    "type": "national"
+    "type": "wales"
   },
   "Penshurst": {
     "crs": "PHR",
@@ -7237,15 +7237,15 @@
   },
   "Pentre-Bach": {
     "crs": "PTB",
-    "type": "national"
+    "type": "wales"
   },
   "Penychain": {
     "crs": "PNC",
-    "type": "national"
+    "type": "wales"
   },
   "Penyffordd": {
     "crs": "PNF",
-    "type": "national"
+    "type": "wales"
   },
   "Penzance": {
     "crs": "PNZ",
@@ -7265,7 +7265,7 @@
   },
   "Perth": {
     "crs": "PTH",
-    "type": "national"
+    "type": "scot"
   },
   "Peterborough": {
     "crs": "PBO",
@@ -7305,7 +7305,7 @@
   },
   "Pitlochry": {
     "crs": "PIT",
-    "type": "national"
+    "type": "scot"
   },
   "Pitsea": {
     "crs": "PSE",
@@ -7317,7 +7317,7 @@
   },
   "Plockton": {
     "crs": "PLK",
-    "type": "national"
+    "type": "scot"
   },
   "Pluckley": {
     "crs": "PLC",
@@ -7353,23 +7353,23 @@
   },
   "Pollokshaws East": {
     "crs": "PWE",
-    "type": "national"
+    "type": "scot"
   },
   "Pollokshaws West": {
     "crs": "PWW",
-    "type": "national"
+    "type": "scot"
   },
   "Pollokshields East": {
     "crs": "PLE",
-    "type": "national"
+    "type": "scot"
   },
   "Pollokshields West": {
     "crs": "PLW",
-    "type": "national"
+    "type": "scot"
   },
   "Polmont": {
     "crs": "PMT",
-    "type": "national"
+    "type": "scot"
   },
   "Polsloe Bridge": {
     "crs": "POL",
@@ -7381,11 +7381,11 @@
   },
   "Pont-Y-Pant": {
     "crs": "PYP",
-    "type": "national"
+    "type": "wales"
   },
   "Pontarddulais": {
     "crs": "PTD",
-    "type": "national"
+    "type": "wales"
   },
   "Pontefract Baghill": {
     "crs": "PFR",
@@ -7405,15 +7405,15 @@
   },
   "Pontyclun": {
     "crs": "PYC",
-    "type": "national"
+    "type": "wales"
   },
   "Pontypool and New Inn": {
     "crs": "PPL",
-    "type": "national"
+    "type": "wales"
   },
   "Pontypridd": {
     "crs": "PPD",
-    "type": "national"
+    "type": "wales"
   },
   "Poole": {
     "crs": "POO",
@@ -7425,11 +7425,11 @@
   },
   "Port Glasgow": {
     "crs": "PTG",
-    "type": "national"
+    "type": "scot"
   },
   "Port Sunlight": {
     "crs": "PSL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Port Talbot Parkway": {
     "crs": "PTA",
@@ -7441,15 +7441,15 @@
   },
   "Porth": {
     "crs": "POR",
-    "type": "national"
+    "type": "wales"
   },
   "Porthmadog": {
     "crs": "PTM",
-    "type": "national"
+    "type": "wales"
   },
   "Portlethen": {
     "crs": "PLN",
-    "type": "national"
+    "type": "scot"
   },
   "Portslade": {
     "crs": "PLD",
@@ -7473,7 +7473,7 @@
   },
   "Possilpark & Parkhouse": {
     "crs": "PPK",
-    "type": "national"
+    "type": "scot"
   },
   "Potters Bar": {
     "crs": "PBR",
@@ -7489,7 +7489,7 @@
   },
   "Prees": {
     "crs": "PRS",
-    "type": "national"
+    "type": "wales"
   },
   "Prescot": {
     "crs": "PSC",
@@ -7497,7 +7497,7 @@
   },
   "Prestatyn": {
     "crs": "PRT",
-    "type": "national"
+    "type": "wales"
   },
   "Prestbury": {
     "crs": "PRB",
@@ -7513,19 +7513,19 @@
   },
   "Prestonpans": {
     "crs": "PST",
-    "type": "national"
+    "type": "scot"
   },
   "Prestwick International Airport": {
     "crs": "PRA",
-    "type": "national"
+    "type": "scot"
   },
   "Prestwick Town": {
     "crs": "PTW",
-    "type": "national"
+    "type": "scot"
   },
   "Priesthill & Darnley": {
     "crs": "PTL",
-    "type": "national"
+    "type": "scot"
   },
   "Princes Risborough": {
     "crs": "PRR",
@@ -7561,19 +7561,19 @@
   },
   "Pwllheli": {
     "crs": "PWL",
-    "type": "national"
+    "type": "wales"
   },
   "Pye Corner": {
     "crs": "PYE",
-    "type": "national"
+    "type": "wales"
   },
   "Pyle": {
     "crs": "PYL",
-    "type": "national"
+    "type": "wales"
   },
   "Quakers Yard": {
     "crs": "QYD",
-    "type": "national"
+    "type": "wales"
   },
   "Queenborough": {
     "crs": "QBR",
@@ -7581,7 +7581,7 @@
   },
   "Queens Park (Glasgow)": {
     "crs": "QPK",
-    "type": "national"
+    "type": "scot"
   },
   "Queens Park (London)": {
     "crs": "QPW",
@@ -7613,7 +7613,7 @@
   },
   "Radyr": {
     "crs": "RDR",
-    "type": "national"
+    "type": "wales"
   },
   "Rainford": {
     "crs": "RNF",
@@ -7641,7 +7641,7 @@
   },
   "Rannoch": {
     "crs": "RAN",
-    "type": "national"
+    "type": "scot"
   },
   "Rauceby": {
     "crs": "RAU",
@@ -7737,11 +7737,11 @@
   },
   "Renton": {
     "crs": "RTN",
-    "type": "national"
+    "type": "scot"
   },
   "Reston": {
     "crs": "RSN",
-    "type": "national"
+    "type": "scot"
   },
   "Retford": {
     "crs": "RET",
@@ -7749,23 +7749,23 @@
   },
   "Rhiwbina": {
     "crs": "RHI",
-    "type": "national"
+    "type": "wales"
   },
   "Rhoose Cardiff Airport": {
     "crs": "RIA",
-    "type": "national"
+    "type": "wales"
   },
   "Rhosneigr": {
     "crs": "RHO",
-    "type": "national"
+    "type": "wales"
   },
   "Rhyl": {
     "crs": "RHL",
-    "type": "national"
+    "type": "wales"
   },
   "Rhymney": {
     "crs": "RHY",
-    "type": "national"
+    "type": "wales"
   },
   "Ribblehead": {
     "crs": "RHD",
@@ -7773,7 +7773,7 @@
   },
   "Rice Lane": {
     "crs": "RIL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Richmond": {
     "crs": "RMD",
@@ -7797,7 +7797,7 @@
   },
   "Risca & Pontymister": {
     "crs": "RCA",
-    "type": "national"
+    "type": "wales"
   },
   "Rishton": {
     "crs": "RIS",
@@ -7809,7 +7809,7 @@
   },
   "Robroyston": {
     "crs": "RRN",
-    "type": "national"
+    "type": "scot"
   },
   "Roby": {
     "crs": "ROB",
@@ -7833,15 +7833,15 @@
   },
   "Rock Ferry": {
     "crs": "RFY",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Rogart": {
     "crs": "ROG",
-    "type": "national"
+    "type": "scot"
   },
   "Rogerstone": {
     "crs": "ROR",
-    "type": "national"
+    "type": "wales"
   },
   "Rolleston": {
     "crs": "ROL",
@@ -7849,7 +7849,7 @@
   },
   "Roman Bridge": {
     "crs": "RMB",
-    "type": "national"
+    "type": "wales"
   },
   "Romford": {
     "crs": "RMF",
@@ -7877,7 +7877,7 @@
   },
   "Rosyth": {
     "crs": "ROS",
-    "type": "national"
+    "type": "scot"
   },
   "Rotherham Central": {
     "crs": "RMC",
@@ -7901,7 +7901,7 @@
   },
   "Roy Bridge": {
     "crs": "RYB",
-    "type": "national"
+    "type": "scot"
   },
   "Roydon": {
     "crs": "RYN",
@@ -7913,7 +7913,7 @@
   },
   "Ruabon": {
     "crs": "RUA",
-    "type": "national"
+    "type": "wales"
   },
   "Rufford": {
     "crs": "RUF",
@@ -7937,7 +7937,7 @@
   },
   "Runcorn East": {
     "crs": "RUE",
-    "type": "national"
+    "type": "wales"
   },
   "Ruskington": {
     "crs": "RKT",
@@ -7949,7 +7949,7 @@
   },
   "Rutherglen": {
     "crs": "RUT",
-    "type": "national"
+    "type": "scot"
   },
   "Ryde Esplanade": {
     "crs": "RYD",
@@ -8009,7 +8009,7 @@
   },
   "Saltcoats": {
     "crs": "SLT",
-    "type": "national"
+    "type": "scot"
   },
   "Saltmarshe": {
     "crs": "SAM",
@@ -8033,7 +8033,7 @@
   },
   "Sandhills": {
     "crs": "SDL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Sandhurst": {
     "crs": "SND",
@@ -8069,15 +8069,15 @@
   },
   "Sanquhar": {
     "crs": "SQH",
-    "type": "national"
+    "type": "scot"
   },
   "Sarn": {
     "crs": "SRR",
-    "type": "national"
+    "type": "wales"
   },
   "Saundersfoot": {
     "crs": "SDF",
-    "type": "national"
+    "type": "wales"
   },
   "Saunderton": {
     "crs": "SDR",
@@ -8101,11 +8101,11 @@
   },
   "Scotscalder": {
     "crs": "SCT",
-    "type": "national"
+    "type": "scot"
   },
   "Scotstounhill": {
     "crs": "SCH",
-    "type": "national"
+    "type": "scot"
   },
   "Scunthorpe": {
     "crs": "SCU",
@@ -8125,7 +8125,7 @@
   },
   "Seaforth & Litherland": {
     "crs": "SFL",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Seaham": {
     "crs": "SEA",
@@ -8209,7 +8209,7 @@
   },
   "Shawfair": {
     "crs": "SFI",
-    "type": "national"
+    "type": "scot"
   },
   "Shawford": {
     "crs": "SHW",
@@ -8217,7 +8217,7 @@
   },
   "Shawlands": {
     "crs": "SHL",
-    "type": "national"
+    "type": "scot"
   },
   "Sheerness-On-Sea": {
     "crs": "SSS",
@@ -8273,11 +8273,11 @@
   },
   "Shettleston": {
     "crs": "SLS",
-    "type": "national"
+    "type": "scot"
   },
   "Shieldmuir": {
     "crs": "SDM",
-    "type": "national"
+    "type": "scot"
   },
   "Shifnal": {
     "crs": "SFN",
@@ -8345,15 +8345,15 @@
   },
   "Shotton": {
     "crs": "SHT",
-    "type": "national"
+    "type": "wales"
   },
   "Shotts": {
     "crs": "SHS",
-    "type": "national"
+    "type": "scot"
   },
   "Shrewsbury": {
     "crs": "SHR",
-    "type": "national"
+    "type": "wales"
   },
   "Sidcup": {
     "crs": "SID",
@@ -8381,7 +8381,7 @@
   },
   "Singer": {
     "crs": "SIN",
-    "type": "national"
+    "type": "scot"
   },
   "Sittingbourne": {
     "crs": "SIT",
@@ -8393,7 +8393,7 @@
   },
   "Skewen": {
     "crs": "SKE",
-    "type": "national"
+    "type": "wales"
   },
   "Skipton": {
     "crs": "SKI",
@@ -8409,7 +8409,7 @@
   },
   "Slateford": {
     "crs": "SLA",
-    "type": "national"
+    "type": "scot"
   },
   "Sleaford": {
     "crs": "SLR",
@@ -8581,7 +8581,7 @@
   },
   "Southport": {
     "crs": "SOP",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Southwick": {
     "crs": "SWK",
@@ -8597,11 +8597,11 @@
   },
   "Spean Bridge": {
     "crs": "SBR",
-    "type": "national"
+    "type": "scot"
   },
   "Spital": {
     "crs": "SPI",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Spondon": {
     "crs": "SPO",
@@ -8617,11 +8617,11 @@
   },
   "Springburn": {
     "crs": "SPR",
-    "type": "national"
+    "type": "scot"
   },
   "Springfield": {
     "crs": "SPF",
-    "type": "national"
+    "type": "scot"
   },
   "Squires Gate": {
     "crs": "SQU",
@@ -8805,7 +8805,7 @@
   },
   "Stepps": {
     "crs": "SPS",
-    "type": "national"
+    "type": "scot"
   },
   "Stevenage": {
     "crs": "SVG",
@@ -8813,7 +8813,7 @@
   },
   "Stevenston": {
     "crs": "STV",
-    "type": "national"
+    "type": "scot"
   },
   "Stewartby": {
     "crs": "SWR",
@@ -8821,11 +8821,11 @@
   },
   "Stewarton": {
     "crs": "STT",
-    "type": "national"
+    "type": "scot"
   },
   "Stirling": {
     "crs": "STG",
-    "type": "national"
+    "type": "scot"
   },
   "Stockport": {
     "crs": "SPT",
@@ -8873,7 +8873,7 @@
   },
   "Stonehaven": {
     "crs": "STN",
-    "type": "national"
+    "type": "scot"
   },
   "Stonehouse": {
     "crs": "SHU",
@@ -8901,7 +8901,7 @@
   },
   "Stranraer": {
     "crs": "STR",
-    "type": "national"
+    "type": "scot"
   },
   "Stratford (London)": {
     "crs": "SRA",
@@ -8921,7 +8921,7 @@
   },
   "Strathcarron": {
     "crs": "STC",
-    "type": "national"
+    "type": "scot"
   },
   "Strawberry Hill": {
     "crs": "STW",
@@ -8949,7 +8949,7 @@
   },
   "Stromeferry": {
     "crs": "STF",
-    "type": "national"
+    "type": "scot"
   },
   "Strood": {
     "crs": "SOO",
@@ -8981,11 +8981,11 @@
   },
   "Sugar Loaf": {
     "crs": "SUG",
-    "type": "national"
+    "type": "wales"
   },
   "Summerston": {
     "crs": "SUM",
-    "type": "national"
+    "type": "scot"
   },
   "Sunbury": {
     "crs": "SUU",
@@ -9045,7 +9045,7 @@
   },
   "Swansea": {
     "crs": "SWA",
-    "type": "national"
+    "type": "wales"
   },
   "Swanwick": {
     "crs": "SNW",
@@ -9105,23 +9105,23 @@
   },
   "Taffs Well": {
     "crs": "TAF",
-    "type": "national"
+    "type": "wales"
   },
   "Tain": {
     "crs": "TAI",
-    "type": "national"
+    "type": "scot"
   },
   "Tal-Y-Cafn": {
     "crs": "TLC",
-    "type": "national"
+    "type": "wales"
   },
   "Talsarnau": {
     "crs": "TAL",
-    "type": "national"
+    "type": "wales"
   },
   "Talybont": {
     "crs": "TLB",
-    "type": "national"
+    "type": "wales"
   },
   "Tame Bridge Parkway": {
     "crs": "TAB",
@@ -9145,7 +9145,7 @@
   },
   "Taynuilt": {
     "crs": "TAY",
-    "type": "national"
+    "type": "scot"
   },
   "Teddington": {
     "crs": "TED",
@@ -9169,7 +9169,7 @@
   },
   "Tenby": {
     "crs": "TEN",
-    "type": "national"
+    "type": "wales"
   },
   "Teynham": {
     "crs": "TEY",
@@ -9233,7 +9233,7 @@
   },
   "Thornliebank": {
     "crs": "THB",
-    "type": "national"
+    "type": "scot"
   },
   "Thornton Abbey": {
     "crs": "TNA",
@@ -9245,7 +9245,7 @@
   },
   "Thorntonhall": {
     "crs": "THT",
-    "type": "national"
+    "type": "scot"
   },
   "Thorpe Bay": {
     "crs": "TPB",
@@ -9277,7 +9277,7 @@
   },
   "Thurso": {
     "crs": "THS",
-    "type": "national"
+    "type": "scot"
   },
   "Thurston": {
     "crs": "TRS",
@@ -9301,7 +9301,7 @@
   },
   "Tir-Phil": {
     "crs": "TIR",
-    "type": "national"
+    "type": "wales"
   },
   "Tisbury": {
     "crs": "TIS",
@@ -9321,7 +9321,7 @@
   },
   "Ton Pentre": {
     "crs": "TPN",
-    "type": "national"
+    "type": "wales"
   },
   "Tonbridge": {
     "crs": "TON",
@@ -9329,15 +9329,15 @@
   },
   "Tondu": {
     "crs": "TDU",
-    "type": "national"
+    "type": "wales"
   },
   "Tonfanau": {
     "crs": "TNF",
-    "type": "national"
+    "type": "wales"
   },
   "Tonypandy": {
     "crs": "TNP",
-    "type": "national"
+    "type": "wales"
   },
   "Tooting": {
     "crs": "TOO",
@@ -9373,7 +9373,7 @@
   },
   "Town Green": {
     "crs": "TWN",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Trafford Park": {
     "crs": "TRA",
@@ -9381,23 +9381,23 @@
   },
   "Trefforest": {
     "crs": "TRF",
-    "type": "national"
+    "type": "wales"
   },
   "Trefforest Estate": {
     "crs": "TRE",
-    "type": "national"
+    "type": "wales"
   },
   "Trehafod": {
     "crs": "TRH",
-    "type": "national"
+    "type": "wales"
   },
   "Treherbert": {
     "crs": "TRB",
-    "type": "national"
+    "type": "wales"
   },
   "Treorchy": {
     "crs": "TRY",
-    "type": "national"
+    "type": "wales"
   },
   "Trimley": {
     "crs": "TRM",
@@ -9409,11 +9409,11 @@
   },
   "Troed-Y-Rhiw": {
     "crs": "TRD",
-    "type": "national"
+    "type": "wales"
   },
   "Troon": {
     "crs": "TRN",
-    "type": "national"
+    "type": "scot"
   },
   "Trowbridge": {
     "crs": "TRO",
@@ -9425,7 +9425,7 @@
   },
   "Tulloch": {
     "crs": "TUL",
-    "type": "national"
+    "type": "scot"
   },
   "Tulse Hill": {
     "crs": "TUH",
@@ -9445,7 +9445,7 @@
   },
   "Tweedbank": {
     "crs": "TWB",
-    "type": "national"
+    "type": "scot"
   },
   "Twickenham": {
     "crs": "TWI",
@@ -9457,19 +9457,19 @@
   },
   "Ty Croes": {
     "crs": "TYC",
-    "type": "national"
+    "type": "wales"
   },
   "Ty Glas": {
     "crs": "TGS",
-    "type": "national"
+    "type": "wales"
   },
   "Tygwyn": {
     "crs": "TYG",
-    "type": "national"
+    "type": "wales"
   },
   "Tyndrum Lower": {
     "crs": "TYL",
-    "type": "national"
+    "type": "scot"
   },
   "Tyseley": {
     "crs": "TYS",
@@ -9477,7 +9477,7 @@
   },
   "Tywyn": {
     "crs": "TYW",
-    "type": "national"
+    "type": "wales"
   },
   "Uckfield": {
     "crs": "UCK",
@@ -9485,7 +9485,7 @@
   },
   "Uddingston": {
     "crs": "UDD",
-    "type": "national"
+    "type": "scot"
   },
   "Ulceby": {
     "crs": "ULC",
@@ -9509,7 +9509,7 @@
   },
   "Uphall": {
     "crs": "UHA",
-    "type": "national"
+    "type": "scot"
   },
   "Upholland": {
     "crs": "UPL",
@@ -9529,7 +9529,7 @@
   },
   "Upper Tyndrum": {
     "crs": "UTY",
-    "type": "national"
+    "type": "scot"
   },
   "Upper Warlingham": {
     "crs": "UWL",
@@ -9553,7 +9553,7 @@
   },
   "Valley": {
     "crs": "VAL",
-    "type": "national"
+    "type": "wales"
   },
   "Vauxhall": {
     "crs": "VXH",
@@ -9589,11 +9589,11 @@
   },
   "Wallasey Grove Road": {
     "crs": "WLG",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Wallasey Village": {
     "crs": "WLV",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Wallington": {
     "crs": "WLT",
@@ -9601,7 +9601,7 @@
   },
   "Wallyford": {
     "crs": "WAF",
-    "type": "national"
+    "type": "scot"
   },
   "Walmer": {
     "crs": "WAM",
@@ -9629,7 +9629,7 @@
   },
   "Walton (Merseyside)": {
     "crs": "WAO",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Walton-On-Thames": {
     "crs": "WAL",
@@ -9721,7 +9721,7 @@
   },
   "Waterloo (Merseyside)": {
     "crs": "WLO",
-    "type": "national"
+    "type": "merseytravel"
   },
   "Watford High Street": {
     "crs": "WFH",
@@ -9745,7 +9745,7 @@
   },
   "Waun-Gron Park": {
     "crs": "WNG",
-    "type": "national"
+    "type": "wales"
   },
   "Wavertree Technology Park": {
     "crs": "WAV",
@@ -9793,7 +9793,7 @@
   },
   "Wem": {
     "crs": "WEM",
-    "type": "national"
+    "type": "wales"
   },
   "Wembley Central": {
     "crs": "WMB",
@@ -9805,7 +9805,7 @@
   },
   "Wemyss Bay": {
     "crs": "WMS",
-    "type": "national"
+    "type": "scot"
   },
   "Wendover": {
     "crs": "WND",
@@ -9829,7 +9829,7 @@
   },
   "West Calder": {
     "crs": "WCL",
-    "type": "national"
+    "type": "scot"
   },
   "West Croydon": {
     "crs": "WCY",
@@ -9865,11 +9865,11 @@
   },
   "West Kilbride": {
     "crs": "WKB",
-    "type": "national"
+    "type": "scot"
   },
   "West Kirby": {
     "crs": "WKI",
-    "type": "national"
+    "type": "merseytravel"
   },
   "West Malling": {
     "crs": "WMA",
@@ -9921,7 +9921,7 @@
   },
   "Wester Hailes": {
     "crs": "WTA",
-    "type": "national"
+    "type": "scot"
   },
   "Westerfield": {
     "crs": "WFI",
@@ -9929,7 +9929,7 @@
   },
   "Westerton": {
     "crs": "WES",
-    "type": "national"
+    "type": "scot"
   },
   "Westgate-On-Sea": {
     "crs": "WGA",
@@ -9973,7 +9973,7 @@
   },
   "Whifflet": {
     "crs": "WFF",
-    "type": "national"
+    "type": "scot"
   },
   "Whimple": {
     "crs": "WHM",
@@ -9981,7 +9981,7 @@
   },
   "Whinhill": {
     "crs": "WNL",
-    "type": "national"
+    "type": "scot"
   },
   "Whiston": {
     "crs": "WHN",
@@ -9993,7 +9993,7 @@
   },
   "Whitchurch (Cardiff)": {
     "crs": "WHT",
-    "type": "national"
+    "type": "wales"
   },
   "Whitchurch (Hampshire)": {
     "crs": "WCH",
@@ -10001,7 +10001,7 @@
   },
   "Whitchurch (Shropshire)": {
     "crs": "WTC",
-    "type": "national"
+    "type": "wales"
   },
   "White Hart Lane": {
     "crs": "WHL",
@@ -10017,7 +10017,7 @@
   },
   "Whitecraigs": {
     "crs": "WCR",
-    "type": "national"
+    "type": "scot"
   },
   "Whitehaven": {
     "crs": "WTH",
@@ -10025,7 +10025,7 @@
   },
   "Whitland": {
     "crs": "WTL",
-    "type": "national"
+    "type": "wales"
   },
   "Whitley Bridge": {
     "crs": "WBD",
@@ -10065,7 +10065,7 @@
   },
   "Wick": {
     "crs": "WCK",
-    "type": "national"
+    "type": "scot"
   },
   "Wickford": {
     "crs": "WIC",
@@ -10101,7 +10101,7 @@
   },
   "Wildmill": {
     "crs": "WMI",
-    "type": "national"
+    "type": "wales"
   },
   "Willesden Junction": {
     "crs": "WIJ",
@@ -10109,7 +10109,7 @@
   },
   "Williamwood": {
     "crs": "WLM",
-    "type": "national"
+    "type": "scot"
   },
   "Willington": {
     "crs": "WIL",
@@ -10177,7 +10177,7 @@
   },
   "Wishaw": {
     "crs": "WSH",
-    "type": "national"
+    "type": "scot"
   },
   "Willenhall": {
     "crs": "WIA",
@@ -10345,7 +10345,7 @@
   },
   "Wrenbury": {
     "crs": "WRE",
-    "type": "national"
+    "type": "wales"
   },
   "Wressle": {
     "crs": "WRS",
@@ -10353,11 +10353,11 @@
   },
   "Wrexham Central": {
     "crs": "WXC",
-    "type": "national"
+    "type": "wales"
   },
   "Wrexham General": {
     "crs": "WRX",
-    "type": "national"
+    "type": "wales"
   },
   "Wye": {
     "crs": "WYE",
@@ -10417,11 +10417,11 @@
   },
   "Ynyswen": {
     "crs": "YNW",
-    "type": "national"
+    "type": "wales"
   },
   "Yoker": {
     "crs": "YOK",
-    "type": "national"
+    "type": "scot"
   },
   "York": {
     "crs": "YRK",
@@ -10429,15 +10429,15 @@
   },
   "Yorton": {
     "crs": "YRT",
-    "type": "national"
+    "type": "wales"
   },
   "Ystrad Mynach": {
     "crs": "YSM",
-    "type": "national"
+    "type": "wales"
   },
   "Ystrad Rhondda": {
     "crs": "YSR",
-    "type": "national"
+    "type": "wales"
   },
   "White Rose": {
     "crs": "WRO",
