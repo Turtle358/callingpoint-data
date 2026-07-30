@@ -387,7 +387,7 @@
   {
     "code": "BK",
     "acronym": "LU",
-    "name": "Bakerloo",
+    "name": "Bakerloo Line",
     "colour": "#B36305",
     "manager": "tfl",
     "shown": 1,
@@ -398,7 +398,7 @@
   {
     "code": "CE",
     "acronym": "LU",
-    "name": "Central",
+    "name": "Central Line",
     "colour": "#E32017",
     "manager": "tfl",
     "shown": 1,
@@ -409,7 +409,7 @@
   {
     "code": "CI",
     "acronym": "LU",
-    "name": "Circle",
+    "name": "Circle Line",
     "colour": "#FFD300",
     "manager": "tfl",
     "shown": 1,
@@ -420,7 +420,7 @@
   {
     "code": "DI",
     "acronym": "LU",
-    "name": "District",
+    "name": "District Line",
     "colour": "#00782A",
     "manager": "tfl",
     "shown": 1,
@@ -431,7 +431,7 @@
   {
     "code": "HC",
     "acronym": "LU",
-    "name": "Hammersmith & City",
+    "name": "Hammersmith & City Line",
     "colour": "#F3A9BB",
     "manager": "tfl",
     "shown": 1,
@@ -442,7 +442,7 @@
   {
     "code": "JU",
     "acronym": "LU",
-    "name": "Jubilee",
+    "name": "Jubilee Line",
     "colour": "#A0A5A9",
     "manager": "tfl",
     "shown": 1,
@@ -453,7 +453,7 @@
   {
     "code": "MT",
     "acronym": "LU",
-    "name": "Metropolitan",
+    "name": "Metropolitan Line",
     "colour": "#9B0056",
     "manager": "tfl",
     "shown": 1,
@@ -464,7 +464,7 @@
   {
     "code": "NO",
     "acronym": "LU",
-    "name": "Northern",
+    "name": "Northern Line",
     "colour": "#000000",
     "manager": "tfl",
     "shown": 1,
@@ -475,7 +475,7 @@
   {
     "code": "PI",
     "acronym": "LU",
-    "name": "Piccadilly",
+    "name": "Piccadilly Line",
     "colour": "#003688",
     "manager": "tfl",
     "shown": 1,
@@ -486,7 +486,7 @@
   {
     "code": "VI",
     "acronym": "LU",
-    "name": "Victoria",
+    "name": "Victoria Line",
     "colour": "#0098D4",
     "manager": "tfl",
     "shown": 1,
@@ -497,7 +497,7 @@
   {
     "code": "WC",
     "acronym": "LU",
-    "name": "Waterloo & City",
+    "name": "Waterloo & City Line",
     "colour": "#95CDBA",
     "manager": "tfl",
     "shown": 1,
