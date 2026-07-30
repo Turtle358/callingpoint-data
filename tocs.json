@@ -5,7 +5,10 @@
     "name": "Thameslink",
     "colour": "#FF5AA5",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.thameslinkrailway.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "SN",
@@ -13,7 +16,10 @@
     "name": "Southern",
     "colour": "#00402d",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southernrailway.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "GN",
@@ -21,7 +27,10 @@
     "name": "Great Northern",
     "colour": "#0099FF",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.greatnorthernrail.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "GX",
@@ -29,7 +38,10 @@
     "name": "Gatwick Express",
     "colour": "#EB1C24",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.gatwickexpress.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "SW",
@@ -37,7 +49,10 @@
     "name": "South Western Railway",
     "colour": "#243D8F",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southwesternrailway.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "SE",
@@ -45,7 +60,10 @@
     "name": "Southeastern",
     "colour": "#00AFEF",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southeasternrailway.co.uk/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "GW",
@@ -53,7 +71,10 @@
     "name": "Great Western Railway",
     "colour": "#0A493E",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.gwr.com",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "VT",
@@ -61,7 +82,10 @@
     "name": "Avanti West Coast",
     "colour": "#004354",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.avantiwestcoast.co.uk",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "GR",
@@ -69,7 +93,10 @@
     "name": "London North Eastern Railway",
     "colour": "#CE0F20",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.lner.co.uk/delayrepayV2/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "XC",
@@ -77,7 +104,10 @@
     "name": "CrossCountry",
     "colour": "#660F21",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.crosscountrytrains.co.uk/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "EM",
@@ -85,7 +115,10 @@
     "name": "East Midlands Railway",
     "colour": "#4C2F48",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.eastmidlandsrailway.co.uk/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "CH",
@@ -93,7 +126,10 @@
     "name": "Chiltern Railways",
     "colour": "#00A8E0",
     "manager": "national",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://chilternrailways.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "LE",
@@ -101,7 +137,10 @@
     "name": "Greater Anglia",
     "colour": "#D70428",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "NT",
@@ -109,7 +148,10 @@
     "name": "Northern",
     "colour": "#0F0A5C",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.northernrailway.co.uk/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "TP",
@@ -117,31 +159,43 @@
     "name": "TransPennine Express",
     "colour": "#05B2ED",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.tpexpress.co.uk/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "SR",
     "acronym": "SR",
     "name": "ScotRail",
     "colour": "#002664",
-    "manager": "national",
-    "shown": 1
+    "manager": "scot",
+    "shown": 1,
+    "delayRepayUrl": "https://www.scotrail.co.uk/about-scotrail/our-delay-repay-guarantee",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "AW",
     "acronym": "TfW",
     "name": "Transport for Wales",
     "colour": "#FF0000",
-    "manager": "national",
-    "shown": 1
+    "manager": "wales",
+    "shown": 1,
+    "delayRepayUrl": "https://tfw.wales/help-and-contact/rail/delay-repay",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "ME",
     "acronym": "MR",
     "name": "Merseyrail",
     "colour": "#FFF200",
-    "manager": "national",
-    "shown": 1
+    "manager": "merseytravel",
+    "shown": 1,
+    "delayRepayUrl": "https://www.merseyrail.org/help-support/refunds-and-compensation/",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "CC",
@@ -149,7 +203,10 @@
     "name": "c2c",
     "colour": "#B21082",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://c2c.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "LO",
@@ -157,7 +214,10 @@
     "name": "London Overground",
     "colour": "#E86A10",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
   },
   {
     "code": "XR",
@@ -165,7 +225,10 @@
     "name": "Elizabeth line",
     "colour": "#7c40c0",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
   },
   {
     "code": "HX",
@@ -173,15 +236,21 @@
     "name": "Heathrow Express",
     "colour": "#532E63",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.heathrowexpress.com/help-centre/ticket-changes-and-refunds",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "CS",
     "acronym": "CS",
     "name": "Caledonian Sleeper",
     "colour": "#1A2F33",
-    "manager": "national",
-    "shown": 1
+    "manager": "scot",
+    "shown": 1,
+    "delayRepayUrl": "https://www.sleeper.scot/help-support/contact-us/",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "GC",
@@ -189,15 +258,21 @@
     "name": "Grand Central",
     "colour": "#000000",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add",
+    "delayRepayMinTime": 60,
+    "delayRepayMessage": "A minimum delay of 60 minutes applies."
   },
   {
     "code": "LF",
     "acronym": "GC",
-    "name": "Grand Central - North West",
+    "name": "Grand Central",
     "colour": "#000000",
     "manager": "open-access",
-    "shown": 1
+    "shown": 0,
+    "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add",
+    "delayRepayMinTime": 60,
+    "delayRepayMessage": "A minimum delay of 60 minutes applies."
   },
   {
     "code": "LD",
@@ -205,7 +280,10 @@
     "name": "Lumo",
     "colour": "#00B2E2",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.lumo.co.uk/",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "ZX",
@@ -213,7 +291,10 @@
     "name": "Lumo Stirling",
     "colour": "#00B2E2",
     "manager": "open-access",
-    "shown": 0
+    "shown": 0,
+    "delayRepayUrl": "https://delayrepay.lumo.co.uk/",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "SX",
@@ -221,7 +302,10 @@
     "name": "Stansted Express",
     "colour": "#E4002B",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Delay-repay for this operator is handled by Greater Anglia."
   },
   {
     "code": "ZN",
@@ -229,7 +313,10 @@
     "name": "London Underground",
     "colour": "#0019A8",
     "manager": "tfl",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
   },
   {
     "code": "HT",
@@ -237,7 +324,10 @@
     "name": "Hull Trains",
     "colour": "#DE005C",
     "manager": "open-access",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.hulltrains.co.uk",
+    "delayRepayMinTime": 30,
+    "delayRepayMessage": "A minimum delay of 30 minutes applies."
   },
   {
     "code": "LN",
@@ -245,15 +335,21 @@
     "name": "London Northwestern Railway",
     "colour": "#006a60",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://londonnorthwesternrailway.delayrepaycompensation.com/index.cfm?fuseaction=Public.addclaim",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "IL",
     "acronym": "IL",
-    "name": "Island Line - SWR",
+    "name": "Island Line",
     "colour": "#243D8F",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://delayrepay.southwesternrailway.com",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Delay-repay for this operator is managed by SWR."
   },
   {
     "code": "WM",
@@ -261,7 +357,10 @@
     "name": "West Midlands Railway",
     "colour": "#420b56",
     "manager": "gbr",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "ZZ",
@@ -269,7 +368,10 @@
     "name": "LNR & WMR",
     "colour": "#FF8200",
     "manager": "gbr",
-    "shown": 0
+    "shown": 0,
+    "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
   },
   {
     "code": "ES",
@@ -277,6 +379,141 @@
     "name": "Eurostar",
     "colour": "#002055",
     "manager": "eurostar",
-    "shown": 1
+    "shown": 1,
+    "delayRepayUrl": "https://www.eurostar.com/uk-en/travel-info/service-information/claiming-compensation#Train-delayed",
+    "delayRepayMinTime": 60,
+    "delayRepayMessage": "A minimum delay of 60 minutes applies."
+  },
+  {
+    "code": "BK",
+    "acronym": "LU",
+    "name": "Bakerloo",
+    "colour": "#B36305",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "CE",
+    "acronym": "LU",
+    "name": "Central",
+    "colour": "#E32017",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "CI",
+    "acronym": "LU",
+    "name": "Circle",
+    "colour": "#FFD300",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "DI",
+    "acronym": "LU",
+    "name": "District",
+    "colour": "#00782A",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "HC",
+    "acronym": "LU",
+    "name": "Hammersmith & City",
+    "colour": "#F3A9BB",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "JU",
+    "acronym": "LU",
+    "name": "Jubilee",
+    "colour": "#A0A5A9",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "MT",
+    "acronym": "LU",
+    "name": "Metropolitan",
+    "colour": "#9B0056",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "NO",
+    "acronym": "LU",
+    "name": "Northern",
+    "colour": "#000000",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "PI",
+    "acronym": "LU",
+    "name": "Piccadilly",
+    "colour": "#003688",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "VI",
+    "acronym": "LU",
+    "name": "Victoria",
+    "colour": "#0098D4",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "WC",
+    "acronym": "LU",
+    "name": "Waterloo & City",
+    "colour": "#95CDBA",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "DL",
+    "acronym": "DLR",
+    "name": "DLR",
+    "colour": "#00A4A7",
+    "manager": "tfl",
+    "shown": 1,
+    "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "Handled via TfL refunds."
   }
 ]
