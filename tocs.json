@@ -387,7 +387,7 @@
   },
   {
     "code": "BK",
-    "acronym": "LU",
+    "acronym": "BAK",
     "tflId": "bakerloo",
     "name": "Bakerloo Line",
     "colour": "#B36305",
@@ -399,7 +399,7 @@
   },
   {
     "code": "CE",
-    "acronym": "LU",
+    "acronym": "CEN",
     "tflId": "central",
     "name": "Central Line",
     "colour": "#E32017",
@@ -411,7 +411,7 @@
   },
   {
     "code": "CI",
-    "acronym": "LU",
+    "acronym": "CIR",
     "tflId": "circle",
     "name": "Circle Line",
     "colour": "#FFD300",
@@ -423,7 +423,7 @@
   },
   {
     "code": "DI",
-    "acronym": "LU",
+    "acronym": "DIS",
     "tflId": "district",
     "name": "District Line",
     "colour": "#00782A",
@@ -435,7 +435,7 @@
   },
   {
     "code": "HC",
-    "acronym": "LU",
+    "acronym": "H&C",
     "tflId": "hammersmith-city",
     "name": "Hammersmith & City Line",
     "colour": "#F3A9BB",
@@ -447,7 +447,7 @@
   },
   {
     "code": "JU",
-    "acronym": "LU",
+    "acronym": "JUB",
     "tflId": "jubilee",
     "name": "Jubilee Line",
     "colour": "#A0A5A9",
@@ -459,7 +459,7 @@
   },
   {
     "code": "MT",
-    "acronym": "LU",
+    "acronym": "MET",
     "tflId": "metropolitan",
     "name": "Metropolitan Line",
     "colour": "#9B0056",
@@ -471,7 +471,7 @@
   },
   {
     "code": "NO",
-    "acronym": "LU",
+    "acronym": "NOR",
     "tflId": "northern",
     "name": "Northern Line",
     "colour": "#000000",
@@ -483,7 +483,7 @@
   },
   {
     "code": "PI",
-    "acronym": "LU",
+    "acronym": "PIC",
     "tflId": "piccadilly",
     "name": "Piccadilly Line",
     "colour": "#003688",
@@ -495,7 +495,7 @@
   },
   {
     "code": "VI",
-    "acronym": "LU",
+    "acronym": "VIC",
     "tflId": "victoria",
     "name": "Victoria Line",
     "colour": "#0098D4",
@@ -507,7 +507,7 @@
   },
   {
     "code": "WC",
-    "acronym": "LU",
+    "acronym": "W&C",
     "tflId": "waterloo-city",
     "name": "Waterloo & City Line",
     "colour": "#95CDBA",
