@@ -111,7 +111,7 @@
   },
   {
     "code": "EM",
-    "acronym": "EMR",
+    "acronym": "E M R",
     "name": "East Midlands Railway",
     "colour": "#4C2F48",
     "manager": "national",
@@ -214,13 +214,14 @@
     "name": "London Overground",
     "colour": "#E86A10",
     "manager": "tfl",
-    "shown": 1,
+    "shown": 0,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 30,
     "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
   },
   {
     "code": "XR",
+    "tflId": "elizabeth",
     "acronym": "EL",
     "name": "Elizabeth line",
     "colour": "#7c40c0",
@@ -387,6 +388,7 @@
   {
     "code": "BK",
     "acronym": "LU",
+    "tflId": "bakerloo",
     "name": "Bakerloo Line",
     "colour": "#B36305",
     "manager": "tfl",
@@ -398,6 +400,7 @@
   {
     "code": "CE",
     "acronym": "LU",
+    "tflId": "central",
     "name": "Central Line",
     "colour": "#E32017",
     "manager": "tfl",
@@ -409,6 +412,7 @@
   {
     "code": "CI",
     "acronym": "LU",
+    "tflId": "circle",
     "name": "Circle Line",
     "colour": "#FFD300",
     "manager": "tfl",
@@ -420,6 +424,7 @@
   {
     "code": "DI",
     "acronym": "LU",
+    "tflId": "district",
     "name": "District Line",
     "colour": "#00782A",
     "manager": "tfl",
@@ -431,6 +436,7 @@
   {
     "code": "HC",
     "acronym": "LU",
+    "tflId": "hammersmith-city",
     "name": "Hammersmith & City Line",
     "colour": "#F3A9BB",
     "manager": "tfl",
@@ -442,6 +448,7 @@
   {
     "code": "JU",
     "acronym": "LU",
+    "tflId": "jubilee",
     "name": "Jubilee Line",
     "colour": "#A0A5A9",
     "manager": "tfl",
@@ -453,6 +460,7 @@
   {
     "code": "MT",
     "acronym": "LU",
+    "tflId": "metropolitan",
     "name": "Metropolitan Line",
     "colour": "#9B0056",
     "manager": "tfl",
@@ -464,6 +472,7 @@
   {
     "code": "NO",
     "acronym": "LU",
+    "tflId": "northern",
     "name": "Northern Line",
     "colour": "#000000",
     "manager": "tfl",
@@ -475,6 +484,7 @@
   {
     "code": "PI",
     "acronym": "LU",
+    "tflId": "piccadilly",
     "name": "Piccadilly Line",
     "colour": "#003688",
     "manager": "tfl",
@@ -486,6 +496,7 @@
   {
     "code": "VI",
     "acronym": "LU",
+    "tflId": "victoria",
     "name": "Victoria Line",
     "colour": "#0098D4",
     "manager": "tfl",
@@ -497,6 +508,7 @@
   {
     "code": "WC",
     "acronym": "LU",
+    "tflId": "waterloo-city",
     "name": "Waterloo & City Line",
     "colour": "#95CDBA",
     "manager": "tfl",
@@ -508,6 +520,7 @@
   {
     "code": "DL",
     "acronym": "DLR",
+    "tflId": "dlr",
     "name": "DLR",
     "colour": "#00A4A7",
     "manager": "tfl",
@@ -515,5 +528,68 @@
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
     "delayRepayMessage": "Handled via TfL refunds."
+  },
+  {
+    "code": "OM",
+    "acronym": "MIL",
+    "tflId": "mildmay",
+    "name": "Mildmay line",
+    "colour": "#0087DC",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "OL",
+    "acronym": "LIO",
+    "tflId": "lioness",
+    "name": "Lioness line",
+    "colour": "#FFA600",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "OW",
+    "acronym": "WIN",
+    "tflId": "windrush",
+    "name": "Windrush line",
+    "colour": "#DC241F",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "OV",
+    "acronym": "WEA",
+    "tflId": "weaver",
+    "name": "Weaver line",
+    "colour": "#9B0056",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "OS",
+    "acronym": "SUF",
+    "tflId": "suffragette",
+    "name": "Suffragette line",
+    "colour": "#18A95D",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "OB",
+    "acronym": "LIB",
+    "tflId": "liberty",
+    "name": "Liberty line",
+    "colour": "#898D8D",
+    "manager": "tfl",
+    "shown": 1
+  },
+  {
+    "code": "TR",
+    "acronym": "TR",
+    "tflId": "tram",
+    "name": "London Trams",
+    "colour": "#66CC00",
+    "manager": "tfl",
+    "shown": 1
   }
 ]
