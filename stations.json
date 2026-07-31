@@ -7,7 +7,7 @@
   "Abbey Wood": {
     "crs": "ABW",
     "naptan": "910GABWDXR",
-    "type": "tfl"
+    "type": "national"
   },
   "Aber": {
     "crs": "ABE",
@@ -4742,7 +4742,7 @@
   "Farringdon": {
     "crs": "ZFD",
     "naptan": "940GZZLUFCN",
-    "type": "tfl"
+    "type": "national"
   },
   "Fauldhouse": {
     "crs": "FLD",
