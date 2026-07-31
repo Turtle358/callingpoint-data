@@ -152,17 +152,17 @@
   "Aigburth": {
     "crs": "AIG",
     "naptan": "9100AIGBURT",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Ainsdale": {
     "crs": "ANS",
     "naptan": "9100AINSDAL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Aintree": {
     "crs": "AIN",
     "naptan": "9100AINTREE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Airbles": {
     "crs": "AIR",
@@ -647,7 +647,7 @@
   "Aughton Park": {
     "crs": "AUG",
     "naptan": "9100AGHTNPH",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Aviemore": {
     "crs": "AVM",
@@ -697,7 +697,7 @@
   "Bache": {
     "crs": "BAC",
     "naptan": "9100BACHE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Baglan": {
     "crs": "BAJ",
@@ -782,7 +782,7 @@
   "Bank Hall": {
     "crs": "BAH",
     "naptan": "9100BNKHALL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Banstead": {
     "crs": "BAD",
@@ -1057,7 +1057,7 @@
   "Bebington": {
     "crs": "BEB",
     "naptan": "9100BEBNGTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Beccles": {
     "crs": "BCC",
@@ -1327,7 +1327,7 @@
   "Bidston": {
     "crs": "BID",
     "naptan": "9100BDSTON",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Biggleswade": {
     "crs": "BIW",
@@ -1387,27 +1387,27 @@
   "Birkdale": {
     "crs": "BDL",
     "naptan": "9100BKDLE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Birkenhead Central": {
     "crs": "BKC",
     "naptan": "9100BRKNHDC",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Birkenhead Hamilton Square": {
     "crs": "BKQ",
     "naptan": "9100HAMTSQ",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Birkenhead North": {
     "crs": "BKN",
     "naptan": "9100BRKNHDN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Birkenhead Park": {
     "crs": "BKP",
     "naptan": "9100BRKNHDP",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Birmingham International": {
     "crs": "BHI",
@@ -1567,7 +1567,7 @@
   "Blundellsands & Crosby": {
     "crs": "BLN",
     "naptan": "9100BLNDLAC",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Blythe Bridge": {
     "crs": "BYB",
@@ -1622,12 +1622,12 @@
   "Bootle New Strand": {
     "crs": "BNW",
     "naptan": "9100BOOTLNS",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Bootle Oriel Road": {
     "crs": "BOT",
     "naptan": "9100BOOTLOR",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Bordesley": {
     "crs": "BBS",
@@ -1967,12 +1967,12 @@
   "Bromborough": {
     "crs": "BOM",
     "naptan": "9100BRMB",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Bromborough Rake": {
     "crs": "BMR",
     "naptan": "9100BRMBRK",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Bromley Cross": {
     "crs": "BMC",
@@ -2072,7 +2072,7 @@
   "Brunswick": {
     "crs": "BRW",
     "naptan": "9100BNWK",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Brussels Midi/Zuid": {
     "crs": "BXS",
@@ -2432,7 +2432,7 @@
   "Capenhurst": {
     "crs": "CPU",
     "naptan": "9100CPNHRST",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Carbis Bay": {
     "crs": "CBB",
@@ -3152,7 +3152,7 @@
   "Conway Park": {
     "crs": "CNP",
     "naptan": "9100BRKNCPK",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Conwy": {
     "crs": "CNW",
@@ -3327,7 +3327,7 @@
   "Cressington": {
     "crs": "CSG",
     "naptan": "9100CRSNGTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Creswell": {
     "crs": "CWD",
@@ -4292,7 +4292,7 @@
   "Eastham Rake": {
     "crs": "ERA",
     "naptan": "9100ESTHRAK",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Eastleigh": {
     "crs": "ESL",
@@ -4437,7 +4437,7 @@
   "Ellesmere Port": {
     "crs": "ELP",
     "naptan": "9100ELSMPRT",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Elm Park": {
     "crs": "",
@@ -4762,7 +4762,7 @@
   "Fazakerley": {
     "crs": "FAZ",
     "naptan": "9100FAZKRLY",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Fearn": {
     "crs": "FRN",
@@ -4942,7 +4942,7 @@
   "Formby": {
     "crs": "FBY",
     "naptan": "9100FORMBY",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Forres": {
     "crs": "FOR",
@@ -4992,7 +4992,7 @@
   "Freshfield": {
     "crs": "FRE",
     "naptan": "9100FRSHFLD",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Freshford": {
     "crs": "FFD",
@@ -5477,7 +5477,7 @@
   "Green Lane": {
     "crs": "GNL",
     "naptan": "9100GNLN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Green Park": {
     "crs": "",
@@ -5697,7 +5697,7 @@
   "Hall Road": {
     "crs": "HLR",
     "naptan": "9100HALLRD",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hall i' th' Wood": {
     "crs": "HID",
@@ -6052,7 +6052,7 @@
   "Headbolt Lane": {
     "crs": "HBL",
     "naptan": "9100HBOLTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Headcorn": {
     "crs": "HCN",
@@ -6317,7 +6317,7 @@
   "Hightown": {
     "crs": "HTO",
     "naptan": "9100HITN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hildenborough": {
     "crs": "HLB",
@@ -6347,7 +6347,7 @@
   "Hillside": {
     "crs": "HIL",
     "naptan": "9100HILLSID",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hilsea": {
     "crs": "HLS",
@@ -6467,7 +6467,7 @@
   "Hooton": {
     "crs": "HOO",
     "naptan": "9100HOOTON",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hope (Derbyshire)": {
     "crs": "HOP",
@@ -6597,7 +6597,7 @@
   "Hoylake": {
     "crs": "HYK",
     "naptan": "9100HOYLAKE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hubberts Bridge": {
     "crs": "HBB",
@@ -6652,7 +6652,7 @@
   "Hunts Cross": {
     "crs": "HNX",
     "naptan": "9100HUNTSX",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Hurst Green": {
     "crs": "HUR",
@@ -6837,7 +6837,7 @@
   "James Street": {
     "crs": "LVJ",
     "naptan": "",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Jewellery Quarter": {
     "crs": "JEQ",
@@ -7187,7 +7187,7 @@
   "Kirkby": {
     "crs": "KIR",
     "naptan": "9100KKBY",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Kirkby Stephen": {
     "crs": "KSW",
@@ -7217,7 +7217,7 @@
   "Kirkdale": {
     "crs": "KKD",
     "naptan": "9100KRKDALE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Kirkham & Wesham": {
     "crs": "KKM",
@@ -7507,7 +7507,7 @@
   "Leasowe": {
     "crs": "LSW",
     "naptan": "9100LEASOWE",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Leatherhead": {
     "crs": "LHD",
@@ -7707,7 +7707,7 @@
   "Little Sutton": {
     "crs": "LTT",
     "naptan": "9100LTLSUTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Littleborough": {
     "crs": "LTL",
@@ -7732,7 +7732,7 @@
   "Liverpool Central": {
     "crs": "LVC",
     "naptan": "9100LVRPLCH",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Liverpool Lime Street": {
     "crs": "LIV",
@@ -7742,7 +7742,7 @@
   "Liverpool South Parkway": {
     "crs": "LPY",
     "naptan": "9100ALERTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Livingston North": {
     "crs": "LSN",
@@ -8227,12 +8227,12 @@
   "Maghull": {
     "crs": "MAG",
     "naptan": "9100MAGHULL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Maghull North": {
     "crs": "MNS",
     "naptan": "9100MAGHNTH",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Maida Vale": {
     "crs": "",
@@ -8332,7 +8332,7 @@
   "Manor Road": {
     "crs": "MNR",
     "naptan": "9100MNRD",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Manorbier": {
     "crs": "MRB",
@@ -8527,7 +8527,7 @@
   "Meols": {
     "crs": "MEO",
     "naptan": "9100MELS",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Meols Cop": {
     "crs": "MEC",
@@ -8737,7 +8737,7 @@
   "Moorfields": {
     "crs": "MRF",
     "naptan": "9100MORFLDS",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Moorgate": {
     "crs": "MOG",
@@ -8787,7 +8787,7 @@
   "Moreton (Merseyside)": {
     "crs": "MRT",
     "naptan": "9100MOTO",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Moreton-In-Marsh": {
     "crs": "MIM",
@@ -9022,7 +9022,7 @@
   "New Brighton": {
     "crs": "NBN",
     "naptan": "9100NBTN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "New Clee": {
     "crs": "NCE",
@@ -9497,7 +9497,7 @@
   "Old Roan": {
     "crs": "ORN",
     "naptan": "9100OLDROAN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Old Street": {
     "crs": "OLD",
@@ -9522,7 +9522,7 @@
   "Ormskirk": {
     "crs": "OMS",
     "naptan": "9100ORMSKRK",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Orpington": {
     "crs": "ORP",
@@ -9537,7 +9537,7 @@
   "Orrell Park": {
     "crs": "OPK",
     "naptan": "9100ORELPKH",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Osterley": {
     "crs": "",
@@ -9572,7 +9572,7 @@
   "Overpool": {
     "crs": "OVE",
     "naptan": "9100OPOL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Overton": {
     "crs": "OVR",
@@ -10132,7 +10132,7 @@
   "Port Sunlight": {
     "crs": "PSL",
     "naptan": "9100PSLT",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Port Talbot Parkway": {
     "crs": "PTA",
@@ -10617,7 +10617,7 @@
   "Rice Lane": {
     "crs": "RIL",
     "naptan": "9100RICELA",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Richmond": {
     "crs": "RMD",
@@ -10692,7 +10692,7 @@
   "Rock Ferry": {
     "crs": "RFY",
     "naptan": "9100ROCKFRY",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Roding Valley": {
     "crs": "",
@@ -10982,7 +10982,7 @@
   "Sandhills": {
     "crs": "SDL",
     "naptan": "9100SANDH",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Sandhurst": {
     "crs": "SND",
@@ -11097,7 +11097,7 @@
   "Seaforth & Litherland": {
     "crs": "SFL",
     "naptan": "9100SFRTHAL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Seaham": {
     "crs": "SEA",
@@ -11727,7 +11727,7 @@
   "Southport": {
     "crs": "SOP",
     "naptan": "9100SOUTHPT",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Southwark": {
     "crs": "",
@@ -11757,7 +11757,7 @@
   "Spital": {
     "crs": "SPI",
     "naptan": "9100SPITAL",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Spondon": {
     "crs": "SPO",
@@ -12817,7 +12817,7 @@
   "Town Green": {
     "crs": "TWN",
     "naptan": "9100TOWNGRN",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Trafford Park": {
     "crs": "TRA",
@@ -13122,12 +13122,12 @@
   "Wallasey Grove Road": {
     "crs": "WLG",
     "naptan": "9100WALAGRD",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Wallasey Village": {
     "crs": "WLV",
     "naptan": "9100WALASYV",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Wallington": {
     "crs": "WLT",
@@ -13172,7 +13172,7 @@
   "Walton (Merseyside)": {
     "crs": "WAO",
     "naptan": "9100WALTONM",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Walton-On-Thames": {
     "crs": "WAL",
@@ -13302,7 +13302,7 @@
   "Waterloo (Merseyside)": {
     "crs": "WLO",
     "naptan": "9100WLOO",
-    "type": "merseytravel"
+    "type": "national"
   },
   "Watford": {
     "crs": "",
@@ -13522,7 +13522,7 @@
   "West Kirby": {
     "crs": "WKI",
     "naptan": "9100WKIRBY",
-    "type": "merseytravel"
+    "type": "national"
   },
   "West Malling": {
     "crs": "WMA",
