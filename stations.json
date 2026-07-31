@@ -12,52 +12,52 @@
   "Aber": {
     "crs": "ABE",
     "naptan": "9100ABER",
-    "type": "wales"
+    "type": "national"
   },
   "Abercynon": {
     "crs": "ACY",
     "naptan": "9100ABRCYNS",
-    "type": "wales"
+    "type": "national"
   },
   "Aberdare": {
     "crs": "ABA",
     "naptan": "9100ABDARE",
-    "type": "wales"
+    "type": "national"
   },
   "Aberdeen": {
     "crs": "ABD",
     "naptan": "9100ABRDEEN",
-    "type": "scot"
+    "type": "national"
   },
   "Aberdour": {
     "crs": "AUR",
     "naptan": "9100ABDO",
-    "type": "scot"
+    "type": "national"
   },
   "Aberdovey": {
     "crs": "AVY",
     "naptan": "9100ABDVY",
-    "type": "wales"
+    "type": "national"
   },
   "Abererch": {
     "crs": "ABH",
     "naptan": "9100ABRE",
-    "type": "wales"
+    "type": "national"
   },
   "Abergavenny": {
     "crs": "AGV",
     "naptan": "9100ABRGVNY",
-    "type": "wales"
+    "type": "national"
   },
   "Abergele & Pensarn": {
     "crs": "AGL",
     "naptan": "9100ABGLELE",
-    "type": "wales"
+    "type": "national"
   },
   "Aberystwyth": {
     "crs": "AYW",
     "naptan": "9100ABRYSTH",
-    "type": "wales"
+    "type": "national"
   },
   "Accrington": {
     "crs": "ACR",
@@ -67,17 +67,17 @@
   "Achanalt": {
     "crs": "AAT",
     "naptan": "9100ACHANLT",
-    "type": "scot"
+    "type": "national"
   },
   "Achnasheen": {
     "crs": "ACN",
     "naptan": "9100ACHNSHN",
-    "type": "scot"
+    "type": "national"
   },
   "Achnashellach": {
     "crs": "ACH",
     "naptan": "9100ACHHSHL",
-    "type": "scot"
+    "type": "national"
   },
   "Acklington": {
     "crs": "ACK",
@@ -122,7 +122,7 @@
   "Addiewell": {
     "crs": "ADW",
     "naptan": "9100ADIEWEL",
-    "type": "scot"
+    "type": "national"
   },
   "Addlestone": {
     "crs": "ASN",
@@ -167,12 +167,12 @@
   "Airbles": {
     "crs": "AIR",
     "naptan": "9100AIRBLES",
-    "type": "scot"
+    "type": "national"
   },
   "Airdrie": {
     "crs": "ADR",
     "naptan": "9100AIRDRIE",
-    "type": "scot"
+    "type": "national"
   },
   "Albany Park": {
     "crs": "AYP",
@@ -227,7 +227,7 @@
   "Alexandria": {
     "crs": "ALX",
     "naptan": "9100ALXANDR",
-    "type": "scot"
+    "type": "national"
   },
   "Alfreton": {
     "crs": "ALF",
@@ -247,12 +247,12 @@
   "Alloa": {
     "crs": "ALO",
     "naptan": "9100ALLOA",
-    "type": "scot"
+    "type": "national"
   },
   "Alness": {
     "crs": "ASS",
     "naptan": "9100ALNESS",
-    "type": "scot"
+    "type": "national"
   },
   "Alnmouth": {
     "crs": "ALM",
@@ -287,7 +287,7 @@
   "Altnabreac": {
     "crs": "ABC",
     "naptan": "9100ALTNBRC",
-    "type": "scot"
+    "type": "national"
   },
   "Alton": {
     "crs": "AON",
@@ -322,12 +322,12 @@
   "Ammanford": {
     "crs": "AMF",
     "naptan": "9100AMMANFD",
-    "type": "wales"
+    "type": "national"
   },
   "Amsterdam CS": {
     "crs": "AMS",
     "naptan": "",
-    "type": "eurostar"
+    "type": "other"
   },
   "Ancaster": {
     "crs": "ANC",
@@ -337,7 +337,7 @@
   "Anderston": {
     "crs": "AND",
     "naptan": "9100ANDRSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Andover": {
     "crs": "ADV",
@@ -362,12 +362,12 @@
   "Annan": {
     "crs": "ANN",
     "naptan": "9100ANNAN",
-    "type": "scot"
+    "type": "national"
   },
   "Anniesland": {
     "crs": "ANL",
     "naptan": "9100ANSL",
-    "type": "scot"
+    "type": "national"
   },
   "Ansdell & Fairhaven": {
     "crs": "AFV",
@@ -407,7 +407,7 @@
   "Arbroath": {
     "crs": "ARB",
     "naptan": "9100ARBROTH",
-    "type": "scot"
+    "type": "national"
   },
   "Archway": {
     "crs": "",
@@ -417,27 +417,27 @@
   "Ardgay": {
     "crs": "ARD",
     "naptan": "9100ARDGAY",
-    "type": "scot"
+    "type": "national"
   },
   "Ardlui": {
     "crs": "AUI",
     "naptan": "9100ARDLUI",
-    "type": "scot"
+    "type": "national"
   },
   "Ardrossan Harbour": {
     "crs": "ADS",
     "naptan": "9100ARDRSHB",
-    "type": "scot"
+    "type": "national"
   },
   "Ardrossan South Beach": {
     "crs": "ASB",
     "naptan": "9100ARDRSSB",
-    "type": "scot"
+    "type": "national"
   },
   "Ardrossan Town": {
     "crs": "ADN",
     "naptan": "9100ARDRSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Ardwick": {
     "crs": "ADK",
@@ -447,12 +447,12 @@
   "Argyle Street": {
     "crs": "AGS",
     "naptan": "9100ARGYLST",
-    "type": "scot"
+    "type": "national"
   },
   "Arisaig": {
     "crs": "ARG",
     "naptan": "9100ARISAIG",
-    "type": "scot"
+    "type": "national"
   },
   "Arlesey": {
     "crs": "ARL",
@@ -462,7 +462,7 @@
   "Armadale": {
     "crs": "ARM",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Armathwaite": {
     "crs": "AWT",
@@ -487,7 +487,7 @@
   "Arrochar & Tarbet": {
     "crs": "ART",
     "naptan": "9100ARCHRAT",
-    "type": "scot"
+    "type": "national"
   },
   "Arsenal": {
     "crs": "",
@@ -499,12 +499,12 @@
     "naptan": "9100ARUNDEL",
     "type": "national"
   },
-  "Ascot": {
+  "Anational": {
     "crs": "ACT",
-    "naptan": "9100ASCOT",
+    "naptan": "9100Anational",
     "type": "national"
   },
-  "Ascott-Under-Wychwood": {
+  "Anationalt-Under-Wychwood": {
     "crs": "AUW",
     "naptan": "9100ASCTUWD",
     "type": "national"
@@ -622,7 +622,7 @@
   "Attadale": {
     "crs": "ATT",
     "naptan": "9100ATADALE",
-    "type": "scot"
+    "type": "national"
   },
   "Attenborough": {
     "crs": "ATB",
@@ -637,7 +637,7 @@
   "Auchinleck": {
     "crs": "AUK",
     "naptan": "9100ACHILCK",
-    "type": "scot"
+    "type": "national"
   },
   "Audley End": {
     "crs": "AUD",
@@ -652,7 +652,7 @@
   "Aviemore": {
     "crs": "AVM",
     "naptan": "9100AVIEMRE",
-    "type": "scot"
+    "type": "national"
   },
   "Avoncliff": {
     "crs": "AVF",
@@ -692,7 +692,7 @@
   "Ayr": {
     "crs": "AYR",
     "naptan": "9100AYRR",
-    "type": "scot"
+    "type": "national"
   },
   "Bache": {
     "crs": "BAC",
@@ -702,7 +702,7 @@
   "Baglan": {
     "crs": "BAJ",
     "naptan": "9100BGLAN",
-    "type": "wales"
+    "type": "national"
   },
   "Bagshot": {
     "crs": "BAG",
@@ -717,7 +717,7 @@
   "Baillieston": {
     "crs": "BIO",
     "naptan": "9100BALISTN",
-    "type": "scot"
+    "type": "national"
   },
   "Baker Street": {
     "crs": "",
@@ -742,12 +742,12 @@
   "Balloch Central": {
     "crs": "BHC",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Balmossie": {
     "crs": "BSI",
     "naptan": "9100BALMOSS",
-    "type": "scot"
+    "type": "national"
   },
   "Bamber Bridge": {
     "crs": "BMB",
@@ -762,7 +762,7 @@
   "Banavie": {
     "crs": "BNV",
     "naptan": "9100BANAVIE",
-    "type": "scot"
+    "type": "national"
   },
   "Banbury": {
     "crs": "BAN",
@@ -772,7 +772,7 @@
   "Bangor (Gwynedd)": {
     "crs": "BNG",
     "naptan": "9100BANGOR",
-    "type": "wales"
+    "type": "national"
   },
   "Bank": {
     "crs": "",
@@ -812,7 +812,7 @@
   "Bargeddie": {
     "crs": "BGI",
     "naptan": "9100BRGDDIE",
-    "type": "scot"
+    "type": "national"
   },
   "Bargoed": {
     "crs": "BGD",
@@ -847,7 +847,7 @@
   "Barmouth": {
     "crs": "BRM",
     "naptan": "9100BRMOUTH",
-    "type": "wales"
+    "type": "national"
   },
   "Barnehurst": {
     "crs": "BNH",
@@ -902,12 +902,12 @@
   "Barrhead": {
     "crs": "BRR",
     "naptan": "9100BRHD",
-    "type": "scot"
+    "type": "national"
   },
   "Barrhill": {
     "crs": "BRL",
     "naptan": "9100BRRHL",
-    "type": "scot"
+    "type": "national"
   },
   "Barrow Haven": {
     "crs": "BAV",
@@ -927,17 +927,17 @@
   "Barry": {
     "crs": "BRY",
     "naptan": "9100BARRY",
-    "type": "wales"
+    "type": "national"
   },
   "Barry Docks": {
     "crs": "BYD",
     "naptan": "9100BARRYDK",
-    "type": "wales"
+    "type": "national"
   },
   "Barry Island": {
     "crs": "BYI",
     "naptan": "9100BARRYIS",
-    "type": "wales"
+    "type": "national"
   },
   "Barry Links": {
     "crs": "BYL",
@@ -972,7 +972,7 @@
   "Bathgate": {
     "crs": "BHG",
     "naptan": "9100BTHGATE",
-    "type": "scot"
+    "type": "national"
   },
   "Batley": {
     "crs": "BTL",
@@ -1027,7 +1027,7 @@
   "Bearsden": {
     "crs": "BRN",
     "naptan": "9100BSDN",
-    "type": "scot"
+    "type": "national"
   },
   "Bearsted": {
     "crs": "BSD",
@@ -1037,7 +1037,7 @@
   "Beasdale": {
     "crs": "BSL",
     "naptan": "9100BEASDAL",
-    "type": "scot"
+    "type": "national"
   },
   "Beaulieu Park": {
     "crs": "BPA",
@@ -1052,7 +1052,7 @@
   "Beauly": {
     "crs": "BEL",
     "naptan": "9100BEAULY",
-    "type": "scot"
+    "type": "national"
   },
   "Bebington": {
     "crs": "BEB",
@@ -1142,7 +1142,7 @@
   "Bellgrove": {
     "crs": "BLG",
     "naptan": "9100BLGRVE",
-    "type": "scot"
+    "type": "national"
   },
   "Bellingham": {
     "crs": "BGM",
@@ -1152,7 +1152,7 @@
   "Bellshill": {
     "crs": "BLH",
     "naptan": "9100BLSHL",
-    "type": "scot"
+    "type": "national"
   },
   "Belmont": {
     "crs": "BLM",
@@ -1269,7 +1269,7 @@
     "naptan": "9100BESCRLA",
     "type": "national"
   },
-  "Bescot Stadium": {
+  "Benational Stadium": {
     "crs": "BSC",
     "naptan": "9100BSCTSTA",
     "type": "national"
@@ -1287,7 +1287,7 @@
   "Betws-Y-Coed": {
     "crs": "BYC",
     "naptan": "9100BETSYCD",
-    "type": "wales"
+    "type": "national"
   },
   "Beverley": {
     "crs": "BEV",
@@ -1437,7 +1437,7 @@
   "Bishopbriggs": {
     "crs": "BBG",
     "naptan": "9100BSHB",
-    "type": "scot"
+    "type": "national"
   },
   "Bishops Stortford": {
     "crs": "BIS",
@@ -1452,7 +1452,7 @@
   "Bishopton": {
     "crs": "BPT",
     "naptan": "9100BISHPTN",
-    "type": "scot"
+    "type": "national"
   },
   "Bitterne": {
     "crs": "BTE",
@@ -1512,17 +1512,17 @@
   "Blaenau Ffestiniog": {
     "crs": "BFF",
     "naptan": "9100BLAENAU",
-    "type": "wales"
+    "type": "national"
   },
   "Blair Atholl": {
     "crs": "BLA",
     "naptan": "9100BLARATH",
-    "type": "scot"
+    "type": "national"
   },
   "Blairhill": {
     "crs": "BAI",
     "naptan": "9100BLAIRHL",
-    "type": "scot"
+    "type": "national"
   },
   "Blake Street": {
     "crs": "BKT",
@@ -1537,7 +1537,7 @@
   "Blantyre": {
     "crs": "BLT",
     "naptan": "9100BLANTYR",
-    "type": "scot"
+    "type": "national"
   },
   "Blaydon": {
     "crs": "BLO",
@@ -1582,7 +1582,7 @@
   "Bodorgan": {
     "crs": "BOR",
     "naptan": "9100BODORGN",
-    "type": "wales"
+    "type": "national"
   },
   "Bognor Regis": {
     "crs": "BOG",
@@ -1592,7 +1592,7 @@
   "Bogston": {
     "crs": "BGS",
     "naptan": "9100BOGSTON",
-    "type": "scot"
+    "type": "national"
   },
   "Bolton": {
     "crs": "BON",
@@ -1647,7 +1647,7 @@
   "Borth": {
     "crs": "BRH",
     "naptan": "9100BORTH",
-    "type": "wales"
+    "type": "national"
   },
   "Bosham": {
     "crs": "BOH",
@@ -1722,7 +1722,7 @@
   "Bowling": {
     "crs": "BWG",
     "naptan": "9100BOWLING",
-    "type": "scot"
+    "type": "national"
   },
   "Box Hill & Westhumble": {
     "crs": "BXW",
@@ -1792,7 +1792,7 @@
   "Branchton": {
     "crs": "BCN",
     "naptan": "9100BRNCHTN",
-    "type": "scot"
+    "type": "national"
   },
   "Brandon": {
     "crs": "BND",
@@ -1817,7 +1817,7 @@
   "Breich": {
     "crs": "BRC",
     "naptan": "9100BREICH",
-    "type": "scot"
+    "type": "national"
   },
   "Brent Cross": {
     "crs": "",
@@ -1847,22 +1847,22 @@
   "Bridge of Allan": {
     "crs": "BEA",
     "naptan": "9100BGOALAN",
-    "type": "scot"
+    "type": "national"
   },
   "Bridge of Orchy": {
     "crs": "BRO",
     "naptan": "9100BOORCHY",
-    "type": "scot"
+    "type": "national"
   },
   "Bridgend": {
     "crs": "BGN",
     "naptan": "9100BRGEND",
-    "type": "wales"
+    "type": "national"
   },
   "Bridgeton": {
     "crs": "BDG",
     "naptan": "9100BRIDGTN",
-    "type": "scot"
+    "type": "national"
   },
   "Bridgwater": {
     "crs": "BWT",
@@ -1917,12 +1917,12 @@
   "Brithdir": {
     "crs": "BHD",
     "naptan": "9100BRITHDR",
-    "type": "wales"
+    "type": "national"
   },
   "Briton Ferry": {
     "crs": "BNF",
     "naptan": "9100BRITFRY",
-    "type": "wales"
+    "type": "national"
   },
   "Brixton": {
     "crs": "BRX",
@@ -2032,7 +2032,7 @@
   "Brora": {
     "crs": "BRA",
     "naptan": "9100BRORA",
-    "type": "scot"
+    "type": "national"
   },
   "Brough": {
     "crs": "BUH",
@@ -2042,7 +2042,7 @@
   "Broughty Ferry": {
     "crs": "BYF",
     "naptan": "9100BRFRY",
-    "type": "scot"
+    "type": "national"
   },
   "Broxbourne": {
     "crs": "BXB",
@@ -2067,7 +2067,7 @@
   "Brunstane": {
     "crs": "BSU",
     "naptan": "9100BRUSTAN",
-    "type": "scot"
+    "type": "national"
   },
   "Brunswick": {
     "crs": "BRW",
@@ -2077,7 +2077,7 @@
   "Brussels Midi/Zuid": {
     "crs": "BXS",
     "naptan": "",
-    "type": "eurostar"
+    "type": "other"
   },
   "Bruton": {
     "crs": "BRU",
@@ -2102,7 +2102,7 @@
   "Buckley": {
     "crs": "BCK",
     "naptan": "9100BCKY",
-    "type": "wales"
+    "type": "national"
   },
   "Bucknell": {
     "crs": "BUK",
@@ -2122,7 +2122,7 @@
   "Builth Road": {
     "crs": "BHR",
     "naptan": "9100BUILTHR",
-    "type": "wales"
+    "type": "national"
   },
   "Bulwell": {
     "crs": "BLW",
@@ -2192,7 +2192,7 @@
   "Burnside": {
     "crs": "BUI",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Burnt Oak": {
     "crs": "",
@@ -2202,7 +2202,7 @@
   "Burntisland": {
     "crs": "BTS",
     "naptan": "9100BISLND",
-    "type": "scot"
+    "type": "national"
   },
   "Burscough Bridge": {
     "crs": "BCB",
@@ -2237,7 +2237,7 @@
   "Busby": {
     "crs": "BUS",
     "naptan": "9100BUSBY",
-    "type": "scot"
+    "type": "national"
   },
   "Bush Hill Park": {
     "crs": "BHK",
@@ -2272,37 +2272,37 @@
   "Bynea": {
     "crs": "BYE",
     "naptan": "9100BYNEA",
-    "type": "wales"
+    "type": "national"
   },
   "Cadoxton": {
     "crs": "CAD",
     "naptan": "9100CADOXTN",
-    "type": "wales"
+    "type": "national"
   },
   "Caergwrle": {
     "crs": "CGW",
     "naptan": "9100CAERGWL",
-    "type": "wales"
+    "type": "national"
   },
   "Caerphilly": {
     "crs": "CPH",
     "naptan": "9100CRPHLY",
-    "type": "wales"
+    "type": "national"
   },
   "Caersws": {
     "crs": "CWS",
     "naptan": "9100CARSWS",
-    "type": "wales"
+    "type": "national"
   },
   "Caldercruix": {
     "crs": "CAC",
     "naptan": "9100CLDRCRX",
-    "type": "scot"
+    "type": "national"
   },
   "Caldicot": {
     "crs": "CDT",
     "naptan": "9100CDCOT",
-    "type": "wales"
+    "type": "national"
   },
   "Caledonian Road": {
     "crs": "",
@@ -2357,7 +2357,7 @@
   "Cambuslang": {
     "crs": "CBL",
     "naptan": "9100CMBSLNG",
-    "type": "scot"
+    "type": "national"
   },
   "Camden Road": {
     "crs": "CMD",
@@ -2372,12 +2372,12 @@
   "Camelon": {
     "crs": "CMO",
     "naptan": "9100CAMELON",
-    "type": "scot"
+    "type": "national"
   },
   "Cameron Bridge": {
     "crs": "CBX",
     "naptan": "9100CMRNBDG",
-    "type": "scot"
+    "type": "national"
   },
   "Canada Water": {
     "crs": "ZCW",
@@ -2442,37 +2442,37 @@
   "Cardenden": {
     "crs": "CDD",
     "naptan": "9100CDND",
-    "type": "scot"
+    "type": "national"
   },
   "Cardiff Bay": {
     "crs": "CDB",
     "naptan": "9100CARDFBR",
-    "type": "wales"
+    "type": "national"
   },
   "Cardiff Central": {
     "crs": "CDF",
     "naptan": "9100CRDFCEN",
-    "type": "wales"
+    "type": "national"
   },
   "Cardiff Queen Street": {
     "crs": "CDQ",
     "naptan": "9100CARDFQS",
-    "type": "wales"
+    "type": "national"
   },
   "Cardonald": {
     "crs": "CDO",
     "naptan": "9100CDNL",
-    "type": "scot"
+    "type": "national"
   },
   "Cardross": {
     "crs": "CDR",
     "naptan": "9100CDRS",
-    "type": "scot"
+    "type": "national"
   },
   "Carfin": {
     "crs": "CRF",
     "naptan": "9100CARFIN",
-    "type": "scot"
+    "type": "national"
   },
   "Cark": {
     "crs": "CAK",
@@ -2492,17 +2492,17 @@
   "Carluke": {
     "crs": "CLU",
     "naptan": "9100CRLK",
-    "type": "scot"
+    "type": "national"
   },
   "Carmarthen": {
     "crs": "CMN",
     "naptan": "9100CMTHN",
-    "type": "wales"
+    "type": "national"
   },
   "Carmyle": {
     "crs": "CML",
     "naptan": "9100CARMYLE",
-    "type": "scot"
+    "type": "national"
   },
   "Carnforth": {
     "crs": "CNF",
@@ -2512,12 +2512,12 @@
   "Carnoustie": {
     "crs": "CAN",
     "naptan": "9100CNST",
-    "type": "scot"
+    "type": "national"
   },
   "Carntyne": {
     "crs": "CAY",
     "naptan": "9100CNTY",
-    "type": "scot"
+    "type": "national"
   },
   "Carpenders Park": {
     "crs": "CPK",
@@ -2527,7 +2527,7 @@
   "Carrbridge": {
     "crs": "CAG",
     "naptan": "9100CARRBDG",
-    "type": "scot"
+    "type": "national"
   },
   "Carshalton": {
     "crs": "CSH",
@@ -2542,12 +2542,12 @@
   "Carstairs": {
     "crs": "CRS",
     "naptan": "9100CRSTRS",
-    "type": "scot"
+    "type": "national"
   },
   "Cartsdyke": {
     "crs": "CDY",
     "naptan": "9100CRTSDYK",
-    "type": "scot"
+    "type": "national"
   },
   "Castle Bar Park": {
     "crs": "CBP",
@@ -2592,12 +2592,12 @@
   "Cathays": {
     "crs": "CYS",
     "naptan": "9100CATHAYS",
-    "type": "wales"
+    "type": "national"
   },
   "Cathcart": {
     "crs": "CCT",
     "naptan": "9100CCRT",
-    "type": "scot"
+    "type": "national"
   },
   "Cattal": {
     "crs": "CTL",
@@ -2612,7 +2612,7 @@
   "Cefn-Y-Bedd": {
     "crs": "CYB",
     "naptan": "9100CEFNYBD",
-    "type": "wales"
+    "type": "national"
   },
   "Chadwell Heath": {
     "crs": "CTH",
@@ -2677,7 +2677,7 @@
   "Charing Cross (Glasgow)": {
     "crs": "CHC",
     "naptan": "9100CHRNGXG",
-    "type": "scot"
+    "type": "national"
   },
   "Charlbury": {
     "crs": "CBY",
@@ -2702,7 +2702,7 @@
   "Chatelherault": {
     "crs": "CTE",
     "naptan": "9100CHTLRT",
-    "type": "scot"
+    "type": "national"
   },
   "Chatham": {
     "crs": "CTM",
@@ -2752,7 +2752,7 @@
   "Chepstow": {
     "crs": "CPW",
     "naptan": "9100CHEPSTW",
-    "type": "wales"
+    "type": "national"
   },
   "Cherry Tree": {
     "crs": "CYT",
@@ -2787,7 +2787,7 @@
   "Chester": {
     "crs": "CTR",
     "naptan": "9100CHST",
-    "type": "wales"
+    "type": "national"
   },
   "Chester Road": {
     "crs": "CRD",
@@ -2857,7 +2857,7 @@
   "Chirk": {
     "crs": "CRK",
     "naptan": "9100CHIRK",
-    "type": "wales"
+    "type": "national"
   },
   "Chislehurst": {
     "crs": "CIT",
@@ -2912,12 +2912,12 @@
   "Church Stretton": {
     "crs": "CTT",
     "naptan": "9100CSTR",
-    "type": "wales"
+    "type": "national"
   },
   "Cilmeri": {
     "crs": "CIM",
     "naptan": "9100CILMERY",
-    "type": "wales"
+    "type": "national"
   },
   "City Thameslink": {
     "crs": "CTK",
@@ -2972,12 +2972,12 @@
   "Clarbeston Road": {
     "crs": "CLR",
     "naptan": "9100CLARBRD",
-    "type": "wales"
+    "type": "national"
   },
   "Clarkston": {
     "crs": "CKS",
     "naptan": "9100CLRKSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Claverdon": {
     "crs": "CLV",
@@ -2997,7 +2997,7 @@
   "Cleland": {
     "crs": "CEA",
     "naptan": "9100CLELAND",
-    "type": "scot"
+    "type": "national"
   },
   "Clifton": {
     "crs": "CLI",
@@ -3022,27 +3022,27 @@
   "Clunderwen": {
     "crs": "CUW",
     "naptan": "9100CLYNDRW",
-    "type": "wales"
+    "type": "national"
   },
   "Clydebank": {
     "crs": "CYK",
     "naptan": "9100CLYBANK",
-    "type": "scot"
+    "type": "national"
   },
   "Coatbridge Central": {
     "crs": "CBC",
     "naptan": "9100COATBDC",
-    "type": "scot"
+    "type": "national"
   },
   "Coatbridge Sunnyside": {
     "crs": "CBS",
     "naptan": "9100COATBDS",
-    "type": "scot"
+    "type": "national"
   },
   "Coatdyke": {
     "crs": "COA",
     "naptan": "9100COATDYK",
-    "type": "scot"
+    "type": "national"
   },
   "Cobham & Stoke Dabernon": {
     "crs": "CSD",
@@ -3062,7 +3062,7 @@
   "Cogan": {
     "crs": "CGN",
     "naptan": "9100COGAN",
-    "type": "wales"
+    "type": "national"
   },
   "Colchester": {
     "crs": "COL",
@@ -3112,7 +3112,7 @@
   "Colwyn Bay": {
     "crs": "CWB",
     "naptan": "9100CBAY",
-    "type": "wales"
+    "type": "national"
   },
   "Combe": {
     "crs": "CME",
@@ -3137,12 +3137,12 @@
   "Connel Ferry": {
     "crs": "CON",
     "naptan": "9100CONNELF",
-    "type": "scot"
+    "type": "national"
   },
   "Conon Bridge": {
     "crs": "CBD",
     "naptan": "9100CONONBR",
-    "type": "scot"
+    "type": "national"
   },
   "Cononley": {
     "crs": "CEY",
@@ -3157,7 +3157,7 @@
   "Conwy": {
     "crs": "CNW",
     "naptan": "9100CONWY",
-    "type": "wales"
+    "type": "national"
   },
   "Cooden Beach": {
     "crs": "COB",
@@ -3207,17 +3207,17 @@
   "Corpach": {
     "crs": "CPA",
     "naptan": "9100CORPACH",
-    "type": "scot"
+    "type": "national"
   },
   "Corrour": {
     "crs": "CRR",
     "naptan": "9100CORROUR",
-    "type": "scot"
+    "type": "national"
   },
   "Coryton": {
     "crs": "COY",
     "naptan": "9100CORYTON",
-    "type": "wales"
+    "type": "national"
   },
   "Coseley": {
     "crs": "CSY",
@@ -3287,7 +3287,7 @@
   "Craigendoran": {
     "crs": "CGD",
     "naptan": "9100CRGDRN",
-    "type": "scot"
+    "type": "national"
   },
   "Cramlington": {
     "crs": "CRM",
@@ -3302,7 +3302,7 @@
   "Craven Arms": {
     "crs": "CRV",
     "naptan": "9100CRAVENA",
-    "type": "wales"
+    "type": "national"
   },
   "Crawley": {
     "crs": "CRW",
@@ -3352,12 +3352,12 @@
   "Crianlarich": {
     "crs": "CNR",
     "naptan": "9100CRNLRCH",
-    "type": "scot"
+    "type": "national"
   },
   "Criccieth": {
     "crs": "CCC",
     "naptan": "9100CRICCTH",
-    "type": "wales"
+    "type": "national"
   },
   "Cricklewood": {
     "crs": "CRI",
@@ -3367,7 +3367,7 @@
   "Croftfoot": {
     "crs": "CFF",
     "naptan": "9100CFFT",
-    "type": "scot"
+    "type": "national"
   },
   "Crofton Park": {
     "crs": "CFT",
@@ -3387,7 +3387,7 @@
   "Crookston": {
     "crs": "CKT",
     "naptan": "9100CROKSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Cross Gates": {
     "crs": "CRG",
@@ -3407,17 +3407,17 @@
   "Crosshill": {
     "crs": "COI",
     "naptan": "9100CROSSHL",
-    "type": "scot"
+    "type": "national"
   },
   "Crosskeys": {
     "crs": "CKY",
     "naptan": "9100CRSKEYS",
-    "type": "wales"
+    "type": "national"
   },
   "Crossmyloof": {
     "crs": "CMY",
     "naptan": "9100CRSMYLF",
-    "type": "scot"
+    "type": "national"
   },
   "Croston": {
     "crs": "CSO",
@@ -3457,7 +3457,7 @@
   "Croy": {
     "crs": "CRO",
     "naptan": "9100CROY",
-    "type": "scot"
+    "type": "national"
   },
   "Crystal Palace": {
     "crs": "CYP",
@@ -3487,17 +3487,17 @@
   "Cumbernauld": {
     "crs": "CUB",
     "naptan": "9100CMBRNLD",
-    "type": "scot"
+    "type": "national"
   },
   "Cupar": {
     "crs": "CUP",
     "naptan": "9100CUPAR",
-    "type": "scot"
+    "type": "national"
   },
   "Curriehill": {
     "crs": "CUH",
     "naptan": "9100CURRIEH",
-    "type": "scot"
+    "type": "national"
   },
   "Custom House": {
     "crs": "CUS",
@@ -3522,17 +3522,17 @@
   "Cwmbach": {
     "crs": "CMH",
     "naptan": "9100CMBH",
-    "type": "wales"
+    "type": "national"
   },
   "Cwmbran": {
     "crs": "CWM",
     "naptan": "9100CWMBRAN",
-    "type": "wales"
+    "type": "national"
   },
   "Cynghordy": {
     "crs": "CYN",
     "naptan": "9100CYNGHRD",
-    "type": "wales"
+    "type": "national"
   },
   "Cyprus": {
     "crs": "",
@@ -3562,37 +3562,37 @@
   "Dalgety Bay": {
     "crs": "DAG",
     "naptan": "9100DALGETY",
-    "type": "scot"
+    "type": "national"
   },
   "Dalmally": {
     "crs": "DAL",
     "naptan": "9100DLMALLY",
-    "type": "scot"
+    "type": "national"
   },
   "Dalmarnock": {
     "crs": "DAK",
     "naptan": "9100DLMRNOK",
-    "type": "scot"
+    "type": "national"
   },
   "Dalmeny": {
     "crs": "DAM",
     "naptan": "9100DLMY",
-    "type": "scot"
+    "type": "national"
   },
   "Dalmuir": {
     "crs": "DMR",
     "naptan": "9100DALMUIR",
-    "type": "scot"
+    "type": "national"
   },
   "Dalreoch": {
     "crs": "DLR",
     "naptan": "9100DLREOCH",
-    "type": "scot"
+    "type": "national"
   },
   "Dalry": {
     "crs": "DLY",
     "naptan": "9100DALRY",
-    "type": "scot"
+    "type": "national"
   },
   "Dalston (Cumbria)": {
     "crs": "DLS",
@@ -3617,7 +3617,7 @@
   "Dalwhinnie": {
     "crs": "DLW",
     "naptan": "9100DALWHIN",
-    "type": "scot"
+    "type": "national"
   },
   "Danby": {
     "crs": "DNY",
@@ -3627,7 +3627,7 @@
   "Danescourt": {
     "crs": "DCT",
     "naptan": "9100DANESCT",
-    "type": "wales"
+    "type": "national"
   },
   "Danzey": {
     "crs": "DZY",
@@ -3712,7 +3712,7 @@
   "Deganwy": {
     "crs": "DGY",
     "naptan": "9100DEGANWY",
-    "type": "wales"
+    "type": "national"
   },
   "Deighton": {
     "crs": "DHN",
@@ -3807,22 +3807,22 @@
   "Dinas Powys": {
     "crs": "DNS",
     "naptan": "9100DINASP",
-    "type": "wales"
+    "type": "national"
   },
   "Dinas Rhondda": {
     "crs": "DMG",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Dingle Road": {
     "crs": "DGL",
     "naptan": "9100DGLROAD",
-    "type": "wales"
+    "type": "national"
   },
   "Dingwall": {
     "crs": "DIN",
     "naptan": "9100DINGWAL",
-    "type": "scot"
+    "type": "national"
   },
   "Dinsdale": {
     "crs": "DND",
@@ -3857,7 +3857,7 @@
   "Dolau": {
     "crs": "DOL",
     "naptan": "9100DOLAU",
-    "type": "wales"
+    "type": "national"
   },
   "Doleham": {
     "crs": "DLH",
@@ -3867,7 +3867,7 @@
   "Dolgarrog": {
     "crs": "DLG",
     "naptan": "9100DOLGARG",
-    "type": "wales"
+    "type": "national"
   },
   "Dollis Hill": {
     "crs": "",
@@ -3877,7 +3877,7 @@
   "Dolwyddelan": {
     "crs": "DWD",
     "naptan": "9100DLWYDLN",
-    "type": "wales"
+    "type": "national"
   },
   "Doncaster": {
     "crs": "DON",
@@ -3942,7 +3942,7 @@
   "Dovey Junction": {
     "crs": "DVY",
     "naptan": "9100DOVYJN",
-    "type": "wales"
+    "type": "national"
   },
   "Downham Market": {
     "crs": "DOW",
@@ -3962,7 +3962,7 @@
   "Drem": {
     "crs": "DRM",
     "naptan": "9100DREMJ",
-    "type": "scot"
+    "type": "national"
   },
   "Driffield": {
     "crs": "DRF",
@@ -3987,22 +3987,22 @@
   "Drumchapel": {
     "crs": "DMC",
     "naptan": "9100DRMCHPL",
-    "type": "scot"
+    "type": "national"
   },
   "Drumfrochar": {
     "crs": "DFR",
     "naptan": "9100DRMFCHR",
-    "type": "scot"
+    "type": "national"
   },
   "Drumgelloch": {
     "crs": "DRU",
     "naptan": "9100DRMGLCH",
-    "type": "scot"
+    "type": "national"
   },
   "Drumry": {
     "crs": "DMY",
     "naptan": "9100DRUMRY",
-    "type": "scot"
+    "type": "national"
   },
   "Duddeston": {
     "crs": "DUD",
@@ -4022,12 +4022,12 @@
   "Duirinish": {
     "crs": "DRN",
     "naptan": "9100DUIRNSH",
-    "type": "scot"
+    "type": "national"
   },
   "Duke Street": {
     "crs": "DST",
     "naptan": "9100DUKEST",
-    "type": "scot"
+    "type": "national"
   },
   "Dullingham": {
     "crs": "DUL",
@@ -4037,22 +4037,22 @@
   "Dumbarton Central": {
     "crs": "DBC",
     "naptan": "9100DMBRTNC",
-    "type": "scot"
+    "type": "national"
   },
   "Dumbarton East": {
     "crs": "DBE",
     "naptan": "9100DMBRTNE",
-    "type": "scot"
+    "type": "national"
   },
   "Dumbreck": {
     "crs": "DUM",
     "naptan": "9100DUMBRCK",
-    "type": "scot"
+    "type": "national"
   },
   "Dumfries": {
     "crs": "DMF",
     "naptan": "9100DUMFRES",
-    "type": "scot"
+    "type": "national"
   },
   "Dumpton Park": {
     "crs": "DMP",
@@ -4062,47 +4062,47 @@
   "Dunbar": {
     "crs": "DUN",
     "naptan": "9100DUNBAR",
-    "type": "scot"
+    "type": "national"
   },
   "Dunblane": {
     "crs": "DBL",
     "naptan": "9100DUNANE",
-    "type": "scot"
+    "type": "national"
   },
   "Duncraig": {
     "crs": "DCG",
     "naptan": "9100DUNCRAG",
-    "type": "scot"
+    "type": "national"
   },
   "Dundee": {
     "crs": "DEE",
     "naptan": "9100DUNDETB",
-    "type": "scot"
+    "type": "national"
   },
   "Dunfermline City": {
     "crs": "DFE",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Dunfermline Queen Margaret": {
     "crs": "DFL",
     "naptan": "9100DNFRMQM",
-    "type": "scot"
+    "type": "national"
   },
   "Dunkeld & Birnam": {
     "crs": "DKD",
     "naptan": "9100DUNKELD",
-    "type": "scot"
+    "type": "national"
   },
   "Dunlop": {
     "crs": "DNL",
     "naptan": "9100DNLP",
-    "type": "scot"
+    "type": "national"
   },
   "Dunrobin Castle": {
     "crs": "DNO",
     "naptan": "9100DNROBIN",
-    "type": "scot"
+    "type": "national"
   },
   "Dunston": {
     "crs": "DOT",
@@ -4127,12 +4127,12 @@
   "Dyce": {
     "crs": "DYC",
     "naptan": "9100DYCE",
-    "type": "scot"
+    "type": "national"
   },
   "Dyffryn Ardudwy": {
     "crs": "DYF",
     "naptan": "9100DYFRYNA",
-    "type": "wales"
+    "type": "national"
   },
   "Eaglescliffe": {
     "crs": "EAG",
@@ -4237,12 +4237,12 @@
   "East Kilbride": {
     "crs": "EKL",
     "naptan": "9100EKILBRD",
-    "type": "scot"
+    "type": "national"
   },
   "East Linton": {
     "crs": "ELT",
     "naptan": "9100ELINTN",
-    "type": "scot"
+    "type": "national"
   },
   "East Malling": {
     "crs": "EML",
@@ -4287,7 +4287,7 @@
   "Easterhouse": {
     "crs": "EST",
     "naptan": "9100ESHS",
-    "type": "scot"
+    "type": "national"
   },
   "Eastham Rake": {
     "crs": "ERA",
@@ -4382,12 +4382,12 @@
   "Edinburgh Gateway": {
     "crs": "EGY",
     "naptan": "9100EDINGWY",
-    "type": "scot"
+    "type": "national"
   },
   "Edinburgh Park": {
     "crs": "EDP",
     "naptan": "9100EDINPRK",
-    "type": "scot"
+    "type": "national"
   },
   "Edinburgh Waverley": {
     "crs": "EDB",
@@ -4427,7 +4427,7 @@
   "Elgin": {
     "crs": "ELG",
     "naptan": "9100ELGIN",
-    "type": "scot"
+    "type": "national"
   },
   "Elland": {
     "crs": "ELN",
@@ -4512,7 +4512,7 @@
   "Energlyn & Churchill Park": {
     "crs": "ECP",
     "naptan": "9100ERGNCHP",
-    "type": "wales"
+    "type": "national"
   },
   "Enfield Chase": {
     "crs": "ENC",
@@ -4572,7 +4572,7 @@
   "Eskbank": {
     "crs": "EKB",
     "naptan": "9100ESKBANK",
-    "type": "scot"
+    "type": "national"
   },
   "Essex Road": {
     "crs": "EXR",
@@ -4647,7 +4647,7 @@
   "Fairbourne": {
     "crs": "FRB",
     "naptan": "9100FRBN",
-    "type": "wales"
+    "type": "national"
   },
   "Fairfield": {
     "crs": "FRF",
@@ -4657,7 +4657,7 @@
   "Fairlie": {
     "crs": "FRL",
     "naptan": "9100FAIRLIE",
-    "type": "scot"
+    "type": "national"
   },
   "Fairlop": {
     "crs": "",
@@ -4667,7 +4667,7 @@
   "Fairwater": {
     "crs": "FRW",
     "naptan": "9100FRWATER",
-    "type": "wales"
+    "type": "national"
   },
   "Falconwood": {
     "crs": "FCN",
@@ -4677,17 +4677,17 @@
   "Falkirk Grahamston": {
     "crs": "FKG",
     "naptan": "9100FALKRKG",
-    "type": "scot"
+    "type": "national"
   },
   "Falkirk High": {
     "crs": "FKK",
     "naptan": "9100FALKRKH",
-    "type": "scot"
+    "type": "national"
   },
   "Falls of Cruachan": {
     "crs": "FOC",
     "naptan": "9100FLSCRHN",
-    "type": "scot"
+    "type": "national"
   },
   "Falmer": {
     "crs": "FMR",
@@ -4747,7 +4747,7 @@
   "Fauldhouse": {
     "crs": "FLD",
     "naptan": "9100FAULDHS",
-    "type": "scot"
+    "type": "national"
   },
   "Faversham": {
     "crs": "FAV",
@@ -4767,7 +4767,7 @@
   "Fearn": {
     "crs": "FRN",
     "naptan": "9100FEARN",
-    "type": "scot"
+    "type": "national"
   },
   "Featherstone": {
     "crs": "FEA",
@@ -4807,12 +4807,12 @@
   "Ferryside": {
     "crs": "FYS",
     "naptan": "9100FYSD",
-    "type": "wales"
+    "type": "national"
   },
   "Ffairfach": {
     "crs": "FFA",
     "naptan": "9100FFAIRFC",
-    "type": "wales"
+    "type": "national"
   },
   "Filey": {
     "crs": "FIL",
@@ -4862,12 +4862,12 @@
   "Fishguard & Goodwick": {
     "crs": "FGW",
     "naptan": "9100FGDHGWK",
-    "type": "wales"
+    "type": "national"
   },
   "Fishguard Harbour": {
     "crs": "FGH",
     "naptan": "9100FGDHBR",
-    "type": "wales"
+    "type": "national"
   },
   "Fiskerton": {
     "crs": "FSK",
@@ -4897,7 +4897,7 @@
   "Flint": {
     "crs": "FLN",
     "naptan": "9100FLINT",
-    "type": "wales"
+    "type": "national"
   },
   "Flitwick": {
     "crs": "FLT",
@@ -4947,22 +4947,22 @@
   "Forres": {
     "crs": "FOR",
     "naptan": "9100FORRES",
-    "type": "scot"
+    "type": "national"
   },
   "Forsinard": {
     "crs": "FRS",
     "naptan": "9100FORSNRD",
-    "type": "scot"
+    "type": "national"
   },
   "Fort Matilda": {
     "crs": "FTM",
     "naptan": "9100FRTMTLD",
-    "type": "scot"
+    "type": "national"
   },
   "Fort William": {
     "crs": "FTW",
     "naptan": "9100FRTWLM",
-    "type": "scot"
+    "type": "national"
   },
   "Four Oaks": {
     "crs": "FOK",
@@ -5017,7 +5017,7 @@
   "Frodsham": {
     "crs": "FRD",
     "naptan": "9100FRDSHM",
-    "type": "wales"
+    "type": "national"
   },
   "Frome": {
     "crs": "FRO",
@@ -5057,7 +5057,7 @@
   "Galashiels": {
     "crs": "GAL",
     "naptan": "9100GALASLS",
-    "type": "scot"
+    "type": "national"
   },
   "Gallions Reach": {
     "crs": "",
@@ -5072,7 +5072,7 @@
   "Garelochhead": {
     "crs": "GCH",
     "naptan": "9100GRLCHHD",
-    "type": "scot"
+    "type": "national"
   },
   "Garforth": {
     "crs": "GRF",
@@ -5087,12 +5087,12 @@
   "Garrowhill": {
     "crs": "GAR",
     "naptan": "9100GARROWH",
-    "type": "scot"
+    "type": "national"
   },
   "Garscadden": {
     "crs": "GRS",
     "naptan": "9100GSCD",
-    "type": "scot"
+    "type": "national"
   },
   "Garsdale": {
     "crs": "GSD",
@@ -5112,22 +5112,22 @@
   "Gartcosh": {
     "crs": "GRH",
     "naptan": "9100GRTCSH",
-    "type": "scot"
+    "type": "national"
   },
   "Garth (Mid Glamorgan)": {
     "crs": "GMG",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Garth (Powys)": {
     "crs": "GTH",
     "naptan": "9100GARTH",
-    "type": "wales"
+    "type": "national"
   },
   "Garve": {
     "crs": "GVE",
     "naptan": "9100GARVE",
-    "type": "scot"
+    "type": "national"
   },
   "Gathurst": {
     "crs": "GST",
@@ -5147,7 +5147,7 @@
   "Georgemas Junction": {
     "crs": "GGJ",
     "naptan": "9100GRGMASJ",
-    "type": "scot"
+    "type": "national"
   },
   "Gerrards Cross": {
     "crs": "GER",
@@ -5162,7 +5162,7 @@
   "Giffnock": {
     "crs": "GFN",
     "naptan": "9100GIFNOCK",
-    "type": "scot"
+    "type": "national"
   },
   "Giggleswick": {
     "crs": "GIG",
@@ -5177,7 +5177,7 @@
   "Gilfach Fargoed": {
     "crs": "GFF",
     "naptan": "9100GLFCHFR",
-    "type": "wales"
+    "type": "national"
   },
   "Gillingham (Dorset)": {
     "crs": "GIL",
@@ -5192,7 +5192,7 @@
   "Gilshochill": {
     "crs": "GSC",
     "naptan": "9100LAMBH",
-    "type": "scot"
+    "type": "national"
   },
   "Gipsy Hill": {
     "crs": "GIP",
@@ -5202,7 +5202,7 @@
   "Girvan": {
     "crs": "GIR",
     "naptan": "9100GIRVAN",
-    "type": "scot"
+    "type": "national"
   },
   "Glaisdale": {
     "crs": "GLS",
@@ -5212,7 +5212,7 @@
   "Glan Conwy": {
     "crs": "GCW",
     "naptan": "9100GLNCNWY",
-    "type": "wales"
+    "type": "national"
   },
   "Glasgow Central": {
     "crs": "GLC",
@@ -5222,7 +5222,7 @@
   "Glasgow Queen Street": {
     "crs": "GLQ",
     "naptan": "9100GLGQHL",
-    "type": "scot"
+    "type": "national"
   },
   "Glasshoughton": {
     "crs": "GLH",
@@ -5237,22 +5237,22 @@
   "Gleneagles": {
     "crs": "GLE",
     "naptan": "9100GLNEGLS",
-    "type": "scot"
+    "type": "national"
   },
   "Glenfinnan": {
     "crs": "GLF",
     "naptan": "9100GLNFNNN",
-    "type": "scot"
+    "type": "national"
   },
   "Glengarnock": {
     "crs": "GLG",
     "naptan": "9100GLGN",
-    "type": "scot"
+    "type": "national"
   },
   "Glenrothes with Thornton": {
     "crs": "GLT",
     "naptan": "9100GLNRTHS",
-    "type": "scot"
+    "type": "national"
   },
   "Glossop": {
     "crs": "GLO",
@@ -5277,7 +5277,7 @@
   "Gobowen": {
     "crs": "GOB",
     "naptan": "9100GOBOWEN",
-    "type": "wales"
+    "type": "national"
   },
   "Godalming": {
     "crs": "GOD",
@@ -5312,12 +5312,12 @@
   "Golf Street": {
     "crs": "GOF",
     "naptan": "9100GOLFSTR",
-    "type": "scot"
+    "type": "national"
   },
   "Golspie": {
     "crs": "GOL",
     "naptan": "9100GOLSPIE",
-    "type": "scot"
+    "type": "national"
   },
   "Gomshall": {
     "crs": "GOM",
@@ -5352,7 +5352,7 @@
   "Gorebridge": {
     "crs": "GBG",
     "naptan": "9100GOREBRG",
-    "type": "scot"
+    "type": "national"
   },
   "Goring & Streatley": {
     "crs": "GOR",
@@ -5377,12 +5377,12 @@
   "Gourock": {
     "crs": "GRK",
     "naptan": "9100GOUROCK",
-    "type": "scot"
+    "type": "national"
   },
   "Gowerton": {
     "crs": "GWN",
     "naptan": "9100GOWERTN",
-    "type": "wales"
+    "type": "national"
   },
   "Goxhill": {
     "crs": "GOX",
@@ -5407,7 +5407,7 @@
   "Grangetown": {
     "crs": "GTN",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Grantham": {
     "crs": "GRA",
@@ -5497,7 +5497,7 @@
   "Greenfaulds": {
     "crs": "GRL",
     "naptan": "9100GRNFLDS",
-    "type": "scot"
+    "type": "national"
   },
   "Greenfield": {
     "crs": "GNF",
@@ -5517,12 +5517,12 @@
   "Greenock Central": {
     "crs": "GKC",
     "naptan": "9100GRENCKC",
-    "type": "scot"
+    "type": "national"
   },
   "Greenock West": {
     "crs": "GKW",
     "naptan": "9100GRENCKW",
-    "type": "scot"
+    "type": "national"
   },
   "Greenwich": {
     "crs": "GNW",
@@ -5532,7 +5532,7 @@
   "Gretna Green": {
     "crs": "GEA",
     "naptan": "9100GRETGRN",
-    "type": "scot"
+    "type": "national"
   },
   "Grimsby Docks": {
     "crs": "GMD",
@@ -5592,7 +5592,7 @@
   "Gwersyllt": {
     "crs": "GWE",
     "naptan": "9100GWRSYLT",
-    "type": "wales"
+    "type": "national"
   },
   "Gypsy Lane": {
     "crs": "GYP",
@@ -5667,7 +5667,7 @@
   "Hairmyres": {
     "crs": "HMY",
     "naptan": "9100HARMYRS",
-    "type": "scot"
+    "type": "national"
   },
   "Hale": {
     "crs": "HAL",
@@ -5727,12 +5727,12 @@
   "Hamilton Central": {
     "crs": "HNC",
     "naptan": "9100HAMLTNC",
-    "type": "scot"
+    "type": "national"
   },
   "Hamilton West": {
     "crs": "HNW",
     "naptan": "9100HAMLTNW",
-    "type": "scot"
+    "type": "national"
   },
   "Hammersmith (Dist&Picc Line)": {
     "crs": "",
@@ -5822,7 +5822,7 @@
   "Harlech": {
     "crs": "HRL",
     "naptan": "9100HRLC",
-    "type": "wales"
+    "type": "national"
   },
   "Harlesden": {
     "crs": "HDN",
@@ -5912,7 +5912,7 @@
   "Hartwood": {
     "crs": "HTW",
     "naptan": "9100HRTW",
-    "type": "scot"
+    "type": "national"
   },
   "Harwich International": {
     "crs": "HPQ",
@@ -5992,22 +5992,22 @@
   "Haverfordwest": {
     "crs": "HVF",
     "naptan": "9100HAVRFDW",
-    "type": "wales"
+    "type": "national"
   },
   "Hawarden": {
     "crs": "HWD",
     "naptan": "9100HAWARDN",
-    "type": "wales"
+    "type": "national"
   },
   "Hawarden Bridge": {
     "crs": "HWB",
     "naptan": "9100HAWDNBG",
-    "type": "wales"
+    "type": "national"
   },
   "Hawkhead": {
     "crs": "HKH",
     "naptan": "9100HWKHEAD",
-    "type": "scot"
+    "type": "national"
   },
   "Haydon Bridge": {
     "crs": "HDB",
@@ -6037,7 +6037,7 @@
   "Haymarket": {
     "crs": "HYM",
     "naptan": "9100HAYMRKT",
-    "type": "scot"
+    "type": "national"
   },
   "Haywards Heath": {
     "crs": "HHE",
@@ -6082,12 +6082,12 @@
   "Heath High Level": {
     "crs": "HHL",
     "naptan": "9100HEATHHL",
-    "type": "wales"
+    "type": "national"
   },
   "Heath Low Level": {
     "crs": "HLL",
     "naptan": "9100HEATHLL",
-    "type": "wales"
+    "type": "national"
   },
   "Heathrow Terminal 4": {
     "crs": "HAF",
@@ -6137,12 +6137,12 @@
   "Helensburgh Central": {
     "crs": "HLC",
     "naptan": "9100HLNSBRC",
-    "type": "scot"
+    "type": "national"
   },
   "Helensburgh Upper": {
     "crs": "HLU",
     "naptan": "9100HLNSBRU",
-    "type": "scot"
+    "type": "national"
   },
   "Hellifield": {
     "crs": "HLD",
@@ -6152,12 +6152,12 @@
   "Helmsdale": {
     "crs": "HMS",
     "naptan": "9100HELMSDL",
-    "type": "scot"
+    "type": "national"
   },
   "Helsby": {
     "crs": "HSB",
     "naptan": "9100HELSBY",
-    "type": "wales"
+    "type": "national"
   },
   "Hemel Hempstead": {
     "crs": "HML",
@@ -6177,7 +6177,7 @@
   "Hengoed": {
     "crs": "HNG",
     "naptan": "9100HENGOED",
-    "type": "wales"
+    "type": "national"
   },
   "Henley-In-Arden": {
     "crs": "HNL",
@@ -6197,7 +6197,7 @@
   "Hereford": {
     "crs": "HFD",
     "naptan": "9100HEREFRD",
-    "type": "wales"
+    "type": "national"
   },
   "Herne Bay": {
     "crs": "HNB",
@@ -6277,7 +6277,7 @@
   "High Street": {
     "crs": "HST",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "High Street Kensington": {
     "crs": "",
@@ -6327,7 +6327,7 @@
   "Hillfoot": {
     "crs": "HLF",
     "naptan": "9100HLFT",
-    "type": "scot"
+    "type": "national"
   },
   "Hillingdon": {
     "crs": "",
@@ -6337,12 +6337,12 @@
   "Hillington East": {
     "crs": "HLE",
     "naptan": "9100HLNGTNE",
-    "type": "scot"
+    "type": "national"
   },
   "Hillington West": {
     "crs": "HLW",
     "naptan": "9100HLNGTNW",
-    "type": "scot"
+    "type": "national"
   },
   "Hillside": {
     "crs": "HIL",
@@ -6427,12 +6427,12 @@
   "Holyhead": {
     "crs": "HHD",
     "naptan": "9100HLYH",
-    "type": "wales"
+    "type": "national"
   },
   "Holytown": {
     "crs": "HLY",
     "naptan": "9100HOLYTWN",
-    "type": "scot"
+    "type": "national"
   },
   "Homerton": {
     "crs": "HMN",
@@ -6477,12 +6477,12 @@
   "Hope (Flintshire)": {
     "crs": "HPE",
     "naptan": "9100HOPC",
-    "type": "wales"
+    "type": "national"
   },
   "Hopton Heath": {
     "crs": "HPT",
     "naptan": "9100HOPTONH",
-    "type": "wales"
+    "type": "national"
   },
   "Horden": {
     "crs": "HRE",
@@ -6587,7 +6587,7 @@
   "Howwood": {
     "crs": "HOZ",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Hoxton": {
     "crs": "HOX",
@@ -6647,7 +6647,7 @@
   "Huntly": {
     "crs": "HNT",
     "naptan": "9100HNTL",
-    "type": "scot"
+    "type": "national"
   },
   "Hunts Cross": {
     "crs": "HNX",
@@ -6692,7 +6692,7 @@
   "Hyndland": {
     "crs": "HYN",
     "naptan": "9100HYNDLND",
-    "type": "scot"
+    "type": "national"
   },
   "Hythe": {
     "crs": "HYH",
@@ -6747,47 +6747,47 @@
   "Insch": {
     "crs": "INS",
     "naptan": "9100INSCH",
-    "type": "scot"
+    "type": "national"
   },
   "Invergordon": {
     "crs": "IGD",
     "naptan": "9100IVRGRD",
-    "type": "scot"
+    "type": "national"
   },
   "Invergowrie": {
     "crs": "ING",
     "naptan": "9100INVGWRE",
-    "type": "scot"
+    "type": "national"
   },
   "Inverkeithing": {
     "crs": "INK",
     "naptan": "9100IVRKTHG",
-    "type": "scot"
+    "type": "national"
   },
   "Inverkip": {
     "crs": "INP",
     "naptan": "9100INVERKP",
-    "type": "scot"
+    "type": "national"
   },
   "Inverness": {
     "crs": "INV",
     "naptan": "9100IVRNESS",
-    "type": "scot"
+    "type": "national"
   },
   "Inverness Airport": {
     "crs": "IVA",
     "naptan": "9100IVRNAIR",
-    "type": "scot"
+    "type": "national"
   },
   "Invershin": {
     "crs": "INH",
     "naptan": "9100INVRSHN",
-    "type": "scot"
+    "type": "national"
   },
   "Inverurie": {
     "crs": "INR",
     "naptan": "9100INVURIE",
-    "type": "scot"
+    "type": "national"
   },
   "Ipswich": {
     "crs": "IPS",
@@ -6802,7 +6802,7 @@
   "Irvine": {
     "crs": "IRV",
     "naptan": "9100IRVN",
-    "type": "scot"
+    "type": "national"
   },
   "Island Gardens": {
     "crs": "",
@@ -6847,17 +6847,17 @@
   "Johnston": {
     "crs": "JOH",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Johnstone": {
     "crs": "JHN",
     "naptan": "9100JOHNSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Jordanhill": {
     "crs": "JOR",
     "naptan": "9100JORDANH",
-    "type": "scot"
+    "type": "national"
   },
   "Kearsley": {
     "crs": "KSL",
@@ -6877,7 +6877,7 @@
   "Keith": {
     "crs": "KEH",
     "naptan": "9100KEITH",
-    "type": "scot"
+    "type": "national"
   },
   "Kelvedon": {
     "crs": "KEL",
@@ -6887,7 +6887,7 @@
   "Kelvindale": {
     "crs": "KVD",
     "naptan": "9100DAWSHLM",
-    "type": "scot"
+    "type": "national"
   },
   "Kemble": {
     "crs": "KEM",
@@ -6942,7 +6942,7 @@
   "Kennishead": {
     "crs": "KNS",
     "naptan": "9100KENISHD",
-    "type": "scot"
+    "type": "national"
   },
   "Kensal Green": {
     "crs": "KNL",
@@ -7032,7 +7032,7 @@
   "Kidwelly": {
     "crs": "KWL",
     "naptan": "9100KIDWELY",
-    "type": "wales"
+    "type": "national"
   },
   "Kilburn": {
     "crs": "",
@@ -7057,37 +7057,37 @@
   "Kildonan": {
     "crs": "KIL",
     "naptan": "9100KILDONN",
-    "type": "scot"
+    "type": "national"
   },
   "Kilgetty": {
     "crs": "KGT",
     "naptan": "9100KILGETY",
-    "type": "wales"
+    "type": "national"
   },
   "Kilmarnock": {
     "crs": "KMK",
     "naptan": "9100KILMRNK",
-    "type": "scot"
+    "type": "national"
   },
   "Kilmaurs": {
     "crs": "KLM",
     "naptan": "9100KLMAURS",
-    "type": "scot"
+    "type": "national"
   },
   "Kilpatrick": {
     "crs": "KPT",
     "naptan": "9100KLPTRCK",
-    "type": "scot"
+    "type": "national"
   },
   "Kilwinning": {
     "crs": "KWN",
     "naptan": "9100KILWNNG",
-    "type": "scot"
+    "type": "national"
   },
   "Kinbrace": {
     "crs": "KBC",
     "naptan": "9100KINBRAC",
-    "type": "scot"
+    "type": "national"
   },
   "King George V": {
     "crs": "",
@@ -7102,7 +7102,7 @@
   "Kinghorn": {
     "crs": "KGH",
     "naptan": "9100KGHN",
-    "type": "scot"
+    "type": "national"
   },
   "Kings Heath": {
     "crs": "KIH",
@@ -7162,7 +7162,7 @@
   "Kingussie": {
     "crs": "KIN",
     "naptan": "9100KGUSSIE",
-    "type": "scot"
+    "type": "national"
   },
   "Kintbury": {
     "crs": "KIT",
@@ -7172,7 +7172,7 @@
   "Kintore": {
     "crs": "KTR",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Kirby Cross": {
     "crs": "KBX",
@@ -7207,12 +7207,12 @@
   "Kirkcaldy": {
     "crs": "KDY",
     "naptan": "9100KCLD",
-    "type": "scot"
+    "type": "national"
   },
   "Kirkconnel": {
     "crs": "KRK",
     "naptan": "9100KRKC",
-    "type": "scot"
+    "type": "national"
   },
   "Kirkdale": {
     "crs": "KKD",
@@ -7227,12 +7227,12 @@
   "Kirkhill": {
     "crs": "KKH",
     "naptan": "9100KRKH",
-    "type": "scot"
+    "type": "national"
   },
   "Kirknewton": {
     "crs": "KKN",
     "naptan": "9100KRKNWTN",
-    "type": "scot"
+    "type": "national"
   },
   "Kirkstall Forge": {
     "crs": "KLF",
@@ -7242,7 +7242,7 @@
   "Kirkwood": {
     "crs": "KWD",
     "naptan": "9100KRKWOOD",
-    "type": "scot"
+    "type": "national"
   },
   "Kirton Lindsey": {
     "crs": "KTL",
@@ -7272,7 +7272,7 @@
   "Knighton": {
     "crs": "KNI",
     "naptan": "9100KNIGHTN",
-    "type": "wales"
+    "type": "national"
   },
   "Knightsbridge": {
     "crs": "",
@@ -7292,7 +7292,7 @@
   "Knucklas": {
     "crs": "KNU",
     "naptan": "9100KNUCKLS",
-    "type": "wales"
+    "type": "national"
   },
   "Knutsford": {
     "crs": "KNF",
@@ -7302,7 +7302,7 @@
   "Kyle of Lochalsh": {
     "crs": "KYL",
     "naptan": "9100KYLELSH",
-    "type": "scot"
+    "type": "national"
   },
   "Ladbroke Grove": {
     "crs": "",
@@ -7312,7 +7312,7 @@
   "Ladybank": {
     "crs": "LDY",
     "naptan": "9100LADYBNK",
-    "type": "scot"
+    "type": "national"
   },
   "Ladywell": {
     "crs": "LAD",
@@ -7327,7 +7327,7 @@
   "Lairg": {
     "crs": "LRG",
     "naptan": "9100LAIRG",
-    "type": "scot"
+    "type": "national"
   },
   "Lake": {
     "crs": "LKE",
@@ -7347,12 +7347,12 @@
   "Lamphey": {
     "crs": "LAM",
     "naptan": "9100LAMPHEY",
-    "type": "wales"
+    "type": "national"
   },
   "Lanark": {
     "crs": "LNK",
     "naptan": "9100LANARK",
-    "type": "scot"
+    "type": "national"
   },
   "Lancaster": {
     "crs": "LAN",
@@ -7377,7 +7377,7 @@
   "Langbank": {
     "crs": "LGB",
     "naptan": "9100LGBK",
-    "type": "scot"
+    "type": "national"
   },
   "Langdon Park": {
     "crs": "",
@@ -7412,7 +7412,7 @@
   "Langside": {
     "crs": "LGS",
     "naptan": "9100LNSD",
-    "type": "scot"
+    "type": "national"
   },
   "Langwathby": {
     "crs": "LGW",
@@ -7437,17 +7437,17 @@
   "Larbert": {
     "crs": "LBT",
     "naptan": "9100LARBERT",
-    "type": "scot"
+    "type": "national"
   },
   "Largs": {
     "crs": "LAR",
     "naptan": "9100LARGS",
-    "type": "scot"
+    "type": "national"
   },
   "Larkhall": {
     "crs": "LRH",
     "naptan": "9100LARKHAL",
-    "type": "scot"
+    "type": "national"
   },
   "Latimer Road": {
     "crs": "",
@@ -7457,7 +7457,7 @@
   "Laurencekirk": {
     "crs": "LAU",
     "naptan": "9100LRNCKRK",
-    "type": "scot"
+    "type": "national"
   },
   "Lawrence Hill": {
     "crs": "LWH",
@@ -7572,12 +7572,12 @@
   "Lenzie": {
     "crs": "LNZ",
     "naptan": "9100LENZIE",
-    "type": "scot"
+    "type": "national"
   },
   "Leominster": {
     "crs": "LEO",
     "naptan": "9100LEOMNST",
-    "type": "wales"
+    "type": "national"
   },
   "Letchworth Garden City": {
     "crs": "LET",
@@ -7587,12 +7587,12 @@
   "Leuchars": {
     "crs": "LEU",
     "naptan": "9100LEUCHRS",
-    "type": "scot"
+    "type": "national"
   },
   "Leven": {
     "crs": "LEV",
     "naptan": "9100LEVEN",
-    "type": "scot"
+    "type": "national"
   },
   "Levenshulme": {
     "crs": "LVM",
@@ -7652,7 +7652,7 @@
   "Lille Europe": {
     "crs": "LIU",
     "naptan": "",
-    "type": "eurostar"
+    "type": "other"
   },
   "Limehouse": {
     "crs": "LHS",
@@ -7677,7 +7677,7 @@
   "Linlithgow": {
     "crs": "LIN",
     "naptan": "9100LNLTHGW",
-    "type": "scot"
+    "type": "national"
   },
   "Liphook": {
     "crs": "LIP",
@@ -7697,7 +7697,7 @@
   "Lisvane & Thornhill": {
     "crs": "LVT",
     "naptan": "9100LTHH",
-    "type": "wales"
+    "type": "national"
   },
   "Little Kimble": {
     "crs": "LTK",
@@ -7747,107 +7747,107 @@
   "Livingston North": {
     "crs": "LSN",
     "naptan": "9100LVNSTNN",
-    "type": "scot"
+    "type": "national"
   },
   "Livingston South": {
     "crs": "LVG",
     "naptan": "9100LVNSTNS",
-    "type": "scot"
+    "type": "national"
   },
   "Llanaber": {
     "crs": "LLA",
     "naptan": "9100LNAB",
-    "type": "wales"
+    "type": "national"
   },
   "Llanbedr": {
     "crs": "LBR",
     "naptan": "9100LBDR",
-    "type": "wales"
+    "type": "national"
   },
   "Llanbister Road": {
     "crs": "LLT",
     "naptan": "9100LLBSTRD",
-    "type": "wales"
+    "type": "national"
   },
   "Llanbradach": {
     "crs": "LNB",
     "naptan": "9100LLBRDCH",
-    "type": "wales"
+    "type": "national"
   },
   "Llandaf": {
     "crs": "LLN",
     "naptan": "9100LLANDAF",
-    "type": "wales"
+    "type": "national"
   },
   "Llandanwg": {
     "crs": "LDN",
     "naptan": "9100LNDW",
-    "type": "wales"
+    "type": "national"
   },
   "Llandecwyn": {
     "crs": "LLC",
     "naptan": "9100LNDC",
-    "type": "wales"
+    "type": "national"
   },
   "Llandeilo": {
     "crs": "LLL",
     "naptan": "9100LLDEILO",
-    "type": "wales"
+    "type": "national"
   },
   "Llandovery": {
     "crs": "LLV",
     "naptan": "9100LLDVERY",
-    "type": "wales"
+    "type": "national"
   },
   "Llandrindod": {
     "crs": "LLO",
     "naptan": "9100LLDODW",
-    "type": "wales"
+    "type": "national"
   },
   "Llandudno": {
     "crs": "LLD",
     "naptan": "9100LUDO",
-    "type": "wales"
+    "type": "national"
   },
   "Llandudno Junction": {
     "crs": "LLJ",
     "naptan": "9100LANDUDJ",
-    "type": "wales"
+    "type": "national"
   },
   "Llandybie": {
     "crs": "LLI",
     "naptan": "9100LLDYBIE",
-    "type": "wales"
+    "type": "national"
   },
   "Llanelli": {
     "crs": "LLE",
     "naptan": "9100LLNLLI",
-    "type": "wales"
+    "type": "national"
   },
   "Llanfairfechan": {
     "crs": "LLF",
     "naptan": "9100LANFRFC",
-    "type": "wales"
+    "type": "national"
   },
   "Llanfairpwll": {
     "crs": "LPG",
     "naptan": "9100LFPW",
-    "type": "wales"
+    "type": "national"
   },
   "Llangadog": {
     "crs": "LLG",
     "naptan": "9100LLGADOG",
-    "type": "wales"
+    "type": "national"
   },
   "Llangammarch": {
     "crs": "LLM",
     "naptan": "9100LLGMMRW",
-    "type": "wales"
+    "type": "national"
   },
   "Llangennech": {
     "crs": "LLH",
     "naptan": "9100LLGNNCH",
-    "type": "wales"
+    "type": "national"
   },
   "Llangynllo": {
     "crs": "LGO",
@@ -7857,22 +7857,22 @@
   "Llanharan": {
     "crs": "LLR",
     "naptan": "9100LLHARAN",
-    "type": "wales"
+    "type": "national"
   },
   "Llanhilleth": {
     "crs": "LTH",
     "naptan": "9100LLHLETH",
-    "type": "wales"
+    "type": "national"
   },
   "Llanishen": {
     "crs": "LLS",
     "naptan": "9100LLISHEN",
-    "type": "wales"
+    "type": "national"
   },
   "Llanrwst": {
     "crs": "LWR",
     "naptan": "9100LNRWST",
-    "type": "wales"
+    "type": "national"
   },
   "Llansamlet": {
     "crs": "LAS",
@@ -7882,67 +7882,67 @@
   "Llantwit Major": {
     "crs": "LWM",
     "naptan": "9100LLNWTMR",
-    "type": "wales"
+    "type": "national"
   },
   "Llanwrda": {
     "crs": "LNR",
     "naptan": "9100LLWRDA",
-    "type": "wales"
+    "type": "national"
   },
   "Llanwrtyd": {
     "crs": "LNW",
     "naptan": "9100LLWRTYW",
-    "type": "wales"
+    "type": "national"
   },
   "Llwyngwril": {
     "crs": "LLW",
     "naptan": "9100LYNGRIL",
-    "type": "wales"
+    "type": "national"
   },
   "Llwynypia": {
     "crs": "LLY",
     "naptan": "9100LLWYNYP",
-    "type": "wales"
+    "type": "national"
   },
   "Loch Awe": {
     "crs": "LHA",
     "naptan": "9100LOCHAWE",
-    "type": "scot"
+    "type": "national"
   },
   "Loch Eil Outward Bound": {
     "crs": "LHE",
     "naptan": "9100LCEILOB",
-    "type": "scot"
+    "type": "national"
   },
   "Lochailort": {
     "crs": "LCL",
     "naptan": "9100LCHALRT",
-    "type": "scot"
+    "type": "national"
   },
   "Locheilside": {
     "crs": "LCS",
     "naptan": "9100LCHESDE",
-    "type": "scot"
+    "type": "national"
   },
   "Lochgelly": {
     "crs": "LCG",
     "naptan": "9100LCHGLLY",
-    "type": "scot"
+    "type": "national"
   },
   "Lochluichart": {
     "crs": "LCC",
     "naptan": "9100LCHLCHR",
-    "type": "scot"
+    "type": "national"
   },
   "Lochwinnoch": {
     "crs": "LHW",
     "naptan": "9100LCHWNCH",
-    "type": "scot"
+    "type": "national"
   },
   "Lockerbie": {
     "crs": "LOC",
     "naptan": "9100LCKRBIE",
-    "type": "scot"
+    "type": "national"
   },
   "Lockwood": {
     "crs": "LCK",
@@ -8152,7 +8152,7 @@
   "Ludlow": {
     "crs": "LUD",
     "naptan": "9100LUDLOW",
-    "type": "wales"
+    "type": "national"
   },
   "Luton": {
     "crs": "LUT",
@@ -8212,17 +8212,17 @@
   "Machynlleth": {
     "crs": "MCN",
     "naptan": "9100MCHYNLT",
-    "type": "wales"
+    "type": "national"
   },
   "Maesteg": {
     "crs": "MST",
     "naptan": "9100MAESTGW",
-    "type": "wales"
+    "type": "national"
   },
   "Maesteg (Ewenny Road)": {
     "crs": "MEW",
     "naptan": "9100MAESTER",
-    "type": "wales"
+    "type": "national"
   },
   "Maghull": {
     "crs": "MAG",
@@ -8272,7 +8272,7 @@
   "Mallaig": {
     "crs": "MLG",
     "naptan": "9100MLAIG",
-    "type": "scot"
+    "type": "national"
   },
   "Malton": {
     "crs": "MLT",
@@ -8337,7 +8337,7 @@
   "Manorbier": {
     "crs": "MRB",
     "naptan": "9100MNORBER",
-    "type": "wales"
+    "type": "national"
   },
   "Manors": {
     "crs": "MAS",
@@ -8392,7 +8392,7 @@
   "Markinch": {
     "crs": "MNC",
     "naptan": "9100MKIN",
-    "type": "scot"
+    "type": "national"
   },
   "Marks Tey": {
     "crs": "MKT",
@@ -8447,7 +8447,7 @@
   "Maryhill": {
     "crs": "MYH",
     "naptan": "9100MRYHILL",
-    "type": "scot"
+    "type": "national"
   },
   "Maryland": {
     "crs": "MYL",
@@ -8477,12 +8477,12 @@
   "Maxwell Park": {
     "crs": "MAX",
     "naptan": "9100MAXWLPK",
-    "type": "scot"
+    "type": "national"
   },
   "Maybole": {
     "crs": "MAY",
     "naptan": "9100MAYBOLE",
-    "type": "scot"
+    "type": "national"
   },
   "Maze Hill": {
     "crs": "MZH",
@@ -8547,7 +8547,7 @@
   "Merryton": {
     "crs": "MEY",
     "naptan": "9100MRRYTON",
-    "type": "scot"
+    "type": "national"
   },
   "Merstham": {
     "crs": "MHM",
@@ -8557,12 +8557,12 @@
   "Merthyr Tydfil": {
     "crs": "MER",
     "naptan": "9100MERTHYR",
-    "type": "wales"
+    "type": "national"
   },
   "Merthyr Vale": {
     "crs": "MEV",
     "naptan": "9100MERTHRV",
-    "type": "wales"
+    "type": "national"
   },
   "Metheringham": {
     "crs": "MGM",
@@ -8617,7 +8617,7 @@
   "Milford Haven": {
     "crs": "MFH",
     "naptan": "9100MLFDHVN",
-    "type": "wales"
+    "type": "national"
   },
   "Mill Hill (Lancs)": {
     "crs": "MLH",
@@ -8647,7 +8647,7 @@
   "Milliken Park": {
     "crs": "MIN",
     "naptan": "9100MILKNPK",
-    "type": "scot"
+    "type": "national"
   },
   "Millom": {
     "crs": "MLM",
@@ -8662,7 +8662,7 @@
   "Milngavie": {
     "crs": "MLN",
     "naptan": "9100MLGV",
-    "type": "scot"
+    "type": "national"
   },
   "Milton Keynes Central": {
     "crs": "MKC",
@@ -8672,7 +8672,7 @@
   "Minffordd": {
     "crs": "MFF",
     "naptan": "9100MINFORD",
-    "type": "wales"
+    "type": "national"
   },
   "Minster": {
     "crs": "MSR",
@@ -8707,7 +8707,7 @@
   "Monifieth": {
     "crs": "MON",
     "naptan": "9100MONIFTH",
-    "type": "scot"
+    "type": "national"
   },
   "Monks Risborough": {
     "crs": "MRS",
@@ -8722,7 +8722,7 @@
   "Montrose": {
     "crs": "MTS",
     "naptan": "9100MONTRSE",
-    "type": "scot"
+    "type": "national"
   },
   "Monument": {
     "crs": "",
@@ -8757,7 +8757,7 @@
   "Morar": {
     "crs": "MRR",
     "naptan": "9100MORAR",
-    "type": "scot"
+    "type": "national"
   },
   "Morchard Road": {
     "crs": "MRD",
@@ -8797,7 +8797,7 @@
   "Morfa Mawddach": {
     "crs": "MFA",
     "naptan": "9100MFAM",
-    "type": "wales"
+    "type": "national"
   },
   "Morley": {
     "crs": "MLY",
@@ -8852,7 +8852,7 @@
   "Mosspark": {
     "crs": "MPK",
     "naptan": "9100MSSPARK",
-    "type": "scot"
+    "type": "national"
   },
   "Moston": {
     "crs": "MSO",
@@ -8862,7 +8862,7 @@
   "Motherwell": {
     "crs": "MTH",
     "naptan": "9100MOTHRWL",
-    "type": "scot"
+    "type": "national"
   },
   "Motspur Park": {
     "crs": "MOT",
@@ -8892,17 +8892,17 @@
   "Mount Florida": {
     "crs": "MFL",
     "naptan": "9100MTFL",
-    "type": "scot"
+    "type": "national"
   },
   "Mount Vernon": {
     "crs": "MTV",
     "naptan": "9100MNTVRNN",
-    "type": "scot"
+    "type": "national"
   },
   "Mountain Ash": {
     "crs": "MTA",
     "naptan": "9100MASH",
-    "type": "wales"
+    "type": "national"
   },
   "Mudchute": {
     "crs": "",
@@ -8912,17 +8912,17 @@
   "Muir of Ord": {
     "crs": "MOO",
     "naptan": "9100MUROORD",
-    "type": "scot"
+    "type": "national"
   },
   "Muirend": {
     "crs": "MUI",
     "naptan": "9100MUIREND",
-    "type": "scot"
+    "type": "national"
   },
   "Musselburgh": {
     "crs": "MUB",
     "naptan": "9100MSELBGH",
-    "type": "scot"
+    "type": "national"
   },
   "Mytholmroyd": {
     "crs": "MYT",
@@ -8942,17 +8942,17 @@
   "Nairn": {
     "crs": "NRN",
     "naptan": "9100NAIRN",
-    "type": "scot"
+    "type": "national"
   },
   "Nantwich": {
     "crs": "NAN",
     "naptan": "9100NANTWCH",
-    "type": "wales"
+    "type": "national"
   },
   "Narberth": {
     "crs": "NAR",
     "naptan": "9100NRBERTH",
-    "type": "wales"
+    "type": "national"
   },
   "Narborough": {
     "crs": "NBR",
@@ -8972,7 +8972,7 @@
   "Neath": {
     "crs": "NTH",
     "naptan": "9100NEATH",
-    "type": "wales"
+    "type": "national"
   },
   "Needham Market": {
     "crs": "NMT",
@@ -8982,7 +8982,7 @@
   "Neilston": {
     "crs": "NEI",
     "naptan": "9100NEILSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Nelson": {
     "crs": "NEL",
@@ -8992,7 +8992,7 @@
   "Neston": {
     "crs": "NES",
     "naptan": "9100NESTON",
-    "type": "wales"
+    "type": "national"
   },
   "Netherfield": {
     "crs": "NET",
@@ -9042,7 +9042,7 @@
   "New Cumnock": {
     "crs": "NCK",
     "naptan": "9100NWCMNCK",
-    "type": "scot"
+    "type": "national"
   },
   "New Eltham": {
     "crs": "NEH",
@@ -9107,7 +9107,7 @@
   "Newbridge": {
     "crs": "NBE",
     "naptan": "9100NBRWGE",
-    "type": "wales"
+    "type": "national"
   },
   "Newbury": {
     "crs": "NBY",
@@ -9137,7 +9137,7 @@
   "Newcraighall": {
     "crs": "NEW",
     "naptan": "9100NCRAGHA",
-    "type": "scot"
+    "type": "national"
   },
   "Newhaven Harbour": {
     "crs": "NVH",
@@ -9164,10 +9164,10 @@
     "naptan": "9100NEWPRTE",
     "type": "national"
   },
-  "Newport (South Wales)": {
+  "Newport (South national)": {
     "crs": "NWP",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Newquay": {
     "crs": "NQY",
@@ -9217,22 +9217,22 @@
   "Newton-On-Ayr": {
     "crs": "NOA",
     "naptan": "9100NWTOA",
-    "type": "scot"
+    "type": "national"
   },
   "Newtongrange": {
     "crs": "NEG",
     "naptan": "9100NWTGRNG",
-    "type": "scot"
+    "type": "national"
   },
   "Newtonmore": {
     "crs": "NWR",
     "naptan": "9100NWTM",
-    "type": "scot"
+    "type": "national"
   },
   "Newtown (Powys)": {
     "crs": "NWT",
     "naptan": "9100NWTP",
-    "type": "wales"
+    "type": "national"
   },
   "Nine Elms": {
     "crs": "",
@@ -9242,12 +9242,12 @@
   "Ninian Park": {
     "crs": "NNP",
     "naptan": "9100NINIANP",
-    "type": "wales"
+    "type": "national"
   },
   "Nitshill": {
     "crs": "NIT",
     "naptan": "9100NITSH",
-    "type": "scot"
+    "type": "national"
   },
   "Norbiton": {
     "crs": "NBT",
@@ -9277,7 +9277,7 @@
   "North Berwick": {
     "crs": "NBW",
     "naptan": "9100NBERWCK",
-    "type": "scot"
+    "type": "national"
   },
   "North Camp": {
     "crs": "NCM",
@@ -9312,12 +9312,12 @@
   "North Llanrwst": {
     "crs": "NLR",
     "naptan": "9100NLANRST",
-    "type": "wales"
+    "type": "national"
   },
   "North Queensferry": {
     "crs": "NQU",
     "naptan": "9100NQNSFRY",
-    "type": "scot"
+    "type": "national"
   },
   "North Road": {
     "crs": "NRD",
@@ -9472,7 +9472,7 @@
   "Oban": {
     "crs": "OBN",
     "naptan": "9100OBAN",
-    "type": "scot"
+    "type": "national"
   },
   "Ockendon": {
     "crs": "OCK",
@@ -9627,17 +9627,17 @@
   "Paisley Canal": {
     "crs": "PCN",
     "naptan": "9100PSLYCAN",
-    "type": "scot"
+    "type": "national"
   },
   "Paisley Gilmour Street": {
     "crs": "PYG",
     "naptan": "9100PSLYGST",
-    "type": "scot"
+    "type": "national"
   },
   "Paisley St James": {
     "crs": "PYJ",
     "naptan": "9100PSLYSTJ",
-    "type": "scot"
+    "type": "national"
   },
   "Palmers Green": {
     "crs": "PAL",
@@ -9657,7 +9657,7 @@
   "Pantyffynnon": {
     "crs": "PTF",
     "naptan": "9100PNTYFYN",
-    "type": "wales"
+    "type": "national"
   },
   "Par": {
     "crs": "PAR",
@@ -9672,7 +9672,7 @@
   "Paris Nord": {
     "crs": "PBN",
     "naptan": "9100PARISND",
-    "type": "eurostar"
+    "type": "other"
   },
   "Park Royal": {
     "crs": "",
@@ -9702,7 +9702,7 @@
   "Partick": {
     "crs": "PTK",
     "naptan": "9100PTCK",
-    "type": "scot"
+    "type": "national"
   },
   "Parton": {
     "crs": "PRN",
@@ -9722,7 +9722,7 @@
   "Patterton": {
     "crs": "PTT",
     "naptan": "9100PATERTN",
-    "type": "scot"
+    "type": "national"
   },
   "Peartree": {
     "crs": "PEA",
@@ -9747,42 +9747,42 @@
   "Pembrey & Burry Port": {
     "crs": "PBY",
     "naptan": "9100PMBRYBP",
-    "type": "wales"
+    "type": "national"
   },
   "Pembroke": {
     "crs": "PMB",
     "naptan": "9100PEMBROK",
-    "type": "wales"
+    "type": "national"
   },
   "Pembroke Dock": {
     "crs": "PMD",
     "naptan": "9100PEMBRKD",
-    "type": "wales"
+    "type": "national"
   },
   "Pen-Y-Bont": {
     "crs": "PNY",
     "naptan": "9100PYBONT",
-    "type": "wales"
+    "type": "national"
   },
   "Penally": {
     "crs": "PNA",
     "naptan": "9100PNALLY",
-    "type": "wales"
+    "type": "national"
   },
   "Penarth": {
     "crs": "PEN",
     "naptan": "9100PENARTH",
-    "type": "wales"
+    "type": "national"
   },
   "Pencoed": {
     "crs": "PCD",
     "naptan": "9100PENCOED",
-    "type": "wales"
+    "type": "national"
   },
   "Pengam": {
     "crs": "PGM",
     "naptan": "9100PENGAM",
-    "type": "wales"
+    "type": "national"
   },
   "Penge East": {
     "crs": "PNE",
@@ -9797,7 +9797,7 @@
   "Penhelig": {
     "crs": "PHG",
     "naptan": "9100PENHELG",
-    "type": "wales"
+    "type": "national"
   },
   "Penistone": {
     "crs": "PNS",
@@ -9812,7 +9812,7 @@
   "Penmaenmawr": {
     "crs": "PMW",
     "naptan": "9100PNMNMWR",
-    "type": "wales"
+    "type": "national"
   },
   "Penmere": {
     "crs": "PNM",
@@ -9822,12 +9822,12 @@
   "Penrhiwceiber": {
     "crs": "PER",
     "naptan": "9100PNRHCBR",
-    "type": "wales"
+    "type": "national"
   },
   "Penrhyndeudraeth": {
     "crs": "PRH",
     "naptan": "9100PRHN",
-    "type": "wales"
+    "type": "national"
   },
   "Penrith": {
     "crs": "PNR",
@@ -9842,7 +9842,7 @@
   "Pensarn": {
     "crs": "PES",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Penshurst": {
     "crs": "PHR",
@@ -9852,17 +9852,17 @@
   "Pentre-Bach": {
     "crs": "PTB",
     "naptan": "9100PNTRBCH",
-    "type": "wales"
+    "type": "national"
   },
   "Penychain": {
     "crs": "PNC",
     "naptan": "9100PENYCHN",
-    "type": "wales"
+    "type": "national"
   },
   "Penyffordd": {
     "crs": "PNF",
     "naptan": "9100PNYF",
-    "type": "wales"
+    "type": "national"
   },
   "Penzance": {
     "crs": "PNZ",
@@ -9892,7 +9892,7 @@
   "Perth": {
     "crs": "PTH",
     "naptan": "9100PERTH",
-    "type": "scot"
+    "type": "national"
   },
   "Peterborough": {
     "crs": "PBO",
@@ -9962,7 +9962,7 @@
   "Pitlochry": {
     "crs": "PIT",
     "naptan": "9100PTLCHRY",
-    "type": "scot"
+    "type": "national"
   },
   "Pitsea": {
     "crs": "PSE",
@@ -9982,7 +9982,7 @@
   "Plockton": {
     "crs": "PLK",
     "naptan": "9100PLOCKTN",
-    "type": "scot"
+    "type": "national"
   },
   "Pluckley": {
     "crs": "PLC",
@@ -10027,27 +10027,27 @@
   "Pollokshaws East": {
     "crs": "PWE",
     "naptan": "9100PLKSHWE",
-    "type": "scot"
+    "type": "national"
   },
   "Pollokshaws West": {
     "crs": "PWW",
     "naptan": "9100PLKSHWW",
-    "type": "scot"
+    "type": "national"
   },
   "Pollokshields East": {
     "crs": "PLE",
     "naptan": "9100PLKLHDE",
-    "type": "scot"
+    "type": "national"
   },
   "Pollokshields West": {
     "crs": "PLW",
     "naptan": "9100PLKLHDW",
-    "type": "scot"
+    "type": "national"
   },
   "Polmont": {
     "crs": "PMT",
     "naptan": "9100POLMONT",
-    "type": "scot"
+    "type": "national"
   },
   "Polsloe Bridge": {
     "crs": "POL",
@@ -10062,12 +10062,12 @@
   "Pont-Y-Pant": {
     "crs": "PYP",
     "naptan": "9100PNYPANT",
-    "type": "wales"
+    "type": "national"
   },
   "Pontarddulais": {
     "crs": "PTD",
     "naptan": "9100PNTADLS",
-    "type": "wales"
+    "type": "national"
   },
   "Pontefract Baghill": {
     "crs": "PFR",
@@ -10097,17 +10097,17 @@
   "Pontyclun": {
     "crs": "PYC",
     "naptan": "9100PONYCLN",
-    "type": "wales"
+    "type": "national"
   },
   "Pontypool and New Inn": {
     "crs": "PPL",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Pontypridd": {
     "crs": "PPD",
     "naptan": "9100PTYPRID",
-    "type": "wales"
+    "type": "national"
   },
   "Poole": {
     "crs": "POO",
@@ -10127,7 +10127,7 @@
   "Port Glasgow": {
     "crs": "PTG",
     "naptan": "9100PTGLSGW",
-    "type": "scot"
+    "type": "national"
   },
   "Port Sunlight": {
     "crs": "PSL",
@@ -10147,12 +10147,12 @@
   "Porth": {
     "crs": "POR",
     "naptan": "9100PORH",
-    "type": "wales"
+    "type": "national"
   },
   "Porthmadog": {
     "crs": "PTM",
     "naptan": "9100PRTHMDG",
-    "type": "wales"
+    "type": "national"
   },
   "Portishead": {
     "crs": "POH",
@@ -10162,7 +10162,7 @@
   "Portlethen": {
     "crs": "PLN",
     "naptan": "9100PLTH",
-    "type": "scot"
+    "type": "national"
   },
   "Portslade": {
     "crs": "PLD",
@@ -10192,7 +10192,7 @@
   "Possilpark & Parkhouse": {
     "crs": "PPK",
     "naptan": "9100POSILPK",
-    "type": "scot"
+    "type": "national"
   },
   "Potters Bar": {
     "crs": "PBR",
@@ -10212,17 +10212,17 @@
   "Prees": {
     "crs": "PRS",
     "naptan": "9100PREES",
-    "type": "wales"
+    "type": "national"
   },
-  "Prescot": {
+  "Prenational": {
     "crs": "PSC",
-    "naptan": "9100PRESCOT",
+    "naptan": "9100PREnational",
     "type": "national"
   },
   "Prestatyn": {
     "crs": "PRT",
     "naptan": "9100PSTA",
-    "type": "wales"
+    "type": "national"
   },
   "Prestbury": {
     "crs": "PRB",
@@ -10247,22 +10247,22 @@
   "Prestonpans": {
     "crs": "PST",
     "naptan": "9100PPAN",
-    "type": "scot"
+    "type": "national"
   },
   "Prestwick International Airport": {
     "crs": "PRA",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Prestwick Town": {
     "crs": "PTW",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Priesthill & Darnley": {
     "crs": "PTL",
     "naptan": "9100PHLD",
-    "type": "scot"
+    "type": "national"
   },
   "Prince Regent": {
     "crs": "",
@@ -10322,22 +10322,22 @@
   "Pwllheli": {
     "crs": "PWL",
     "naptan": "9100PWLHELI",
-    "type": "wales"
+    "type": "national"
   },
   "Pye Corner": {
     "crs": "PYE",
     "naptan": "9100PYECRNR",
-    "type": "wales"
+    "type": "national"
   },
   "Pyle": {
     "crs": "PYL",
     "naptan": "9100PYLE",
-    "type": "wales"
+    "type": "national"
   },
   "Quakers Yard": {
     "crs": "QYD",
     "naptan": "9100QUAKRSY",
-    "type": "wales"
+    "type": "national"
   },
   "Queen's Park": {
     "crs": "",
@@ -10352,7 +10352,7 @@
   "Queens Park (Glasgow)": {
     "crs": "QPK",
     "naptan": "9100QUNPARK",
-    "type": "scot"
+    "type": "national"
   },
   "Queens Park (London)": {
     "crs": "QPW",
@@ -10402,7 +10402,7 @@
   "Radyr": {
     "crs": "RDR",
     "naptan": "9100RADYR",
-    "type": "wales"
+    "type": "national"
   },
   "Rainford": {
     "crs": "RNF",
@@ -10437,7 +10437,7 @@
   "Rannoch": {
     "crs": "RAN",
     "naptan": "9100RANNOCH",
-    "type": "scot"
+    "type": "national"
   },
   "Rauceby": {
     "crs": "RAU",
@@ -10572,12 +10572,12 @@
   "Renton": {
     "crs": "RTN",
     "naptan": "9100RENTON",
-    "type": "scot"
+    "type": "national"
   },
   "Reston": {
     "crs": "RSN",
     "naptan": "9100RESTSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Retford": {
     "crs": "RET",
@@ -10587,27 +10587,27 @@
   "Rhiwbina": {
     "crs": "RHI",
     "naptan": "9100RHIWBNA",
-    "type": "wales"
+    "type": "national"
   },
   "Rhoose Cardiff Airport": {
     "crs": "RIA",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "Rhosneigr": {
     "crs": "RHO",
     "naptan": "9100RHOSNGR",
-    "type": "wales"
+    "type": "national"
   },
   "Rhyl": {
     "crs": "RHL",
     "naptan": "9100RHYL",
-    "type": "wales"
+    "type": "national"
   },
   "Rhymney": {
     "crs": "RHY",
     "naptan": "9100RHYMNEY",
-    "type": "wales"
+    "type": "national"
   },
   "Ribblehead": {
     "crs": "RHD",
@@ -10647,7 +10647,7 @@
   "Risca & Pontymister": {
     "crs": "RCA",
     "naptan": "9100RISCA",
-    "type": "wales"
+    "type": "national"
   },
   "Rishton": {
     "crs": "RIS",
@@ -10662,7 +10662,7 @@
   "Robroyston": {
     "crs": "RRN",
     "naptan": "",
-    "type": "scot"
+    "type": "national"
   },
   "Roby": {
     "crs": "ROB",
@@ -10702,12 +10702,12 @@
   "Rogart": {
     "crs": "ROG",
     "naptan": "9100ROGART",
-    "type": "scot"
+    "type": "national"
   },
   "Rogerstone": {
     "crs": "ROR",
     "naptan": "9100ROGRSTN",
-    "type": "wales"
+    "type": "national"
   },
   "Rolleston": {
     "crs": "ROL",
@@ -10717,7 +10717,7 @@
   "Roman Bridge": {
     "crs": "RMB",
     "naptan": "9100ROMANBG",
-    "type": "wales"
+    "type": "national"
   },
   "Romford": {
     "crs": "RMF",
@@ -10752,7 +10752,7 @@
   "Rosyth": {
     "crs": "ROS",
     "naptan": "9100ROSYTH",
-    "type": "scot"
+    "type": "national"
   },
   "Rotherham Central": {
     "crs": "RMC",
@@ -10782,7 +10782,7 @@
   "Roy Bridge": {
     "crs": "RYB",
     "naptan": "9100ROYBDGE",
-    "type": "scot"
+    "type": "national"
   },
   "Royal Albert": {
     "crs": "",
@@ -10812,7 +10812,7 @@
   "Ruabon": {
     "crs": "RUA",
     "naptan": "9100RUABON",
-    "type": "wales"
+    "type": "national"
   },
   "Rufford": {
     "crs": "RUF",
@@ -10857,7 +10857,7 @@
   "Runcorn East": {
     "crs": "RUE",
     "naptan": "9100RUNCRNE",
-    "type": "wales"
+    "type": "national"
   },
   "Ruskington": {
     "crs": "RKT",
@@ -10877,7 +10877,7 @@
   "Rutherglen": {
     "crs": "RUT",
     "naptan": "9100RTHGLEN",
-    "type": "scot"
+    "type": "national"
   },
   "Ryde Esplanade": {
     "crs": "RYD",
@@ -10952,7 +10952,7 @@
   "Saltcoats": {
     "crs": "SLT",
     "naptan": "9100SLCT",
-    "type": "scot"
+    "type": "national"
   },
   "Saltmarshe": {
     "crs": "SAM",
@@ -11027,17 +11027,17 @@
   "Sanquhar": {
     "crs": "SQH",
     "naptan": "9100SANQHAR",
-    "type": "scot"
+    "type": "national"
   },
   "Sarn": {
     "crs": "SRR",
     "naptan": "9100SARN",
-    "type": "wales"
+    "type": "national"
   },
   "Saundersfoot": {
     "crs": "SDF",
     "naptan": "9100SDRSFOT",
-    "type": "wales"
+    "type": "national"
   },
   "Saunderton": {
     "crs": "SDR",
@@ -11064,15 +11064,15 @@
     "naptan": "9100SCARBRO",
     "type": "national"
   },
-  "Scotscalder": {
+  "nationalscalder": {
     "crs": "SCT",
     "naptan": "9100SCSCLDR",
-    "type": "scot"
+    "type": "national"
   },
-  "Scotstounhill": {
+  "nationalstounhill": {
     "crs": "SCH",
     "naptan": "9100SCTSTNH",
-    "type": "scot"
+    "type": "national"
   },
   "Scunthorpe": {
     "crs": "SCU",
@@ -11202,7 +11202,7 @@
   "Shawfair": {
     "crs": "SFI",
     "naptan": "9100SHWFAIR",
-    "type": "scot"
+    "type": "national"
   },
   "Shawford": {
     "crs": "SHW",
@@ -11212,7 +11212,7 @@
   "Shawlands": {
     "crs": "SHL",
     "naptan": "9100SHWLNDS",
-    "type": "scot"
+    "type": "national"
   },
   "Sheerness-On-Sea": {
     "crs": "SSS",
@@ -11292,12 +11292,12 @@
   "Shettleston": {
     "crs": "SLS",
     "naptan": "9100SHTLSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Shieldmuir": {
     "crs": "SDM",
     "naptan": "9100SHILDMR",
-    "type": "scot"
+    "type": "national"
   },
   "Shifnal": {
     "crs": "SFN",
@@ -11382,17 +11382,17 @@
   "Shotton": {
     "crs": "SHT",
     "naptan": "9100SHOTTON",
-    "type": "wales"
+    "type": "national"
   },
   "Shotts": {
     "crs": "SHS",
     "naptan": "9100SHTT",
-    "type": "scot"
+    "type": "national"
   },
   "Shrewsbury": {
     "crs": "SHR",
     "naptan": "9100SHRWBY",
-    "type": "wales"
+    "type": "national"
   },
   "Sidcup": {
     "crs": "SID",
@@ -11427,7 +11427,7 @@
   "Singer": {
     "crs": "SIN",
     "naptan": "9100SINGER",
-    "type": "scot"
+    "type": "national"
   },
   "Sittingbourne": {
     "crs": "SIT",
@@ -11442,7 +11442,7 @@
   "Skewen": {
     "crs": "SKE",
     "naptan": "9100SKEWEN",
-    "type": "wales"
+    "type": "national"
   },
   "Skipton": {
     "crs": "SKI",
@@ -11462,7 +11462,7 @@
   "Slateford": {
     "crs": "SLA",
     "naptan": "9100SLATEFD",
-    "type": "scot"
+    "type": "national"
   },
   "Sleaford": {
     "crs": "SLR",
@@ -11752,7 +11752,7 @@
   "Spean Bridge": {
     "crs": "SBR",
     "naptan": "9100SPEANBD",
-    "type": "scot"
+    "type": "national"
   },
   "Spital": {
     "crs": "SPI",
@@ -11777,12 +11777,12 @@
   "Springburn": {
     "crs": "SPR",
     "naptan": "9100SPRNGBN",
-    "type": "scot"
+    "type": "national"
   },
   "Springfield": {
     "crs": "SPF",
     "naptan": "9100SPFD",
-    "type": "scot"
+    "type": "national"
   },
   "Squires Gate": {
     "crs": "SQU",
@@ -12047,7 +12047,7 @@
   "Stepps": {
     "crs": "SPS",
     "naptan": "9100STEPPS",
-    "type": "scot"
+    "type": "national"
   },
   "Stevenage": {
     "crs": "SVG",
@@ -12057,7 +12057,7 @@
   "Stevenston": {
     "crs": "STV",
     "naptan": "9100STVNSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Stewartby": {
     "crs": "SWR",
@@ -12067,12 +12067,12 @@
   "Stewarton": {
     "crs": "STT",
     "naptan": "9100STEWRTN",
-    "type": "scot"
+    "type": "national"
   },
   "Stirling": {
     "crs": "STG",
     "naptan": "9100STIRLNG",
-    "type": "scot"
+    "type": "national"
   },
   "Stockport": {
     "crs": "SPT",
@@ -12137,7 +12137,7 @@
   "Stonehaven": {
     "crs": "STN",
     "naptan": "9100SHVN",
-    "type": "scot"
+    "type": "national"
   },
   "Stonehouse": {
     "crs": "SHU",
@@ -12172,7 +12172,7 @@
   "Stranraer": {
     "crs": "STR",
     "naptan": "9100STRNRR",
-    "type": "scot"
+    "type": "national"
   },
   "Stratford": {
     "crs": "SRA",
@@ -12202,7 +12202,7 @@
   "Strathcarron": {
     "crs": "STC",
     "naptan": "9100STCN",
-    "type": "scot"
+    "type": "national"
   },
   "Strawberry Hill": {
     "crs": "STW",
@@ -12237,7 +12237,7 @@
   "Stromeferry": {
     "crs": "STF",
     "naptan": "9100STRMFRY",
-    "type": "scot"
+    "type": "national"
   },
   "Strood": {
     "crs": "SOO",
@@ -12287,12 +12287,12 @@
   "Sugar Loaf": {
     "crs": "SUG",
     "naptan": "9100SGRLOAF",
-    "type": "wales"
+    "type": "national"
   },
   "Summerston": {
     "crs": "SUM",
     "naptan": "9100SUMRSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Sunbury": {
     "crs": "SUU",
@@ -12367,7 +12367,7 @@
   "Swansea": {
     "crs": "SWA",
     "naptan": "9100SWANSEA",
-    "type": "wales"
+    "type": "national"
   },
   "Swanwick": {
     "crs": "SNW",
@@ -12447,27 +12447,27 @@
   "Taffs Well": {
     "crs": "TAF",
     "naptan": "9100TAFFSWL",
-    "type": "wales"
+    "type": "national"
   },
   "Tain": {
     "crs": "TAI",
     "naptan": "9100TAIN",
-    "type": "scot"
+    "type": "national"
   },
   "Tal-Y-Cafn": {
     "crs": "TLC",
     "naptan": "9100TALYCFN",
-    "type": "wales"
+    "type": "national"
   },
   "Talsarnau": {
     "crs": "TAL",
     "naptan": "9100TLSRNAU",
-    "type": "wales"
+    "type": "national"
   },
   "Talybont": {
     "crs": "TLB",
     "naptan": "9100TALB",
-    "type": "wales"
+    "type": "national"
   },
   "Tame Bridge Parkway": {
     "crs": "TAB",
@@ -12497,7 +12497,7 @@
   "Taynuilt": {
     "crs": "TAY",
     "naptan": "9100TAYNULT",
-    "type": "scot"
+    "type": "national"
   },
   "Teddington": {
     "crs": "TED",
@@ -12532,7 +12532,7 @@
   "Tenby": {
     "crs": "TEN",
     "naptan": "9100TENBY",
-    "type": "wales"
+    "type": "national"
   },
   "Teynham": {
     "crs": "TEY",
@@ -12617,7 +12617,7 @@
   "Thornliebank": {
     "crs": "THB",
     "naptan": "9100THLB",
-    "type": "scot"
+    "type": "national"
   },
   "Thornton Abbey": {
     "crs": "TNA",
@@ -12632,7 +12632,7 @@
   "Thorntonhall": {
     "crs": "THT",
     "naptan": "9100THAL",
-    "type": "scot"
+    "type": "national"
   },
   "Thorpe Bay": {
     "crs": "TPB",
@@ -12672,7 +12672,7 @@
   "Thurso": {
     "crs": "THS",
     "naptan": "9100THURSO",
-    "type": "scot"
+    "type": "national"
   },
   "Thurston": {
     "crs": "TRS",
@@ -12702,7 +12702,7 @@
   "Tir-Phil": {
     "crs": "TIR",
     "naptan": "9100TIRPHIL",
-    "type": "wales"
+    "type": "national"
   },
   "Tisbury": {
     "crs": "TIS",
@@ -12727,7 +12727,7 @@
   "Ton Pentre": {
     "crs": "TPN",
     "naptan": "9100TONPNTR",
-    "type": "wales"
+    "type": "national"
   },
   "Tonbridge": {
     "crs": "TON",
@@ -12737,17 +12737,17 @@
   "Tondu": {
     "crs": "TDU",
     "naptan": "9100TONDU",
-    "type": "wales"
+    "type": "national"
   },
   "Tonfanau": {
     "crs": "TNF",
     "naptan": "9100TONFNAU",
-    "type": "wales"
+    "type": "national"
   },
   "Tonypandy": {
     "crs": "TNP",
     "naptan": "9100TNYPNDY",
-    "type": "wales"
+    "type": "national"
   },
   "Tooting": {
     "crs": "TOO",
@@ -12827,27 +12827,27 @@
   "Trefforest": {
     "crs": "TRF",
     "naptan": "9100TREFRST",
-    "type": "wales"
+    "type": "national"
   },
   "Trefforest Estate": {
     "crs": "TRE",
     "naptan": "9100TRFRSTE",
-    "type": "wales"
+    "type": "national"
   },
   "Trehafod": {
     "crs": "TRH",
     "naptan": "9100TREHAFD",
-    "type": "wales"
+    "type": "national"
   },
   "Treherbert": {
     "crs": "TRB",
     "naptan": "9100TREHRBT",
-    "type": "wales"
+    "type": "national"
   },
   "Treorchy": {
     "crs": "TRY",
     "naptan": "9100TREORCY",
-    "type": "wales"
+    "type": "national"
   },
   "Trimley": {
     "crs": "TRM",
@@ -12862,12 +12862,12 @@
   "Troed-Y-Rhiw": {
     "crs": "TRD",
     "naptan": "9100TRDYRHW",
-    "type": "wales"
+    "type": "national"
   },
   "Troon": {
     "crs": "TRN",
     "naptan": "9100TROON",
-    "type": "scot"
+    "type": "national"
   },
   "Trowbridge": {
     "crs": "TRO",
@@ -12887,7 +12887,7 @@
   "Tulloch": {
     "crs": "TUL",
     "naptan": "9100TULLOCH",
-    "type": "scot"
+    "type": "national"
   },
   "Tulse Hill": {
     "crs": "TUH",
@@ -12922,7 +12922,7 @@
   "Tweedbank": {
     "crs": "TWB",
     "naptan": "9100TWDBANK",
-    "type": "scot"
+    "type": "national"
   },
   "Twickenham": {
     "crs": "TWI",
@@ -12937,22 +12937,22 @@
   "Ty Croes": {
     "crs": "TYC",
     "naptan": "9100TYCROES",
-    "type": "wales"
+    "type": "national"
   },
   "Ty Glas": {
     "crs": "TGS",
     "naptan": "9100TYGLAS",
-    "type": "wales"
+    "type": "national"
   },
   "Tygwyn": {
     "crs": "TYG",
     "naptan": "9100TYGWYN",
-    "type": "wales"
+    "type": "national"
   },
   "Tyndrum Lower": {
     "crs": "TYL",
     "naptan": "9100TYNDRML",
-    "type": "scot"
+    "type": "national"
   },
   "Tyseley": {
     "crs": "TYS",
@@ -12962,7 +12962,7 @@
   "Tywyn": {
     "crs": "TYW",
     "naptan": "9100TYWYN",
-    "type": "wales"
+    "type": "national"
   },
   "Uckfield": {
     "crs": "UCK",
@@ -12972,7 +12972,7 @@
   "Uddingston": {
     "crs": "UDD",
     "naptan": "9100UDNGSTN",
-    "type": "scot"
+    "type": "national"
   },
   "Ulceby": {
     "crs": "ULC",
@@ -13002,7 +13002,7 @@
   "Uphall": {
     "crs": "UHA",
     "naptan": "9100UPHALL",
-    "type": "scot"
+    "type": "national"
   },
   "Upholland": {
     "crs": "UPL",
@@ -13037,7 +13037,7 @@
   "Upper Tyndrum": {
     "crs": "UTY",
     "naptan": "9100TYNDRMU",
-    "type": "scot"
+    "type": "national"
   },
   "Upper Warlingham": {
     "crs": "UWL",
@@ -13077,7 +13077,7 @@
   "Valley": {
     "crs": "VAL",
     "naptan": "9100VALLEY",
-    "type": "wales"
+    "type": "national"
   },
   "Vauxhall": {
     "crs": "VXH",
@@ -13137,7 +13137,7 @@
   "Wallyford": {
     "crs": "WAF",
     "naptan": "9100WALLYFD",
-    "type": "scot"
+    "type": "national"
   },
   "Walmer": {
     "crs": "WAM",
@@ -13337,7 +13337,7 @@
   "Waun-Gron Park": {
     "crs": "WNG",
     "naptan": "9100WAUNGRN",
-    "type": "wales"
+    "type": "national"
   },
   "Wavertree Technology Park": {
     "crs": "WAV",
@@ -13397,7 +13397,7 @@
   "Wem": {
     "crs": "WEM",
     "naptan": "9100WEMM",
-    "type": "wales"
+    "type": "national"
   },
   "Wembley Central": {
     "crs": "WMB",
@@ -13417,7 +13417,7 @@
   "Wemyss Bay": {
     "crs": "WMS",
     "naptan": "9100WEMYSSB",
-    "type": "scot"
+    "type": "national"
   },
   "Wendover": {
     "crs": "WND",
@@ -13452,7 +13452,7 @@
   "West Calder": {
     "crs": "WCL",
     "naptan": "9100WCALDER",
-    "type": "scot"
+    "type": "national"
   },
   "West Croydon": {
     "crs": "WCY",
@@ -13517,7 +13517,7 @@
   "West Kilbride": {
     "crs": "WKB",
     "naptan": "9100WKILBRD",
-    "type": "scot"
+    "type": "national"
   },
   "West Kirby": {
     "crs": "WKI",
@@ -13597,7 +13597,7 @@
   "Wester Hailes": {
     "crs": "WTA",
     "naptan": "9100WHAILES",
-    "type": "scot"
+    "type": "national"
   },
   "Westerfield": {
     "crs": "WFI",
@@ -13607,7 +13607,7 @@
   "Westerton": {
     "crs": "WES",
     "naptan": "9100WESTRTN",
-    "type": "scot"
+    "type": "national"
   },
   "Westferry": {
     "crs": "",
@@ -13672,7 +13672,7 @@
   "Whifflet": {
     "crs": "WFF",
     "naptan": "9100WHIFLET",
-    "type": "scot"
+    "type": "national"
   },
   "Whimple": {
     "crs": "WHM",
@@ -13682,7 +13682,7 @@
   "Whinhill": {
     "crs": "WNL",
     "naptan": "9100WHINH",
-    "type": "scot"
+    "type": "national"
   },
   "Whiston": {
     "crs": "WHN",
@@ -13697,7 +13697,7 @@
   "Whitchurch (Cardiff)": {
     "crs": "WHT",
     "naptan": "9100WHCH",
-    "type": "wales"
+    "type": "national"
   },
   "Whitchurch (Hampshire)": {
     "crs": "WCH",
@@ -13707,7 +13707,7 @@
   "Whitchurch (Shropshire)": {
     "crs": "WTC",
     "naptan": "",
-    "type": "wales"
+    "type": "national"
   },
   "White City": {
     "crs": "",
@@ -13737,7 +13737,7 @@
   "Whitecraigs": {
     "crs": "WCR",
     "naptan": "9100WTCR",
-    "type": "scot"
+    "type": "national"
   },
   "Whitehaven": {
     "crs": "WTH",
@@ -13747,7 +13747,7 @@
   "Whitland": {
     "crs": "WTL",
     "naptan": "9100WHLAND",
-    "type": "wales"
+    "type": "national"
   },
   "Whitley Bridge": {
     "crs": "WBD",
@@ -13797,7 +13797,7 @@
   "Wick": {
     "crs": "WCK",
     "naptan": "9100WICK",
-    "type": "scot"
+    "type": "national"
   },
   "Wickford": {
     "crs": "WIC",
@@ -13842,7 +13842,7 @@
   "Wildmill": {
     "crs": "WMI",
     "naptan": "9100WLDMILL",
-    "type": "wales"
+    "type": "national"
   },
   "Willenhall": {
     "crs": "WIA",
@@ -13862,7 +13862,7 @@
   "Williamwood": {
     "crs": "WLM",
     "naptan": "9100WMWD",
-    "type": "scot"
+    "type": "national"
   },
   "Willington": {
     "crs": "WIL",
@@ -13952,7 +13952,7 @@
   "Wishaw": {
     "crs": "WSH",
     "naptan": "9100WISHAW",
-    "type": "scot"
+    "type": "national"
   },
   "Witham": {
     "crs": "WTM",
@@ -14182,7 +14182,7 @@
   "Wrenbury": {
     "crs": "WRE",
     "naptan": "9100WRENBRY",
-    "type": "wales"
+    "type": "national"
   },
   "Wressle": {
     "crs": "WRS",
@@ -14192,12 +14192,12 @@
   "Wrexham Central": {
     "crs": "WXC",
     "naptan": "9100WREXHMC",
-    "type": "wales"
+    "type": "national"
   },
   "Wrexham General": {
     "crs": "WRX",
     "naptan": "9100WREXHMG",
-    "type": "wales"
+    "type": "national"
   },
   "Wye": {
     "crs": "WYE",
@@ -14272,12 +14272,12 @@
   "Ynyswen": {
     "crs": "YNW",
     "naptan": "9100YNYSWEN",
-    "type": "wales"
+    "type": "national"
   },
   "Yoker": {
     "crs": "YOK",
     "naptan": "9100YOKER",
-    "type": "scot"
+    "type": "national"
   },
   "York": {
     "crs": "YRK",
@@ -14287,16 +14287,16 @@
   "Yorton": {
     "crs": "YRT",
     "naptan": "9100YORTON",
-    "type": "wales"
+    "type": "national"
   },
   "Ystrad Mynach": {
     "crs": "YSM",
     "naptan": "9100YSTRADM",
-    "type": "wales"
+    "type": "national"
   },
   "Ystrad Rhondda": {
     "crs": "YSR",
     "naptan": "9100YTRHOND",
-    "type": "wales"
+    "type": "national"
   }
 }
