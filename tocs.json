@@ -364,6 +364,17 @@
     "delayRepayMessage": ""
   },
   {
+    "code": "ZZZ",
+    "acronym": "WMT",
+    "name": "West Midlands Trains",
+    "colour": "#420b56",
+    "manager": "gbr",
+    "shown": 0,
+    "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
+  },
+  {
     "code": "ZZ",
     "acronym": "LNW",
     "name": "LNR & WMR",
