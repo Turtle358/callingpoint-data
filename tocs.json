@@ -99,6 +99,17 @@
     "delayRepayMessage": ""
   },
   {
+    "code": "GR",
+    "acronym": "LNER",
+    "name": "LNER",
+    "colour": "#CE0F20",
+    "manager": "gbr",
+    "shown": 0,
+    "delayRepayUrl": "https://delayrepay.lner.co.uk/delayrepayV2/",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": ""
+  },
+  {
     "code": "XC",
     "acronym": "XC",
     "name": "CrossCountry",
