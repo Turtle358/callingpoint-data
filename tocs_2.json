@@ -149,7 +149,7 @@
     "name": "Chiltern Railways",
     "colour": "#41b6e6",
     "secondary_colour": "#ffffff",
-    "manager": "national",
+    "manager": "gbr",
     "shown": 1,
     "delayRepayUrl": "https://chilternrailways.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
