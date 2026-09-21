@@ -4737,7 +4737,7 @@
   "Farringdon": {
     "crs": "ZFD",
     "naptan": "940GZZLUFCN",
-    "type": "tfl"
+    "type": "national"
   },
   "Fauldhouse": {
     "crs": "FLD",
