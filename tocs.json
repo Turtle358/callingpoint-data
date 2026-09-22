@@ -62,7 +62,7 @@
   {
     "code": "SE",
     "acronym": "SE",
-    "name": "southeastern",
+    "name": "South Eastern",
     "colour": "#00AFEF",
     "secondary_colour": "#ffffff",
     "manager": "gbr",
@@ -158,7 +158,7 @@
   {
     "code": "LE",
     "acronym": "GA",
-    "name": "greateranglia",
+    "name": "Greater Anglia",
     "colour": "#da1a35",
     "secondary_colour": "#ffffff",
     "manager": "gbr",
