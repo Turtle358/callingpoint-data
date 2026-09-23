@@ -9,7 +9,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.thameslinkrailway.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "SN",
@@ -21,7 +22,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.southernrailway.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "GN",
@@ -33,7 +35,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.greatnorthernrail.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "GX",
@@ -45,7 +48,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.gatwickexpress.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "SW",
@@ -57,7 +61,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.southwesternrailway.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "SE",
@@ -69,7 +74,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.southeasternrailway.co.uk/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "GW",
@@ -81,7 +87,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.gwr.com",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "VT",
@@ -93,7 +100,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.avantiwestcoast.co.uk",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "GR",
@@ -105,7 +113,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.lner.co.uk/delayrepayV2/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "GR",
@@ -117,7 +126,8 @@
     "shown": 0,
     "delayRepayUrl": "https://delayrepay.lner.co.uk/delayrepayV2/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "XC",
@@ -129,7 +139,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.crosscountrytrains.co.uk/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "EM",
@@ -141,7 +152,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.eastmidlandsrailway.co.uk/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "CH",
@@ -153,7 +165,8 @@
     "shown": 1,
     "delayRepayUrl": "https://chilternrailways.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "LE",
@@ -165,7 +178,8 @@
     "shown": 1,
     "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "Greater Anglia is currently operated by DfT Operator (DFTO) who will soon form part of the Anglia region of Great British Railways."
   },
   {
     "code": "NT",
@@ -177,7 +191,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.northernrailway.co.uk/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "TP",
@@ -189,7 +204,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.tpexpress.co.uk/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "SR",
@@ -201,7 +217,8 @@
     "shown": 1,
     "delayRepayUrl": "https://www.scotrail.co.uk/about-scotrail/our-delay-repay-guarantee",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "AW",
@@ -213,7 +230,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfw.wales/help-and-contact/rail/delay-repay",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": ""
   },
   {
     "code": "ME",
@@ -225,7 +243,8 @@
     "shown": 1,
     "delayRepayUrl": "https://www.merseyrail.org/help-support/refunds-and-compensation/",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "CC",
@@ -237,7 +256,8 @@
     "shown": 1,
     "delayRepayUrl": "https://c2c.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "c2c is currently operated by DfT Operator (DFTO) who will soon form part of the Anglia region of Great British Railways."
   },
   {
     "code": "LO",
@@ -249,7 +269,8 @@
     "shown": 0,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply.",
+    "managerDescription": ""
   },
   {
     "code": "XR",
@@ -262,7 +283,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply.",
+    "managerDescription": ""
   },
   {
     "code": "HX",
@@ -274,7 +296,8 @@
     "shown": 1,
     "delayRepayUrl": "https://www.heathrowexpress.com/help-centre/ticket-changes-and-refunds",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "CS",
@@ -286,7 +309,8 @@
     "shown": 1,
     "delayRepayUrl": "https://www.sleeper.scot/help-support/contact-us/",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "GC",
@@ -298,7 +322,8 @@
     "shown": 1,
     "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add",
     "delayRepayMinTime": 60,
-    "delayRepayMessage": "A minimum delay of 60 minutes applies."
+    "delayRepayMessage": "A minimum delay of 60 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "LF",
@@ -310,7 +335,8 @@
     "shown": 0,
     "delayRepayUrl": "https://compensation.grandcentralrail.com/submission/add",
     "delayRepayMinTime": 60,
-    "delayRepayMessage": "A minimum delay of 60 minutes applies."
+    "delayRepayMessage": "A minimum delay of 60 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "LD",
@@ -322,7 +348,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.lumo.co.uk/",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "ZX",
@@ -334,7 +361,8 @@
     "shown": 0,
     "delayRepayUrl": "https://delayrepay.lumo.co.uk/",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "SX",
@@ -346,7 +374,8 @@
     "shown": 1,
     "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Delay-repay for this operator is handled by Greater Anglia."
+    "delayRepayMessage": "Delay-repay for this operator is handled by Greater Anglia.",
+    "managerDescription": ""
   },
   {
     "code": "ZN",
@@ -358,7 +387,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds. Different rules apply."
+    "delayRepayMessage": "Handled via TfL refunds. Different rules apply.",
+    "managerDescription": ""
   },
   {
     "code": "HT",
@@ -370,7 +400,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.hulltrains.co.uk",
     "delayRepayMinTime": 30,
-    "delayRepayMessage": "A minimum delay of 30 minutes applies."
+    "delayRepayMessage": "A minimum delay of 30 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "LN",
@@ -382,7 +413,8 @@
     "shown": 1,
     "delayRepayUrl": "https://londonnorthwesternrailway.delayrepaycompensation.com/index.cfm?fuseaction=Public.addclaim",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "London Northwestern Railway is currently operated by DfT Operator (DFTO) who will soon form part of the Midlands region of Great British Railways."
   },
   {
     "code": "IL",
@@ -394,7 +426,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.southwesternrailway.com",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Delay-repay for this operator is managed by SWR."
+    "delayRepayMessage": "Delay-repay for this operator is managed by SWR.",
+    "managerDescription": ""
   },
   {
     "code": "WM",
@@ -406,7 +439,8 @@
     "shown": 1,
     "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "West Midlands Railway is currently operated by DfT Operator (DFTO) who will soon form part of the Midlands region of Great British Railways."
   },
   {
     "code": "ZZZ",
@@ -418,7 +452,8 @@
     "shown": 0,
     "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "West Midlands Trains is currently operated by DfT Operator (DFTO) who will soon form part of the Midlands region of Great British Railways."
   },
   {
     "code": "ZZ",
@@ -430,7 +465,8 @@
     "shown": 0,
     "delayRepayUrl": "https://westmidlandsrailway.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": ""
+    "delayRepayMessage": "",
+    "managerDescription": "LNR & WMR are currently operated by DfT Operator (DFTO) who will soon form part of the Midlands region of Great British Railways."
   },
   {
     "code": "ES",
@@ -442,7 +478,8 @@
     "shown": 1,
     "delayRepayUrl": "https://www.eurostar.com/uk-en/travel-info/service-information/claiming-compensation#Train-delayed",
     "delayRepayMinTime": 60,
-    "delayRepayMessage": "A minimum delay of 60 minutes applies."
+    "delayRepayMessage": "A minimum delay of 60 minutes applies.",
+    "managerDescription": ""
   },
   {
     "code": "BK",
@@ -455,7 +492,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "CE",
@@ -468,7 +506,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "CI",
@@ -481,7 +520,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "DI",
@@ -494,7 +534,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "HC",
@@ -507,7 +548,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "HC",
@@ -520,7 +562,8 @@
     "shown": 0,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "JU",
@@ -533,7 +576,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "MT",
@@ -546,7 +590,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "NO",
@@ -559,7 +604,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "PI",
@@ -572,7 +618,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "VI",
@@ -585,7 +632,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "WC",
@@ -598,7 +646,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "DL",
@@ -611,7 +660,8 @@
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Handled via TfL refunds."
+    "delayRepayMessage": "Handled via TfL refunds.",
+    "managerDescription": ""
   },
   {
     "code": "OM",
