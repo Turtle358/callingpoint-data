@@ -179,7 +179,7 @@
     "delayRepayUrl": "https://greateranglia.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
     "delayRepayMessage": "",
-    "managerDescription": "Greater Anglia is currently operated by DfT Operator (DFTO) who will soon form part of the Anglia region of Great British Railways."
+    "managerDescription": "Greater Anglia is currently operated by DfT Operator (DFTO) and will soon form part of the Anglia region of Great British Railways."
   },
   {
     "code": "NT",
@@ -257,7 +257,7 @@
     "delayRepayUrl": "https://c2c.delayrepaycompensation.com/",
     "delayRepayMinTime": 15,
     "delayRepayMessage": "",
-    "managerDescription": "c2c is currently operated by DfT Operator (DFTO) who will soon form part of the Anglia region of Great British Railways."
+    "managerDescription": "c2c is currently operated by DfT Operator (DFTO) and will soon form part of the Anglia region of Great British Railways."
   },
   {
     "code": "LO",
