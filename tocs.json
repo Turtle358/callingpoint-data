@@ -87,8 +87,8 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.gwr.com",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "Great Western Railway is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 13th December 2026.",
-    "managerDescription": ""
+    "delayRepayMessage": "",
+    "managerDescription": "Great Western Railway is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 13th December 2026."
   },
   {
     "code": "VT",
