@@ -87,7 +87,7 @@
     "shown": 1,
     "delayRepayUrl": "https://delayrepay.gwr.com",
     "delayRepayMinTime": 15,
-    "delayRepayMessage": "",
+    "delayRepayMessage": "Great Western Railway is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 13th December 2026.",
     "managerDescription": ""
   },
   {
@@ -101,7 +101,7 @@
     "delayRepayUrl": "https://delayrepay.avantiwestcoast.co.uk",
     "delayRepayMinTime": 15,
     "delayRepayMessage": "",
-    "managerDescription": ""
+    "managerDescription": "Avanti West Coast is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 7th March 2027."
   },
   {
     "code": "GR",
