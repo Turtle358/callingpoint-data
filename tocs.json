@@ -383,7 +383,7 @@
     "name": "Network Rail",
     "colour": "#f07e26",
     "secondary_colour": "#ffffff",
-    "manager": "tfl",
+    "manager": "national",
     "shown": 1,
     "delayRepayUrl": "https://tfl.gov.uk/fares/refunds/apply-for-a-service-delay-refund",
     "delayRepayMinTime": 15,
