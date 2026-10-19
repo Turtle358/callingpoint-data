@@ -379,9 +379,9 @@
   },
   {
     "code": "ZN",
-    "acronym": "LU",
-    "name": "London Underground",
-    "colour": "#0006a1",
+    "acronym": "NR",
+    "name": "Network Rail",
+    "colour": "#f07e26",
     "secondary_colour": "#ffffff",
     "manager": "tfl",
     "shown": 1,
