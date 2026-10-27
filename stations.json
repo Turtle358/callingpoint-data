@@ -741,8 +741,8 @@
   },
   "Balgray": {
     "crs":"BGY",
-    "naptan": "910GBGY1",
-    "type": "scot"
+    "naptan": "9100BALGRAY",
+    "type": "gbr"
   },
   "Balloch": {
     "crs": "BHC",
