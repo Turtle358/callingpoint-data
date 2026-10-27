@@ -742,7 +742,7 @@
   "Balgray": {
     "crs":"BGY",
     "naptan": "9100BALGRAY",
-    "type": "gbr"
+    "type": "scot"
   },
   "Balloch": {
     "crs": "BHC",
@@ -2351,7 +2351,7 @@
   },
   "Cambridge South": {
     "crs": "CMS",
-    "naptan": "9100CAMBSTH",
+    "naptan": "9100CAMBSSP",
     "type": "national"
   },
   "Cambuslang": {
