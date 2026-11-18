@@ -91,6 +91,19 @@
     "managerDescription": "Great Western Railway is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 13th December 2026."
   },
   {
+    "code": "GW",
+    "acronym": "GWR",
+    "name": "GWR",
+    "colour": "#0A493E",
+    "secondary_colour": "#FFFFFF",
+    "manager": "national",
+    "shown": 0,
+    "delayRepayUrl": "https://delayrepay.gwr.com",
+    "delayRepayMinTime": 15,
+    "delayRepayMessage": "",
+    "managerDescription": "Great Western Railway is a National Rail service, operating on the privatised UK railway network. It is expected to be nationalised on the 13th December 2026."
+  },
+  {
     "code": "VT",
     "acronym": "AWC",
     "name": "Avanti West Coast",
