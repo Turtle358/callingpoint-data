@@ -329,6 +329,16 @@
     "naptan": "",
     "type": "eurostar"
   },
+  "Anational": {
+    "crs": "ACT",
+    "naptan": "9100Anational",
+    "type": "national"
+  },
+  "Anationalt-Under-Wychwood": {
+    "crs": "AUW",
+    "naptan": "9100ASCTUWD",
+    "type": "national"
+  },
   "Ancaster": {
     "crs": "ANC",
     "naptan": "9100ANCASTR",
@@ -497,16 +507,6 @@
   "Arundel": {
     "crs": "ARU",
     "naptan": "9100ARUNDEL",
-    "type": "national"
-  },
-  "Anational": {
-    "crs": "ACT",
-    "naptan": "9100Anational",
-    "type": "national"
-  },
-  "Anationalt-Under-Wychwood": {
-    "crs": "AUW",
-    "naptan": "9100ASCTUWD",
     "type": "national"
   },
   "Ash": {
@@ -734,15 +734,15 @@
     "naptan": "9100BALDOCK",
     "type": "national"
   },
+  "Balgray": {
+    "crs": "BGY",
+    "naptan": "9100BALGRAY",
+    "type": "scot"
+  },
   "Balham": {
     "crs": "BAL",
     "naptan": "940GZZLUBLM",
     "type": "national"
-  },
-  "Balgray": {
-    "crs":"BGY",
-    "naptan": "9100BALGRAY",
-    "type": "scot"
   },
   "Balloch": {
     "crs": "BHC",
@@ -1194,6 +1194,11 @@
     "naptan": "9100BNRHYDN",
     "type": "national"
   },
+  "Benational Stadium": {
+    "crs": "BSC",
+    "naptan": "9100BSCTSTA",
+    "type": "national"
+  },
   "Benfleet": {
     "crs": "BEF",
     "naptan": "9100BENFLET",
@@ -1272,11 +1277,6 @@
   "Bescar Lane": {
     "crs": "BES",
     "naptan": "9100BESCRLA",
-    "type": "national"
-  },
-  "Benational Stadium": {
-    "crs": "BSC",
-    "naptan": "9100BSCTSTA",
     "type": "national"
   },
   "Betchworth": {
@@ -1907,6 +1907,11 @@
   "Brinnington": {
     "crs": "BNT",
     "naptan": "9100BRNGTN",
+    "type": "national"
+  },
+  "Bristol Brabazon": {
+    "crs": "BBZ",
+    "naptan": "9100NRHFILT",
     "type": "national"
   },
   "Bristol Parkway": {
@@ -4379,6 +4384,11 @@
     "naptan": "940GZZLUERC",
     "type": "tfl"
   },
+  "Edinburgh": {
+    "crs": "EDB",
+    "naptan": "910GEDINWAV",
+    "type": "national"
+  },
   "Edinburgh Gateway": {
     "crs": "EGY",
     "naptan": "9100EDINGWY",
@@ -4388,11 +4398,6 @@
     "crs": "EDP",
     "naptan": "9100EDINPRK",
     "type": "scot"
-  },
-  "Edinburgh": {
-    "crs": "EDB",
-    "naptan": "910GEDINWAV",
-    "type": "national"
   },
   "Edmonton Green": {
     "crs": "EDR",
@@ -5694,15 +5699,15 @@
     "naptan": "9100HLGN",
     "type": "national"
   },
-  "Hall Road": {
-    "crs": "HLR",
-    "naptan": "9100HALLRD",
-    "type": "merseytravel"
-  },
   "Hall i' th' Wood": {
     "crs": "HID",
     "naptan": "9100HITW",
     "type": "national"
+  },
+  "Hall Road": {
+    "crs": "HLR",
+    "naptan": "9100HALLRD",
+    "type": "merseytravel"
   },
   "Halling": {
     "crs": "HAI",
@@ -6729,14 +6734,14 @@
     "naptan": "9100CSEAH",
     "type": "tfl"
   },
-  "Ince (Greater Manchester)": {
-    "crs": "INC",
-    "naptan": "9100INC",
-    "type": "national"
-  },
   "Ince & Elton": {
     "crs": "INE",
     "naptan": "9100INEL",
+    "type": "national"
+  },
+  "Ince (Greater Manchester)": {
+    "crs": "INC",
+    "naptan": "9100INC",
     "type": "national"
   },
   "Ingatestone": {
@@ -7189,14 +7194,14 @@
     "naptan": "9100KKBY",
     "type": "merseytravel"
   },
-  "Kirkby Stephen": {
-    "crs": "KSW",
-    "naptan": "9100KSTP",
-    "type": "national"
-  },
   "Kirkby in Ashfield": {
     "crs": "KKB",
     "naptan": "9100KRKYCEN",
+    "type": "national"
+  },
+  "Kirkby Stephen": {
+    "crs": "KSW",
+    "naptan": "9100KSTP",
     "type": "national"
   },
   "Kirkby-In-Furness": {
@@ -8954,6 +8959,16 @@
     "naptan": "9100NARBRO",
     "type": "national"
   },
+  "nationalscalder": {
+    "crs": "SCT",
+    "naptan": "9100SCSCLDR",
+    "type": "national"
+  },
+  "nationalstounhill": {
+    "crs": "SCH",
+    "naptan": "9100SCTSTNH",
+    "type": "national"
+  },
   "Navigation Road": {
     "crs": "NVR",
     "naptan": "9100NAVGTNR",
@@ -9194,14 +9209,14 @@
     "naptan": "9100NWTA",
     "type": "national"
   },
-  "Newton St Cyres": {
-    "crs": "NTC",
-    "naptan": "9100NSTCYRE",
-    "type": "national"
-  },
   "Newton for Hyde": {
     "crs": "NWN",
     "naptan": "9100NWTH",
+    "type": "national"
+  },
+  "Newton St Cyres": {
+    "crs": "NTC",
+    "naptan": "9100NSTCYRE",
     "type": "national"
   },
   "Newton-Le-Willows": {
@@ -10544,14 +10559,14 @@
     "naptan": "9100REDRUTH",
     "type": "national"
   },
-  "Reedham (Surrey)": {
-    "crs": "RHM",
-    "naptan": "910GREEDHMS",
-    "type": "national"
-  },
   "Reedham (Norfolk)": {
     "crs": "REE",
     "naptan": "9100RDHAMN",
+    "type": "national"
+  },
+  "Reedham (Surrey)": {
+    "crs": "RHM",
+    "naptan": "910GREEDHMS",
     "type": "national"
   },
   "Regent's Park": {
@@ -11057,16 +11072,6 @@
   "Scarborough": {
     "crs": "SCA",
     "naptan": "9100SCARBRO",
-    "type": "national"
-  },
-  "nationalscalder": {
-    "crs": "SCT",
-    "naptan": "9100SCSCLDR",
-    "type": "national"
-  },
-  "nationalstounhill": {
-    "crs": "SCH",
-    "naptan": "9100SCTSTNH",
     "type": "national"
   },
   "Scunthorpe": {
@@ -12259,6 +12264,11 @@
     "naptan": "9100SDBRYHR",
     "type": "national"
   },
+  "Sudbury (Suffolk)": {
+    "crs": "SUY",
+    "naptan": "910GSUDBURY",
+    "type": "national"
+  },
   "Sudbury Hill": {
     "crs": "",
     "naptan": "940GZZLUSUH",
@@ -12267,11 +12277,6 @@
   "Sudbury Hill Harrow": {
     "crs": "SDH",
     "naptan": "9100SDBRYHH",
-    "type": "national"
-  },
-  "Sudbury (Suffolk)": {
-    "crs": "SUY",
-    "naptan": "910GSUDBURY",
     "type": "national"
   },
   "Sudbury Town": {
@@ -13397,7 +13402,7 @@
   "Wembley Central": {
     "crs": "WMB",
     "naptan": "940GZZLUWYC",
-    "type": "tfk"
+    "type": "tfl"
   },
   "Wembley Park": {
     "crs": "",
