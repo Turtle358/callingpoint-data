@@ -1194,14 +1194,14 @@
     "naptan": "9100BNRHYDN",
     "type": "national"
   },
-  "Benational Stadium": {
-    "crs": "BSC",
-    "naptan": "9100BSCTSTA",
-    "type": "national"
-  },
   "Benfleet": {
     "crs": "BEF",
     "naptan": "9100BENFLET",
+    "type": "national"
+  },
+  "Benscot Stadium": {
+    "crs": "BSC",
+    "naptan": "9100BSCTSTA",
     "type": "national"
   },
   "Bentham": {
@@ -8959,16 +8959,6 @@
     "naptan": "9100NARBRO",
     "type": "national"
   },
-  "nationalscalder": {
-    "crs": "SCT",
-    "naptan": "9100SCSCLDR",
-    "type": "national"
-  },
-  "nationalstounhill": {
-    "crs": "SCH",
-    "naptan": "9100SCTSTNH",
-    "type": "national"
-  },
   "Navigation Road": {
     "crs": "NVR",
     "naptan": "9100NAVGTNR",
@@ -10224,9 +10214,9 @@
     "naptan": "9100PREES",
     "type": "wales"
   },
-  "Prenational": {
+  "Prescot": {
     "crs": "PSC",
-    "naptan": "9100PREnational",
+    "naptan": "9100PRESCOT",
     "type": "national"
   },
   "Prestatyn": {
@@ -11072,6 +11062,16 @@
   "Scarborough": {
     "crs": "SCA",
     "naptan": "9100SCARBRO",
+    "type": "national"
+  },
+  "Scotscalder": {
+    "crs": "SCT",
+    "naptan": "9100SCSCLDR",
+    "type": "national"
+  },
+  "Scotstounhill": {
+    "crs": "SCH",
+    "naptan": "9100SCTSTNH",
     "type": "national"
   },
   "Scunthorpe": {
