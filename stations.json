@@ -329,16 +329,6 @@
     "naptan": "",
     "type": "eurostar"
   },
-  "Anational": {
-    "crs": "ACT",
-    "naptan": "9100Anational",
-    "type": "national"
-  },
-  "Anationalt-Under-Wychwood": {
-    "crs": "AUW",
-    "naptan": "9100ASCTUWD",
-    "type": "national"
-  },
   "Ancaster": {
     "crs": "ANC",
     "naptan": "9100ANCASTR",
@@ -507,6 +497,16 @@
   "Arundel": {
     "crs": "ARU",
     "naptan": "9100ARUNDEL",
+    "type": "national"
+  },
+  "Ascot": {
+    "crs": "ACT",
+    "naptan": "9100ASCOT",
+    "type": "national"
+  },
+  "Ascot-Under-Wychwood": {
+    "crs": "AUW",
+    "naptan": "9100ASCTUWD",
     "type": "national"
   },
   "Ash": {
